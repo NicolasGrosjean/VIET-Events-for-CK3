@@ -1,10 +1,10 @@
 ﻿l_french:
  rule_VIET_events_atmosphere:0 "VIET Events - Atmosphère"
- setting_VIET_balanced_events:0 "Événements équilibrés (par défaut)"
- setting_VIET_balanced_events_desc:0 "La plupart des événements de VIET Events auront lieu, mais les plus stupides qui brisent l'immersion pour certains joueurs sont désactivés. Choisissez cette option pour obtenir le meilleur équilibre entre les événements sérieux et les événements légers."
+ setting_VIET_balanced_events:0 "Équilibrés (par défaut)"
+ setting_VIET_balanced_events_desc:0 "La plupart des événements auront lieu, mais les plus stupides qui brisent l'immersion pour certains joueurs sont désactivés. Choisissez cette option pour obtenir le meilleur équilibre entre les événements sérieux et légers."
  setting_VIET_all_events:0 "#high Tous les Événements#!"
  setting_VIET_all_events_desc:0 "Tous les événements de VIET auront lieu, y compris certains événements humoristiques. Choisissez ceci si vous souhaitez vivre l'expérience complète des événements de VIET."
- setting_VIET_serious_events:0 "#high Événements Sérieux (Restreint)#!"
+ setting_VIET_serious_events:0 "#high Événements Sérieux#!"
  setting_VIET_serious_events_desc:0 "Désactive la plupart des événements légers de VIET. Choisissez cette option si vous ne voulez que les événements sérieux et fondés."
  rule_VIET_universe_setting:0 "Univers de VIET"
  setting_VIET_normal_universe_events:0 "Paramètre par défaut"
