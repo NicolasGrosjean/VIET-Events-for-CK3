@@ -1,6 +1,6 @@
 [img]http://i.imgur.com/OhIA5bm.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.0.1 "Hieronymus Bosch" (Sortie 16 sept. 2020, Compatible avec CK3 v1.0.X)[/h1]
+[h1]Traduction Française de VIET Events v1.0.2 "Ibn Tumart" (Sortie 20 sept. 2020, Compatible avec CK3 v1.0.X)[/h1]
 [B]Voir le [url=https://forum.paradoxplaza.com/forum/threads/mod-viet-events-for-ck3-a-flavor-and-immersion-event-mod.1422081/]sujet sur le forum Paradox[/url] pour plus d'informations[/B]
 [B]Installation manuelle d'une version standalone (VIET + traduction) disponible sur [url=https://github.com/NicolasGrosjean/VIET-Events-for-CK3/releases]Github[/url]
 [/B]
@@ -21,39 +21,38 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]141 nouveaux événements de saveur[/B] et chaînes d'événements, et d'autres seront ajoutées dans les mises à jour au fil du temps
+[*]Plus de [B]184 nouveaux événements de saveur[/B] et chaînes d'événements, et d'autres seront ajoutées dans les mises à jour au fil du temps
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totalte, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
 [*]Apprenez l'histoire grâce aux [B]infobulles Contexte historique[/B] qui fournissent des informations sur ce qui a inspiré certains des événements - parfois, la réalité est plus étrange que la fiction ! (Elles peuvent être désactivées via les règles du jeu pour ceux qui trouvent qu'il y a rupture d'immersion).
 [*]NON compatible avec les succès Steam !
 [/LIST]
 
+[img]https://i.imgur.com/9twioNH.jpg[/img]
+
+Allez voir [url=https://steamcommunity.com/workshop/filedetails/discussion/2227658180/2943622078759317376/]ce sujet de discussions[/url] pour plus d'informations.
+
+Merci !
+
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.0.1 "Hieronymus Bosch"[/h1]
+[h1]Version 1.0.2 "Ibn Tumart"[/h1]
 
-[I]Hieronymus Bosch était un célèbre peintre hollandais du 15ème siècle, surtout connu pour ses représentations vivantes et fantastiques de la vie et de l'enfer. Ses peintures étaient inhabituellement macabres et surréalistes pour l'époque, avec une imagerie terrifiante qui reflétait un homme profondément religieux qui souhaitait exprimer des thèmes moraux et spirituels dans son œuvre.[/I]
+[I]“Je ne deviens pas l'un d'eux en vivant parmi eux ; la terre sablonneuse est la gangue dans laquelle se trouve l'or.”
+
+- Ibn Tumart, fondateur spirituel et politique du mouvement almohade qui a renversé les Almoravides[/I]
 
 [LIST]
-[*]Ajout de 31 nouveaux événements sur les thèmes suivants :
+[*]Ajout de 21 nouveaux événements sur les thèmes suivants :
 [LIST]
-[*]9 sur l'Art
-[*]6 sur le Monde souterrain
-[*]13 sur les Histoires Fantastiques*
-[*]4 sur le Mobilier*
-[*]1 sur la Nourriture*
+[*]9 d'Aventure
+[*]13 de Prophétiie et d'Avenir*
 [/LIST]
-[*]Désactivation de quelques événements si l'on utilise la règle de jeu Sérieux à titre de précaution
-[*]Ajout de plusieurs nouvelles variantes culturelles/régionales pour les nouveaux contextes d'événements
-[*]Quelques toasts (c'est-à-dire les messages de la bannière qui apparaissent après certains événements) seront désormais colorés en rouge (négatif) et vert (positif) selon la situation
-[*]Augmentation très légère les exigences d'apprentissage pour déclencher l'événement Mauvaise Histoire
-[*]Déplacement de quelques événements des on_actions triennales vers les on_actions annuelles
-[*]L'événement de la foire de Scarborough vous fera désormais toujours perdre votre stress
-[*]Correction de la localisation des autres langues ne correspondant pas à la localisation par défaut en anglais pour les règles du jeu
-[*]Correction de la localisation manquante pour les modificateurs d'opinion
-[*]Correction des nuages événement manquant de l'animation du personnage
-[*]Correction du problème de localisation avec le difficile toast de l'événement du livre
-[*]Diverses localisations et corrections de bugs que j'ai oublié d'énumérer ici
+[*]Ajout de la chaîne d'événements "Sentiment du Vent d'Hiver" de l'ancien VIET (23 événements au total)
+[*]Réquilibrage des gains de prestige/pitié légèrement plus élevés qu'auparavant, bien qu'ils restent un peu inférieurs à ceux du jeu de base (la fourchette typique est passée de ~1-20 à ~1-50, la moyenne prévue est passée de ~5-10 à ~10-30).
+[*]Ajout de quelques nouveaux décors d'événements
+[*]Modification du décor de quelques événements pour en faire la taverne, le cas échéant
+[*]Diverses corrections de bugs
 [/LIST]
 
 *Adaptés de VIET for CK2
