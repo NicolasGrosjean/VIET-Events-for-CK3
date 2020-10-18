@@ -1,6 +1,6 @@
 [img]http://i.imgur.com/OhIA5bm.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.1.1 "Al-Tusi" (Sortie 4 octobre 2020, Compatible avec CK3 v1.1.X)[/h1]
+[h1]Traduction Française de VIET Events v1.1.2 "Liber Lapidum" (Sortie 17 octobre 2020, Compatible avec CK3 v1.1.X)[/h1]
 [B]Voir le [url=https://forum.paradoxplaza.com/forum/threads/mod-viet-events-for-ck3-a-flavor-and-immersion-event-mod.1422081/]sujet sur le forum Paradox[/url] pour plus d'informations[/B]
 [B]Installation manuelle d'une version standalone (VIET + traduction) disponible sur [url=https://github.com/NicolasGrosjean/VIET-Events-for-CK3/releases]Github[/url]
 [/B]
@@ -22,7 +22,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]231 nouveaux événements de saveur[/B] et chaînes d'événements, et d'autres seront ajoutées dans les mises à jour au fil du temps
+[*]Plus de [B]266 nouveaux événements de saveur[/B] et chaînes d'événements, et d'autres seront ajoutées dans les mises à jour au fil du temps
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totalte, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
 [*]Apprenez l'histoire grâce aux [B]infobulles Contexte historique[/B] qui fournissent des informations sur ce qui a inspiré certains des événements - parfois, la réalité est plus étrange que la fiction ! (Elles peuvent être désactivées via les règles du jeu pour ceux qui trouvent qu'il y a rupture d'immersion).
@@ -37,20 +37,18 @@ Merci !
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.1.1 "Al-Tusi"[/h1]
+[h1]Version 1.1.2 "Liber Lapidum" [/h1]
 
-[I]Le polymath iranien médiéval al-Tusi a contribué à plusieurs domaines scientifiques, comme le développement de la trigonométrie en tant que discipline mathématique. Il a notamment été l'astronome de cour de Hulegu Khan, petit-fils de Gengis Khan et fondateur de l'Ilkhanate. Sous le patronage de Hulegu, al-Tusi a fondé l'observatoire Maragheh, l'un des plus avancés du monde médiéval, qui employait des astronomes islamiques et chinois.[/I]
+[I]Le Liber Lapidum est l'œuvre la plus célèbre de Marbod de Rennes, un savant français et archidiacre des XIe et XIIe siècles. Il s'agit sans doute du lapidaire médiéval européen le plus diffusé. Les lapidaires sont un genre de livres savants anciens et médiévaux qui traitent des pierres et des gemmes et de leurs qualités physiques et surnaturelles supposées.[/I]
 
 [LIST]
-[*]Ajout de 12 nouveaux événements sur les thèmes suivants :
+[*]Ajout de 35 nouveaux événements sur les thèmes suivants :
 [LIST]
-[*]6 sur les Nombres
-[*]6 sur le Soleil*
+[*]8 sur la Terre
+[*]8 sur les Pierres et Minéraux*
+[*]19 Génériques*
 [/LIST]
-[*]Ajout d'une nouvelle règle de jeu concernant la fréquence des événements liés à VIET (Avertissement : Cela n'affecte que la probabilité - le RNG peut toujours causer du spam d'événement, ou aucun événement ne se déclenche pendant de longues périodes, selon votre chance, alors utilisez avec prudence !)
-[*]Ajout de variations spéciales de localisation pour plusieurs événements de VIET pour les païens scandinaves, crédits à [B]tora75[/B]
-[*]Recalibration de la fréquence des événements pour tenir compte de la nouvelle règle du jeu des fréquences
-[*]Correction d'un événement sur l'oubli d'un rêve qui fait perdre au lieu de gagner du prestige
+[*]Ajout de plusieurs nouvelles variations d'images d'événements culturels
 [*]Diverses corrections de bugs
 [/LIST]
 
