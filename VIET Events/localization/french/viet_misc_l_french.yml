@@ -37,4 +37,3 @@
  setting_VIET_event_frequency_very_low:0 "Très basse"
  setting_VIET_event_frequency_very_low_desc:0 "Les événements de VIET se déclenchent beaucoup moins fréquemment. Il se peut que vous ne voyiez que rarement des événements ! AVERTISSEMENT : En raison du fonctionnement du RNG, il se peut que vous voyiez plusieurs événements à la fois, ou aucun événement pendant de longues périodes, cette règle affecte simplement les chances que les événements se produisent."
  xxxxx:0 "xxxxx"
-
