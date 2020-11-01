@@ -1,6 +1,6 @@
 Traduction française de VIET (https://mods.paradoxplaza.com/mods/12992/Any), veuillez installez VIET également pour y jouer.
 
-Version actuelle : 1.1.2 "Liber Lapidum" (Sortie 17 octobre 2020, Compatible avec CK3 v1.1)
+Version actuelle : 1.1.3 "Zhiguai"  (Sortie 31 octobre 2020, Compatible avec CK3 v1.1)
 
 Very Immersive Events and Tales (VIET), la suite de VIET Events pour CK2, est un mod de saveur qui ajoute une vaste collection d'événements sur la vie quotidienne pour pimenter votre jeu. Ces événements ajoutent de l'immersion et une diversité d'expériences entre les guerres et les chaînes d'événements de Vanilla, et couvrent des détails banals allant de la petite conversation avec des courtisans et de la consommation de cuisine locale à des contes épiques sur l'amour, la philosophie et la condition humaine.
 
