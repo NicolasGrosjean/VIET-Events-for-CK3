@@ -1,6 +1,6 @@
 [img]http://i.imgur.com/OhIA5bm.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.2.0 "Merriment" (Sortie 24 novembre 2020, Compatible avec CK3 v1.2.X)[/h1]
+[h1]Traduction Française de VIET Events v1.2.1 "Dong Son" (Sortie 11 décembre 2020 pur le 8ème anniversaire de VIET, Compatible avec CK3 v1.2.X)[/h1]
 [B]Voir le [url=https://forum.paradoxplaza.com/forum/threads/mod-viet-events-for-ck3-a-flavor-and-immersion-event-mod.1422081/]sujet sur le forum Paradox[/url] pour plus d'informations[/B]
 [B]Installation manuelle d'une version standalone (VIET + traduction) disponible sur [url=https://github.com/NicolasGrosjean/VIET-Events-for-CK3/releases]Github[/url]
 [/B]
@@ -22,7 +22,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]336 nouveaux événements de saveur[/B] et chaînes d'événements, et d'autres seront ajoutées dans les mises à jour au fil du temps
+[*]Plus de [B]363 nouveaux événements de saveur[/B] et chaînes d'événements, et d'autres seront ajoutées dans les mises à jour au fil du temps
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totalte, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
 [*]Apprenez l'histoire grâce aux [B]infobulles Contexte historique[/B] qui fournissent des informations sur ce qui a inspiré certains des événements - parfois, la réalité est plus étrange que la fiction ! (Elles peuvent être désactivées via les règles du jeu pour ceux qui trouvent qu'il y a rupture d'immersion).
@@ -37,23 +37,23 @@ Merci !
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.2.0 "Merriment" [/h1]
+[h1]Version 1.2.1 "Dong Son"[/h1]
 
-[I]"Que personne ne pleure pour moi, ni ne célèbre mes funérailles avec deuil ; car je vis encore, comme je passe et repasse par la bouche des hommes."
-- Quintus Ennius[/I]
+[I]La culture Dong Son est une culture de l'âge du bronze située dans le nord du Vietnam au cours du premier millénaire avant Jésus-Christ, et dont les habitants sont les ancêtres directs probables des Vietnamiens d'aujourd'hui. Leur influence culturelle s'est étendue à toute l'Asie du Sud-Est et ils sont particulièrement habiles dans la fonte du bronze. Ces tambours en bronze et les récits mythologiques de la culture Dong Son ont occupé une place importante dans la culture vietnamienne pendant des siècles. Une importante colonie Dong Son, Co Loa, est devenue plus tard la première capitale de la dynastie Ngo, la première dynastie indépendante du Vietnam après la Chine au 10e siècle de notre ère.[/I]
+
 
 [LIST]
-[*]Mise à jour avec le patch 1.2.0
-[*]Ajout de 10 nouveaux événements sur les thèmes suivants :
+[*]Ajout de 27 nouveaux événements sur les thèmes suivants :
 [LIST]
-[*]5 sur les Célébrations
-[*]5 sur l'Escroquerie*
+[*]18 liés à des traits génériques (les premiers événements jamais codés pour VIET en 2012)*
+[*]9 génériques
 [/LIST]
-[*]Les chaînes d'événements majeurs et les événements rares ne se déclencheront plus pendant les guerres
-[*]Les chaînes d'événements majeurs et les événements rares se déclencheront moins fréquemment
-[*]Tous les événements sont moins susceptibles de se déclencher pendant les guerres
-[*]Déplacement de quelques événements des déclenchements tous les 5 ans aux déclenchements rares
-[*]Chaîne d'événements "Sentiment de Vent d'Hiver" temporairement désactivée pour les personnages féminins et homosexuels (un texte spécial pour les personnages féminins ou homosexuels sera ajouté dans une prochaine mise à jour)
+[*]Ajout de variations textuelles de la chaîne d'événements "Sentiment du Vent d'Hiver" pour les personnages féminins et homosexuels (je ne sais pas trop pourquoi j'ai raté celui-là avant toutes ces années...)
+[*]Ajout de quelques nouveaux contextes d'événements pour les régions ibérique et du bassin du Tarim
+[*]Certains courtisans engendrés par l'événement auront un crochet de fidélité ou de faveur pour le dirigeant de la cour où ils ont été engendrés
+[*]Le noble engendré par l'événement "Ne jamais faire confiance à un bandit" fera partie de la réserve mondiale s'il n'est pas recruté par la court
+[*]Modification de l'événement de la serveuse de Skyrim pour qu'il soit réservé aux hommes, et les options de flirt et de rencontre nocturne ne seront disponibles que pour les hétéros et les bisexuels pour des raisons évidentes
+[*]Diverses corrections de bug
 [/LIST]
 
 
