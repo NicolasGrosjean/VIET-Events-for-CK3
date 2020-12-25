@@ -48,4 +48,11 @@ NOTE: If you are re-installing a mod, delete the old version of the mod first be
 - Reduced the chances of getting the Lord/Lady of the Crows Nickname from the crows event chain
 - Changed bonuses/maluses for beggar orphan event
 - Added prestige boost to the Looks Down on Women modifier
-- Miscellaneous bugfixes
+
+## Squash the translation (gather all commits in one)
+
+- Get the SHA1 of the last commit which is not from translation
+- Run the command
+`git rebase -i <SHA>`
+- Let the first pick and replace all other by `s`for `squash`
+- Push force the branch
