@@ -51,7 +51,7 @@ New events added in this version: **10**
 - Fixed issues with eunuch trait due to recent vanilla changes to eunuchs traits
 - Miscellaneous bugfixes and tweaks
 
-\* Adapted from VIET for CK2
+* Adapted from VIET for CK2
 
 ## Credits
 
@@ -64,3 +64,11 @@ A few other shoutouts in particular:
 - Sleight of Hand for pushing me to get into the CK2 modding scene and for other assistance over the years, which is why I am still here for some reason.
 - tora75 for contributing the Norse unique localizations for several events.
 - Stik, Vertimnus, and Tobbzn on the CK3 Mod Co-op for helping me figure out how to adapt my CK2 province events and do a system for county events for CK3.
+
+## Squash the translation (gather all commits in one)
+
+- Get the SHA1 of the last commit which is not from translation
+- Run the command
+`git rebase -i <SHA>`
+- Let the first pick and replace all other by `s`for `squash`
+- Push force the branch
