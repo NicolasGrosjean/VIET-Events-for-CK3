@@ -1,10 +1,10 @@
 ﻿l_french:
 
  # Special Memories
- VIET_memory_oblivion_dream:0 "dreamt of an epic adventure in another world, where I helped a long-lost Prince defeat an invasion by the forces of [owner.GetFaith.DevilName]"
- VIET_memory_oblivion_dream_desc:0 "I dreamt of an epic adventure in another world, where I helped a long-lost Prince defeat an invasion by the forces of [owner.GetFaith.DevilName]"
- VIET_memory_oblivion_dream_desc_second_perspective:0 "you dreamt of an epic adventure in another world, where you helped a long-lost Prince defeat an invasion by the forces of [owner.GetFaith.DevilName]"
- VIET_memory_oblivion_dream_desc_third_perspective:0 "[owner.GetName] dreamt of an epic adventure in another world, where [owner.GetSheHe] helped a long-lost Prince defeat an invasion by the forces of [owner.GetFaith.DevilName]"
+ VIET_memory_oblivion_dream: "a rêvé d'une aventure épique dans un autre monde, où j'ai aidé un Prince disparu depuis longtemps à vaincre une invasion des forces de [owner.GetFaith.DevilName]."
+ VIET_memory_oblivion_dream_desc: "J'ai rêvé d'une aventure épique dans un autre monde, où j'ai aidé un Prince disparu depuis longtemps à vaincre une invasion par les forces de [owner.GetFaith.DevilName]."
+ VIET_memory_oblivion_dream_desc_second_perspective: "vous avez rêvé d'une aventure épique dans un autre monde, où vous avez aidé un Prince disparu depuis longtemps à vaincre une invasion par les forces de [owner.GetFaith.DevilName]."
+ VIET_memory_oblivion_dream_desc_third_perspective: "[owner.GetName] a rêvé d'une aventure épique dans un autre monde, où [owner.GetSheHe] a aidé un Prince perdu depuis longtemps à vaincre une invasion par les forces de [owner.GetFaith.DevilName]."
 
  # Activity Memories
  VIET_view_flower_meadows_in_bloom_host_memory:0 "viewed some beautiful flowers in bloom"
