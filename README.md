@@ -31,3 +31,11 @@ DO NOT manually download the master branch unless you know what you're doing as 
 4. Enjoy and play!
 
 NOTE: If you are re-installing a mod, delete the old version of the mod first before copy and pasting the new one! While it's not always necessary, it's a good habit to do to prevent any potential issues.
+
+## Squash the translation (gather all commits in one)
+
+- Get the SHA1 of the last commit which is not from translation
+- Run the command
+`git rebase -i <SHA>`
+- Let the first pick and replace all other by `s`for `squash`
+- Push force the branch
