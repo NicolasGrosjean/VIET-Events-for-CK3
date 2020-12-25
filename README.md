@@ -32,6 +32,7 @@ DO NOT manually download the master branch unless you know what you're doing as 
 
 NOTE: If you are re-installing a mod, delete the old version of the mod first before copy and pasting the new one! While it's not always necessary, it's a good habit to do to prevent any potential issues.
 
+
 ## Version 1.4.3 Changelog
 
 - Added mini event chain about the Dreamer (4 events)
@@ -47,3 +48,12 @@ NOTE: If you are re-installing a mod, delete the old version of the mod first be
 - Fixed the length of the permanent eye damage modifier to now be forever for the staring at the sun event
 - Fixed Qi Ma getting pruned (albeit with a wonky workaround)
 - Miscellaneous bugfixes
+
+## Squash the translation (gather all commits in one)
+
+- Get the SHA1 of the last commit which is not from translation
+- Run the command
+`git rebase -i <SHA>`
+- Let the first pick and replace all other by `s`for `squash`
+- Push force the branch
+
