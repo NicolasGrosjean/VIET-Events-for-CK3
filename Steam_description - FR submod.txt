@@ -1,0 +1,83 @@
+[img]https://i.imgur.com/e3qA5i6.jpg[/img]
+
+[h1]Traduction Française de VIET Events v1.4.8 "Animalia" (Sortie 22 janvier 2022, Compatible avec CK3 v1.4.X)[/h1]
+[h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
+[h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
+[h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
+[B][url=https://forum.paradoxplaza.com/forum/threads/mod-viet-events-for-ck3-a-flavor-and-immersion-event-mod.1422081/]Sujet sur le forum Paradox[/url][/B]
+[B]Installation manuelle d'une version standalone (VIET + traduction) disponible sur [url=https://github.com/NicolasGrosjean/VIET-Events-for-CK3/releases]Github[/url][/B]
+[B]Installation via Paradox Mods disponible [url=https://mods.paradoxplaza.com/mods/14549/Any]ici[/url][/B]
+[B][url=https://imgur.com/a/TIePH1f]Voir toutes les captures d'écran ici[/url][/B]
+
+Very Immersive Events and Tales (VIET), la suite de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1601402546]VIET Events Reborn for CK2[/url], est un mod de saveurs qui ajoute une vaste collection d'événements sur la vie quotidienne pour pimenter votre jeu. Ils ajoutent de l'immersion et une diversité d'expériences entre les guerres et les chaînes d'événements de la vanille, et couvrent des minuties mondaines, de la petite conversation avec les courtisans et la cuisine locale aux histoires épiques sur l'amour, la philosophie et la condition humaine. Certains incluent de nouvelles décisions, des interactions entre personnages, des activités et bien d'autres choses à explorer ! Cybrxkhan espère que les leçons qu'il a tirées de ses huit années (avec un hiatus) de modding de CK2 l'aideront à offrir une expérience amusante à tous les joueurs intéressés par ses mods.
+
+Faites-lui savoir si vous rencontrez des bugs. [B]Il espère continuer à ajouter de plus en plus d'événements à chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST PAS COMPATIBLE AVEC LES SUCCES ![/U][/B]
+
+Comme il s'agit de la première version de VIET, il est ouvert à tous les commentaires - il est encore en train de passer de la version CK2 à la version CK3. N'hésitez pas à lui faire savoir si vous rencontrez des bugs, ou si vous pensez que les événements se produisent trop souvent ou pas assez souvent. Bien que les événements puissent devenir répétitifs si vous jouez assez longtemps car il n'en a pas encore ajouté beaucoup, [B]il espère continuer à ajouter de plus en plus d'événements dans chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST COMPATIBLE AVEC LES SUCCES STEAM ![/U][/B]
+
+[B][U]VIET [I]FONCTIONNE[/I] SUR DES SAUVEGARDES EXISTANTES ![/U][/B] (Mais n'oubliez pas de faire une copie de votre sauvegarde auparavant, au cas où.)
+
+N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il demande, c'est d'être crédité et (si possible) de le prévenir. Et si vous avez aimé le mod, n'hésitez pas à le mettre en favori et à l'évaluer ! 
+
+[img]http://i.imgur.com/FaFtOmm.gif[/img]
+
+[img]http://i.imgur.com/EyXurbK.jpg[/img]
+
+[LIST]
+[*]Plus de [B]728 nouveaux événements de saveur[/B] à expérimenter
+[*]Explorez de nouvelles décisions, interactions entre personnages, activités et chaînes d'événements.
+[*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
+[*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
+[*]Apprenez l'histoire grâce aux [B]infobulles Contexte historique[/B] qui fournissent des informations sur ce qui a inspiré certains des événements - parfois, la réalité est plus étrange que la fiction ! (Elles peuvent être désactivées via les règles du jeu pour ceux qui trouvent qu'il y a rupture d'immersion).
+[/LIST]
+
+[img]https://i.imgur.com/9twioNH.jpg[/img]
+
+Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site de mes mods[/url] pour plus d'information.
+
+[img]http://i.imgur.com/RQ5QZTF.jpg[/img]
+
+[h1]Version 1.4.8 "Animalia"[/h1]
+
+
+[I]"J'ai de la tendresse pour les créatures sans pieds ; pour celles qui ont deux pieds, j'ai de la tendresse. J'ai de l'affection pour ceux qui ont quatre pieds ; j'ai de l'affection pour ceux qui ont beaucoup de pieds. Que tous les êtres, tous les êtres vivants, toutes les créatures, chacun d'entre eux, rencontrent la bonne fortune ; que rien de mauvais n'arrive à personne."
+
+- Anguttara Nikaya 4:67 (partie du Canon Pali du bouddhisme theravada)[/I]
+
+[LIST]
+[*]Ajout de 46 nouveaux événements sur les animaux
+[*]Ajout de 3 nouvelles décisions:
+[LIST]
+[*]Achat d'Ânes Fiables
+[*]Construire plus de Pigeonniers sur la Résidence
+[*]Écouter les Oiseaux Chanteurs Sauvages
+[/LIST]
+[*]Ajout de nouveaux arrière-plans d'événements pour la région indienne
+[*]Diverses corrections de bug
+[/LIST]
+
+[img]https://i.imgur.com/6L11s2n.jpg[/img]
+
+[LIST]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2273832430][B]Regional Immersion and Cultural Enrichment (RICE)[/B][/url] - un mod de saveur culturelle pour les régions moins connues et obscures, sur le modèle des packs de saveurs de Paradox
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2217770052]In Taberna (CK2 Edition)[/url] - la chanson classique de CK2 revient à CK3
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2218667128]Recruit Courtiers[/url] - la simple décision d'engendrer des courtisans ou des courtisanes dans votre cour pour un prix modique, semblable à celui du CK2
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2219643991]Reduced Injuries and Deaths from Battles[/url] - si vous en avez assez que les gens tombent comme des mouches dans les batailles
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2629092890]Rename Tribal Era to Late Antiquity[/url]
+[/LIST]
+
+[img]http://i.imgur.com/GlNXL7m.jpg[/img]
+
+Merci aux équipes de WTWSMS (en particulier IhateTrains et Loup99) et Lux Invicta (y compris tsf4), ainsi qu'à M@ni@c, créateur de Hide Your Jewelry, pour avoir maintenu et amélioré VIET sur CK2 au fil des ans, ce qui m'a fourni une base solide pour un meilleur redémarrage de VIET Events.
+
+Des crédits également pour OrdepNM, qui était mon partenaire dans le crime au début de VIET sur CK2 et qui a contribué à le maintenir alors que j'avais de sérieux problèmes médicaux il y a des années.
+
+Merci tout particulièrement à Sleight of Hand de m'avoir poussé à me lancer dans le modding de CK2 et de m'avoir aidé au fil des ans, ce qui explique pourquoi je suis toujours là pour une raison quelconque.
+
+Merci à tora75 d'avoir fourni les localisations uniques des Nordiques pour plusieurs événements.
+
+Merci à Stik, Vertimnus et Tobbzn de CK3 Mod Co-op pour m'avoir aidé à trouver comment adapter mes événements provinciaux de CK2 et faire un système d'événements de comté pour CK3.
+
+Merci à toutes les personnes avec qui j'ai travaillé, qui ont pris des choses au fil des ans, et qui m'ont encouragé et donné leur avis.
+
+La traduction française a été réalisée par Mouchi mais a repris des traductions réalisées par Loup99 et Domper59 pour la version CK2.
