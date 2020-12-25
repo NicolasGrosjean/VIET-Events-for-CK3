@@ -56,7 +56,7 @@ New events added in this version: **25**
 - Various miscellaneous tweaks to artifact events (mostly courtesy of DPh Kraken)
 - Miscellaneous bugfixes
 
-\* Adapted from VIET for CK2
+* Adapted from VIET for CK2
 
 ## Credits
 
@@ -70,5 +70,17 @@ A few other shoutouts in particular:
 - tora75 for contributing the Norse unique localizations for several events.
 - Stik, Vertimnus, and Tobbzn on the CK3 Mod Co-op for helping me figure out how to adapt my CK2 province events and do a system for county events for CK3.
 
+## Update from upstream
 
+```bash
+git fetch upstream
+git rebase upstream/master
+```
 
+## Squash the translation (gather all commits in one)
+
+- Get the SHA1 of the last commit which is not from translation
+- Run the command
+`git rebase -i <SHA>`
+- Let the first pick and replace all other by `s`for `squash`
+- Push force the branch
