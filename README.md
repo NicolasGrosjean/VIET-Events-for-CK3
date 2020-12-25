@@ -47,3 +47,11 @@ NOTE: If you are re-installing a mod, delete the old version of the mod first be
 - Changed a few modifiers’ prestige/piety/dread/tax bonuses or maluses from being additive to being multipliers
 - Fixed the Dreamer’s parents causing errors in error log because they were too old
 - Miscellaneous bugfixes
+
+## Squash the translation (gather all commits in one)
+
+- Get the SHA1 of the last commit which is not from translation
+- Run the command
+`git rebase -i <SHA>`
+- Let the first pick and replace all other by `s`for `squash`
+- Push force the branch
