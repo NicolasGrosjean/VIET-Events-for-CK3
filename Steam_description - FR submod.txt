@@ -37,16 +37,20 @@ Merci !
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.3.1 "Osman"[/h1]
+[h1]Version 1.3.2 "De Amicitia"[/h1]
 
-[I]Osman Ier était un seigneur turc d'Anatolie du XIVe siècle, et le fondateur de la dynastie ottomane. Une grande partie de sa vie est entourée de mythes et de légendes. L'État qu'il a fondé a fini par dominer une grande partie de l'Europe et du Moyen-Orient, et a perduré sous une forme ou une autre jusqu'à peu après la Première Guerre Mondiale.[/I]
+[I]"Dans le visage d'un véritable ami, l'homme voit, en quelque sorte, un second moi."
+
+Cicéron dans son traité sur l'amitié, De Amicitia[/I]
 
 [LIST]
-[*]Ajout de 27 événements :
+[*]Ajout de 15 événements :
 [LIST]
-[*]22 génériques*
-[*]5 nouveaux
+[*]11 génériques*
+[*]4 inspirés de dialogues d'Oblivion
 [/LIST]
+[*]Quelques événements augmentent maintenant la possibilité de devenir amis ou rivaux, tout comme certains événements de la vanille.
+[*]L'événement \"Servante au travail\" améliore désormais le trait de votre physicien, si vous en avez un, et affiche correctement les déclencheurs des options du physicien.
 [*]Diverses corrections de bug
 [/LIST]
 
