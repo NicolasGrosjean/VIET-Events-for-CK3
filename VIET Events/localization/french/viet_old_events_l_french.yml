@@ -1766,7 +1766,7 @@
  VIETold.2156.c:0 "Ce que mon cuisinier préfère"
  VIETold.2156.d:0 "Je veux m'abstenir d'œufs pendant un moment."
  VIETold.2157.t:0 "Marin à la Retraite"
- VIETold.2157.desc:0 "J'assiste à un bal quand je rencontre un type très intéressant ! Il se présente comme \"un vieux capitaine de mer et vagabond, maintenant armateur et gros marchand\". Gai et cordial, il me donne quelques conseils : \"Descends à la mer, reste un moment. Regarde le soleil se lever et se coucher. Pense aux terres lointaines de l'autre côté de l'eau\.""
+ VIETold.2157.desc:0 "J'assiste à un bal quand je rencontre un type très intéressant ! Il se présente comme \"un vieux capitaine de mer et vagabond, maintenant armateur et gros marchand\". Gai et cordial, il me donne quelques conseils : \"Descends à la mer, reste un moment. Regarde le soleil se lever et se coucher. Pense aux terres lointaines de l'autre côté de l'eau.\""
  VIETold.2157.a:0 "L'homme est sympathique, et nous finissons par parler pendant un bon moment."
  VIETold.2158.t:0 "Atchoum !"
  VIETold.2158.desc:0 "Alors que j'étais en train de réviser des documents, la poussière a dû atteindre mon nez et j'ai éternué ! Selon la superstition [ROOT.Char.GetCulture.GetName], si l'on éternue en plein travail, c'est un mauvais présage et il faut interrompre le flux de travail - par exemple en s'arrêtant pour boire de l'eau - pour éviter tout malheur."
