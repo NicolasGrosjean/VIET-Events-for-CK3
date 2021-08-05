@@ -1,6 +1,6 @@
 [img]http://i.imgur.com/OhIA5bm.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.3.4 "Arboretum" (Sortie 15 mai 2021, Compatible avec CK3 v1.3.X)[/h1]
+[h1]Traduction Française de VIET Events v1.4.1 "Décisions" (Sortie 30 juillet 2021, Compatible avec CK3 v1.4.X)[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [B][url=https://forum.paradoxplaza.com/forum/threads/mod-viet-events-for-ck3-a-flavor-and-immersion-event-mod.1422081/]Sujet sur le forum Paradox[/url][/B]
 [B]Installation manuelle d'une version standalone (VIET + traduction) disponible sur [url=https://github.com/NicolasGrosjean/VIET-Events-for-CK3/releases]Github[/url][/B]
@@ -11,7 +11,7 @@ Very Immersive Events and Tales (VIET), la suite de [url=https://steamcommunity.
 
 Parallèlement à de nombreux nouveaux événements, cybrxkhan a l'intention d'adapter autant que possible de nombreux événements de l'ancien VIET de CK2. Cybrxkhan espère que les leçons qu'il a tirées de ses huit années (avec un break) de modding sur CK2 l'aideront à offrir une expérience amusante à tous les joueurs intéressés par ses mods.
 
-Comme il s'agit de la première version de VIET, il est ouvert à tous les commentaires - il est encore en train de passer de la version CK2 à la version CK3. N'hésitez pas à lui faire savoir si vous rencontrez des bugs, ou si vous pensez que les événements se produisent trop souvent ou pas assez souvent. Bien que les événements puissent devenir répétitifs si vous jouez assez longtemps car il n'en a pas encore ajouté beaucoup (ce qui est similaire à ce qui se passe avec le jeu CK3 de base de toute façon), [B] il espère continuer à ajouter de plus en plus d'événements à chaque mise à jour ! [/B]
+Comme il s'agit de la première version de VIET, il est ouvert à tous les commentaires - il est encore en train de passer de la version CK2 à la version CK3. N'hésitez pas à lui faire savoir si vous rencontrez des bugs, ou si vous pensez que les événements se produisent trop souvent ou pas assez souvent. Bien que les événements puissent devenir répétitifs si vous jouez assez longtemps car il n'en a pas encore ajouté beaucoup, [B]il espère continuer à ajouter de plus en plus d'événements dans chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST COMPATIBLE AVEC LES SUCCES STEAM ![/U][/B]
 
 [B][U]VIET [I]FONCTIONNE[/I] SUR DES SAUVEGARDES EXISTANTES ![/U][/B] (Mais n'oubliez pas de faire une copie de votre sauvegarde auparavant, au cas où.)
 
@@ -23,11 +23,11 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]454 nouveaux événements de saveur[/B] et chaînes d'événements, et d'autres seront ajoutées dans les mises à jour au fil du temps
+[*]Plus de [B]528 nouveaux événements de saveur[/B] à expérimenter
+[*]Explorez de nouvelles décisions, interactions entre personnages et chaînes d'événements.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totalte, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
 [*]Apprenez l'histoire grâce aux [B]infobulles Contexte historique[/B] qui fournissent des informations sur ce qui a inspiré certains des événements - parfois, la réalité est plus étrange que la fiction ! (Elles peuvent être désactivées via les règles du jeu pour ceux qui trouvent qu'il y a rupture d'immersion).
-[*]NON compatible avec les succès Steam !
 [/LIST]
 
 [img]https://i.imgur.com/9twioNH.jpg[/img]
@@ -38,22 +38,41 @@ Merci !
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.3.4 "Arboretum"[/h1]
+[h1]Version 1.4.1 "Décisions"[/h1]
 
-[I]"Si vous avez un jardin dans votre bibliothèque, tout sera complet."
-- Cicéron, lettre à Varro[/I]
+[I]"Le caractère d'un homme est son destin".
+- Héraclite (vers 500 avant J.-C.), philosophe grec présocratique.[/I]
 
 [LIST]
-[*]Ajout de 10 événements :
+[*]Ajout de 74 événements avec les thèmes suivants :
 [LIST]
-[*]3 sur les Brocolis*
-[*]3 sur les Feuilles
-[*]4 sur les Baies
+[*]67 événéments à travers 9 chaînes d'événements liées aux décisions
+[*]7 génériques*
 [/LIST]
-[*]Ajout de plusieurs nouvelles variantes nord-européennes/britanniques pour certains arrière-plans d'événements.
-[*]Le rêve de l'événement de la Première Guerre mondiale a une chance de changer certains de vos traits maintenant.
-[*]Correction de plusieurs événements ajoutés dans la version 1.3.3 qui ne sont pas déclenchés par les on_actions.
+[*]Ajout de 10 nouvelles décisions si vous rencontrez l'un des nouveaux événements:
+[LIST]
+[*]Visite d'un Célèbre Pâtissier
+[*]Visite d'un Célèbre Marchand d'Épices
+[*]Exorciser un Fantôme qui Vous Suit
+[*]Boire le Vin de l'Ombre
+[*]Détruire le Vin de l'Ombre
+[*]Déverrouiller un Coffre Mystérieux
+[*]Engager un Mercenaire Érudit
+[*]Sauvez vos Serviteurs Enlevés
+[*]Rencontre avec Qi Ma le Menteur
+[/LIST]
+[*]Ajout de 2 intéraction de personnages basées sur les chaînes d'événements des décisions :
+[LIST]
+[*]Cadeau de Pâtisseries Spéciales
+[*]Cadeau de Mélange d'Épices Spécial
+[/LIST]
+[*]Ajout d'un nouveau concept de jeu : Qi Ma le Menteur
+[*]Ajout de quelques nouvelles variantes culturelles pour l'arrière-plan de l'événement "petite ville"
+[*]Légère diminution de la fréquence des événements dans l'ensemble
+[*]Les bonus d'opinion de comté provenant des modificateurs ont été modifiés pour être plus variés et plus granulaires
+[*]L'événement concernant la prophétie de Gengis Khan par une voyante a beaucoup moins de chances de se déclencher en Afrique occidentale et centrale
 [*]Diverses corrections de bug
+
 [/LIST]
 
 *Adaptés de VIET for CK2
