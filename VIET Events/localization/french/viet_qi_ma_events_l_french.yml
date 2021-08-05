@@ -7,7 +7,7 @@
  VIETmonogatari.0001.t:0 "Qi Ma le Menteur arrive"
  VIETmonogatari.0001.desc:0 "J'ai entendu dire qu'un voyageur des plus inhabituels était arrivé dans la région. Il est connu sous le nom de Qi Ma le Menteur, et beaucoup prétendent qu'il possède une sagesse inégalée, inégalable, même si certains de ses conseils font souvent référence à des sujets bizarres ou n'ont pas beaucoup de sens. Curieusement, bien que beaucoup prétendent qu'il est immensément célèbre, je n'ai jamais entendu parler de lui auparavant.\n\nPourtant, étant donné qu'il est connu pour sa perspicacité, je devrais peut-être lui rendre visite un jour. Qui sait de quels sujets profonds et intellectuels nous pourrions discuter ? Même si c'est un fou, je pourrais peut-être apprendre une chose ou deux. Mais il y a aussi ceux qui disent que je ne devrais pas m'associer à ceux qui parlent de choses étranges."
  VIETmonogatari.0001.a:0 "Je vais y réfléchir."
- VIETmonogatari.0001.tooltip:0 "Tant que vous disposerez du [character_modifier|E], #VQi Ma le Menteur est à Proximité#!, vous aurez accès à une [decision|E] pour #Vrencontrer#! [qi_ma_the_liar|E]. Si vous souhaitez lui demander conseil, faites-le dès que possible : il ne restera pas éternellement en ville et partira tôt ou tard ailleurs."
+ VIETmonogatari.0001.tooltip:0 "Tant que vous disposerez du [character_modifier|E], #V Qi Ma le Menteur est à Proximité#!, vous aurez accès à une [decision|E] pour #V rencontrer#! [qi_ma_the_liar|E]. Si vous souhaitez lui demander conseil, faites-le dès que possible : il ne restera pas éternellement en ville et partira tôt ou tard ailleurs."
  VIETmonogatari.0002.t:0 "xxxxx"
  VIETmonogatari.0002.desc:0 "xxxxx"
  VIETmonogatari.0002.a:0 "xxxxx"
