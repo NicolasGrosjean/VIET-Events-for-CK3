@@ -1,6 +1,6 @@
 [img]http://i.imgur.com/OhIA5bm.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.4.1 "Décisions" (Sortie 30 juillet 2021, Compatible avec CK3 v1.4.X)[/h1]
+[h1]Traduction Française de VIET Events v1.4.2 "Vạn Tuế" (Sortie 8 août 2021, Compatible avec CK3 v1.4.X)[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [B][url=https://forum.paradoxplaza.com/forum/threads/mod-viet-events-for-ck3-a-flavor-and-immersion-event-mod.1422081/]Sujet sur le forum Paradox[/url][/B]
 [B]Installation manuelle d'une version standalone (VIET + traduction) disponible sur [url=https://github.com/NicolasGrosjean/VIET-Events-for-CK3/releases]Github[/url][/B]
@@ -23,7 +23,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]528 nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B]543 nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, interactions entre personnages et chaînes d'événements.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -38,39 +38,21 @@ Merci !
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.4.1 "Décisions"[/h1]
+[h1]Version 1.4.2 "Vạn Tuế"[/h1]
 
-[I]"Le caractère d'un homme est son destin".
-- Héraclite (vers 500 avant J.-C.), philosophe grec présocratique.[/I]
+[I]"Vạn Tuế" l'équivalent vietnamien du Wansui chinois, du Banzai japonais et du Manse coréen (écrit en 萬歲 en caractères chinois traditionnels), se traduit par dix mille ans et est utilisé dans des contextes archaïques pour souhaiter une longue vie, notamment à un monarque, bien que dans certains pays asiatiques modernes, il soit utilisé pour exprimer un sentiment de triomphe.
+
+Cette mise à jour est destinée à commémorer le passage de VIET à 100 000 abonnés sur le Steam Workshop, presque un an après la sortie initiale. Merci à tous pour votre soutien continu, cela signifie beaucoup ! Mon modwork CK3 a été un moyen inhabituel mais amusant pour moi de m'engager dans l'écriture créative, et j'espère continuer à ajouter encore plus de contenu à l'avenir.[/I]
 
 [LIST]
-[*]Ajout de 74 événements avec les thèmes suivants :
+[*]Ajout de 15 événements avec les thèmes suivants :
 [LIST]
-[*]67 événements à travers 9 chaînes d'événements liées aux décisions
-[*]7 génériques*
+[*]10 à propose du nombre 100
+[*]5 rumeurs sur Qi Ma le Menteur
 [/LIST]
-[*]Ajout de 10 nouvelles décisions si vous rencontrez l'un des nouveaux événements:
-[LIST]
-[*]Visite d'un Célèbre Pâtissier
-[*]Visite d'un Célèbre Marchand d'Épices
-[*]Exorciser un Fantôme qui Vous Suit
-[*]Boire le Vin de l'Ombre
-[*]Détruire le Vin de l'Ombre
-[*]Déverrouiller un Coffre Mystérieux
-[*]Engager un Mercenaire Érudit
-[*]Sauvez vos Serviteurs Enlevés
-[*]Rencontre avec Qi Ma le Menteur
-[/LIST]
-[*]Ajout de 2 intéraction de personnages basées sur les chaînes d'événements des décisions :
-[LIST]
-[*]Cadeau de Pâtisseries Spéciales
-[*]Cadeau de Mélange d'Épices Spécial
-[/LIST]
-[*]Ajout d'un nouveau concept de jeu : Qi Ma le Menteur
-[*]Ajout de quelques nouvelles variantes culturelles pour l'arrière-plan de l'événement "petite ville"
-[*]Légère diminution de la fréquence des événements dans l'ensemble
-[*]Les bonus d'opinion de comté provenant des modificateurs ont été modifiés pour être plus variés et plus granulaires
-[*]L'événement concernant la prophétie de Gengis Khan par une voyante a beaucoup moins de chances de se déclencher en Afrique occidentale et centrale
+[*]Ajout de 2 nouveaux résultats potentiels pour la décision "Déverrouiller le Coffre au Trésor".
+[*]Ajout du père de Qi Ma, et du père de son père, dans les fichiers d'historique.
+[*]La chaîne d'événements Qi Ma n'apparaîtra plus pour les mods de conversion totale (pour le moment).
 [*]Diverses corrections de bug
 [/LIST]
 
