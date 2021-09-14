@@ -49,7 +49,19 @@
  VIET_decision_meet_qi_ma_the_liar_effect_tooltip:0 "Vous gagnez une certaine compréhension de l'univers grâce à [qi_ma_the_liar|E]."
  VIET_decision_meet_qi_ma_the_liar_desc:0 "Bien que le célèbre mais mystérieux voyageur [qi_ma|E] soit étrange, sinon fou, je devrais lui demander conseil avant qu'il ne parte pour des régions inconnues."
  VIET_decision_meet_qi_ma_the_liar_confirm:0 "A-t-il des nouvelles des autres provinces ?"
- VIET_decision_meet_qi_ma_the_liar_context_tooltip:0 "#emphasis Contexte Historique :#! Qi Ma sait beaucoup de choses, et en raconte quelques-unes, et il sait beaucoup de choses que d'autres ne savent pas - certaines vérifiées par des faits réels ...."
+ VIET_decision_meet_qi_ma_the_liar_context_tooltip:0 "#emphasis Contexte Historique :#! Qi Ma sait beaucoup de choses, et en raconte quelques-unes, et il sait beaucoup de choses que d'autres ne savent pas - certaines vérifiées par des faits réels."
+ VIET_decision_deal_with_crows:0 "Traiter avec le Meurtre des Corbeaux"
+ VIET_decision_deal_with_crows_tooltip:0 "Vous attirez beaucoup de corbeaux en ce moment."
+ VIET_decision_deal_with_crows_effect_tooltip:0 "Vous choisissez comment gérer les corbeaux qui vous suivent ces derniers temps."
+ VIET_decision_deal_with_crows_desc:0 "Un grand nombre de corbeaux apparaissent partout où je vais ces derniers temps. Des rumeurs se répandent sur les raisons de ce phénomène, et elles ne sont pas forcément bonnes. Je dois m'occuper de ça d'une manière ou d'une autre."
+ VIET_decision_deal_with_crows_confirm:0 "Il faut s'occuper des corbeaux."
+ VIET_decision_deal_with_crows_context_tooltip:0 "#emphasis Contexte Historiques :#! Oiseaux de #italic Corvus#! genus, connus sous le nom de corbeaux ou de corneilles, font partie intégrante du folklore et des croyances religieuses du monde entier. Dans de nombreuses cultures, ils sont considérés comme des signes avant-coureurs de malheurs et des symboles de malheur et de mort, bien que dans certains endroits ou contextes, ils soient considérés de manière plus ambiguë comme des filous ou des psychopompes. Ils sont connus pour leur intelligence et leur excellente mémoire. La distinction entre corbeaux et corneilles est quelque peu incohérente, mais en général, les corbeaux sont plus petits que les corneilles."
+ VIET_decision_feed_the_crows:0 "Nourrir les Corbeaux"
+ VIET_decision_feed_the_crows_tooltip:0 "Nourrissez les corbeaux la prochaine fois qu'ils vous rendront visite."
+ VIET_decision_feed_the_crows_desc:0 "Je veux aller dans mon jardin et nourrir mes amis, les corbeaux. Ils apprécieront sans doute mon geste."
+ VIET_decision_feed_the_crows_effect_tooltip:0 "Vous perdrez un peu de [stress|E] et gagnerez un peu de [dread|E]"
+ VIET_decision_feed_the_crows_confirm:0 "Où est mon sac de nourriture pour corbeaux ?"
+ VIET_decision_feed_the_crows_context_tooltip:0 "#emphasis Contexte Historiques :#! Oiseaux de #italic Corvus#! genus, connus sous le nom de corbeaux ou de corneilles, font partie intégrante du folklore et des croyances religieuses du monde entier. Dans de nombreuses cultures, ils sont considérés comme des signes avant-coureurs de malheurs et des symboles de malheur et de mort, bien que dans certains endroits ou contextes, ils soient considérés de manière plus ambiguë comme des filous ou des psychopompes. Ils sont connus pour leur intelligence et leur excellente mémoire. La distinction entre corbeaux et corneilles est quelque peu incohérente, mais en général, les corbeaux sont plus petits que les corneilles."
  
  # Character Interactions
  VIET_gift_baklava:0 "Cadeau de Pâtisseries Spéciales"
@@ -60,8 +72,8 @@
  VIET_gift_spices_effect_tooltip:0 "[recipient.GetShortUINameNoTooltip] recevra un [character_modifier|E] spécial représentant le #V Mélange de Cinq Épices#!"
  
  # Character Interactions
- activity_VIET_crow_appeasement:0 "Crow Appeasement"
- activity_VIET_crow_appeasement_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Crow Appeasement"
- activity_VIET_crow_removal:0 "Crow Removal"
- activity_VIET_crow_removal_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Crow Removal"
+ activity_VIET_crow_appeasement:0 "Apaisement des Corbeaux"
+ activity_VIET_crow_appeasement_name:0 "Apaisement de mes Corbeaux"
+ activity_VIET_crow_removal:0 "Retrait des Corbeaux"
+ activity_VIET_crow_removal_name:0 "Retrait de mes Corbeaux"
  activity_VIET_xxxxx:0 "xxxxx"

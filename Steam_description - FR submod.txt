@@ -1,15 +1,15 @@
 [img]http://i.imgur.com/OhIA5bm.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.4.2 "Vạn Tuế" (Sortie 8 août 2021, Compatible avec CK3 v1.4.X)[/h1]
+[h1]Traduction Française de VIET Events v1.4.3 "Zhuazhou" (Sortie 13 septembre 2021, Compatible avec CK3 v1.4.X)[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [B][url=https://forum.paradoxplaza.com/forum/threads/mod-viet-events-for-ck3-a-flavor-and-immersion-event-mod.1422081/]Sujet sur le forum Paradox[/url][/B]
 [B]Installation manuelle d'une version standalone (VIET + traduction) disponible sur [url=https://github.com/NicolasGrosjean/VIET-Events-for-CK3/releases]Github[/url][/B]
 [B]Installation via Paradox Mods disponible [url=https://mods.paradoxplaza.com/mods/12992/Any]ici[/url][/B]
 [B][url=https://imgur.com/a/TIePH1f]Voir toutes les captures d'écran ici[/url][/B]
 
-Very Immersive Events and Tales (VIET), la suite de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1601402546]VIET Events Reborn for CK2[/url], est un mod de saveurs qui ajoute une vaste collection d'événements sur la vie quotidienne pour pimenter votre jeu. Ces événements ajoutent une immersion et une diversité d'expériences entre les guerres et les chaînes d'événements du jeu de base, et couvrent des détails banals allant de la petite conversation avec des courtisans et de la dégustation de la cuisine locale à des contes épiques sur l'amour, la philosophie et la condition humaine.
+Very Immersive Events and Tales (VIET), la suite de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1601402546]VIET Events Reborn for CK2[/url], est un mod de saveurs qui ajoute une vaste collection d'événements sur la vie quotidienne pour pimenter votre jeu. Ils ajoutent de l'immersion et une diversité d'expériences entre les guerres et les chaînes d'événements de la vanille, et couvrent des minuties mondaines, de la petite conversation avec les courtisans et la cuisine locale aux histoires épiques sur l'amour, la philosophie et la condition humaine. Cybrxkhan espère que les leçons qu'il a tirées de ses huit années (avec un hiatus) de modding de CK2 l'aideront à offrir une expérience amusante à tous les joueurs intéressés par ses mods.
 
-Parallèlement à de nombreux nouveaux événements, cybrxkhan a l'intention d'adapter autant que possible de nombreux événements de l'ancien VIET de CK2. Cybrxkhan espère que les leçons qu'il a tirées de ses huit années (avec un break) de modding sur CK2 l'aideront à offrir une expérience amusante à tous les joueurs intéressés par ses mods.
+Faites-lui savoir si vous rencontrez des bugs. [B]Il espère continuer à ajouter de plus en plus d'événements à chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST PAS COMPATIBLE AVEC LES SUCCES ![/U][/B]
 
 Comme il s'agit de la première version de VIET, il est ouvert à tous les commentaires - il est encore en train de passer de la version CK2 à la version CK3. N'hésitez pas à lui faire savoir si vous rencontrez des bugs, ou si vous pensez que les événements se produisent trop souvent ou pas assez souvent. Bien que les événements puissent devenir répétitifs si vous jouez assez longtemps car il n'en a pas encore ajouté beaucoup, [B]il espère continuer à ajouter de plus en plus d'événements dans chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST COMPATIBLE AVEC LES SUCCES STEAM ![/U][/B]
 
@@ -23,7 +23,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]543 nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B]567 nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, interactions entre personnages et chaînes d'événements.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -38,21 +38,27 @@ Merci !
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.4.2 "Vạn Tuế"[/h1]
+[h1]Version 1.4.3 "Zhuazhou"[/h1]
 
-[I]"Vạn Tuế" l'équivalent vietnamien du Wansui chinois, du Banzai japonais et du Manse coréen (écrit en 萬歲 en caractères chinois traditionnels), se traduit par dix mille ans et est utilisé dans des contextes archaïques pour souhaiter une longue vie, notamment à un monarque, bien que dans certains pays asiatiques modernes, il soit utilisé pour exprimer un sentiment de triomphe.
+[I]Zhuazhou est le terme chinois désignant un rituel organisé lors du premier anniversaire d'un enfant, au cours duquel celui-ci doit choisir entre différents objets symbolisant des carrières ou des traits de personnalité ; l'objet choisi est utilisé pour prédire l'avenir de l'enfant. Ce rituel est une pratique courante dans toute la Sinosphère, et est connu sous le nom de Thôi Nôi pour les Vietnamiens, Doljabi pour les Coréens, et Erabitori pour les Japonais.
 
-Cette mise à jour est destinée à commémorer le passage de VIET à 100 000 abonnés sur le Steam Workshop, presque un an après la sortie initiale. Merci à tous pour votre soutien continu, cela signifie beaucoup ! Mon modwork CK3 a été un moyen inhabituel mais amusant pour moi de m'engager dans l'écriture créative, et j'espère continuer à ajouter encore plus de contenu à l'avenir.[/I]
+Cette mise à jour est destinée à coïncider avec le premier anniversaire de la sortie de CK3 VIET. Merci à tous les joueurs et moddeurs impliqués dans mon merveilleux début de modding de CK3 - avec votre soutien, je suis sûr que VIET (et RICE) continuera à se développer avec plus d'événements et de fonctionnalités amusantes au fil du temps ![/I]
 
 [LIST]
-[*]Ajout de 15 événements avec les thèmes suivants :
+[*]Ajout d'une mini chaîne d'événements sur le Rêveur (4 événements)
+[*]Ajout d'une nouvelle châine de décision sur les corbeaux, 20 événements et 2 décisions :
 [LIST]
-[*]10 à propose du nombre 100
-[*]5 rumeurs sur Qi Ma le Menteur
+[*]Traiter avec le Meurtre des Corbeaux
+[*]Nourrir les Corbeaux
 [/LIST]
-[*]Ajout de 2 nouveaux résultats potentiels pour la décision "Déverrouiller le Coffre au Trésor".
-[*]Ajout du père de Qi Ma, et du père de son père, dans les fichiers d'historique.
-[*]La chaîne d'événements Qi Ma n'apparaîtra plus pour les mods de conversion totale (pour le moment).
+[*]Ajout de nouveaux surnoms : Seigneur des Corbeaux et Dame des Corbeaux
+[*]Ajout de quelques nouvelles variations de l'arrière-plan des événements
+[*]Activation de l'option \"Rêveur\" pour quelques événements précédemment ajoutés où d'autres personnes racontent avoir rencontré le Rêveur.
+[*]Plusieurs modifications ont été apportées à l'événement sur les joueuses de polo chinoises : nouvelle option pour les femmes, certaines options sont désactivées en fonction de la doctrine du genre, et le contexte historique a été ajouté.
+[*]Le voyageur de l'événement parti pour mourir a désormais une chance de mourir si vous choisissez de le quitter.
+[*]Modification du bruit ambiant de quelques arrière-plans d'événements pour qu'ils soient plus logique.
+[*]Correction de la durée du modificateur de dommage oculaire permanent pour qu'il soit désormais permanent pour l'événement fixer le soleil.
+[*]Correction de l'élagage de Qi Ma (avec une solution de contournement peu pratique).
 [*]Diverses corrections de bug
 
 [/LIST]
