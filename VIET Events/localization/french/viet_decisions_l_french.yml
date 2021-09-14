@@ -49,7 +49,7 @@
  VIET_decision_meet_qi_ma_the_liar_effect_tooltip:0 "Vous gagnez une certaine compréhension de l'univers grâce à [qi_ma_the_liar|E]."
  VIET_decision_meet_qi_ma_the_liar_desc:0 "Bien que le célèbre mais mystérieux voyageur [qi_ma|E] soit étrange, sinon fou, je devrais lui demander conseil avant qu'il ne parte pour des régions inconnues."
  VIET_decision_meet_qi_ma_the_liar_confirm:0 "A-t-il des nouvelles des autres provinces ?"
- VIET_decision_meet_qi_ma_the_liar_context_tooltip:0 "#emphasis Contexte Historique :#! Qi Ma sait beaucoup de choses, et en raconte quelques-unes, et il sait beaucoup de choses que d'autres ne savent pas - certaines vérifiées par des faits réels ...."
+ VIET_decision_meet_qi_ma_the_liar_context_tooltip:0 "#emphasis Contexte Historique :#! Qi Ma sait beaucoup de choses, et en raconte quelques-unes, et il sait beaucoup de choses que d'autres ne savent pas - certaines vérifiées par des faits réels."
  VIET_decision_deal_with_crows:0 "Traiter avec le Meurtre des Corbeaux"
  VIET_decision_deal_with_crows_tooltip:0 "Vous attirez beaucoup de corbeaux en ce moment."
  VIET_decision_deal_with_crows_effect_tooltip:0 "Vous choisissez comment gérer les corbeaux qui vous suivent ces derniers temps."
