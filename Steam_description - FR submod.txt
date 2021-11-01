@@ -1,6 +1,6 @@
 [img]http://i.imgur.com/OhIA5bm.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.4.3 "Zhuazhou" (Sortie 13 septembre 2021, Compatible avec CK3 v1.4.X)[/h1]
+[h1]Traduction Française de VIET Events v1.4.4 "Chemins Étranges" (Sortie 31 octobre 2021, Compatible avec CK3 v1.4.X)[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [B][url=https://forum.paradoxplaza.com/forum/threads/mod-viet-events-for-ck3-a-flavor-and-immersion-event-mod.1422081/]Sujet sur le forum Paradox[/url][/B]
 [B]Installation manuelle d'une version standalone (VIET + traduction) disponible sur [url=https://github.com/NicolasGrosjean/VIET-Events-for-CK3/releases]Github[/url][/B]
@@ -23,7 +23,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]567 nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B]582 nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, interactions entre personnages et chaînes d'événements.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -38,27 +38,27 @@ Merci !
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.4.3 "Zhuazhou"[/h1]
+[h1]Version 1.4.4 "Chemins Étranges"[/h1]
 
-[I]Zhuazhou est le terme chinois désignant un rituel organisé lors du premier anniversaire d'un enfant, au cours duquel celui-ci doit choisir entre différents objets symbolisant des carrières ou des traits de personnalité ; l'objet choisi est utilisé pour prédire l'avenir de l'enfant. Ce rituel est une pratique courante dans toute la Sinosphère, et est connu sous le nom de Thôi Nôi pour les Vietnamiens, Doljabi pour les Coréens, et Erabitori pour les Japonais.
+[I]"Je regarde fixement le ciel sans fin
+Et le triste récit de ma vie s'écoule.
+Je dérive vers le grand inconnu
+Je ne sais vraiment pas où je vais.
+Je regarde fixement le ciel sans fin
+Et l'histoire triste de ma vie s'en va
+Je dérive vers le grand inconnu
+Je ne sais vraiment pas où je vais."[/I]
 
-Cette mise à jour est destinée à coïncider avec le premier anniversaire de la sortie de CK3 VIET. Merci à tous les joueurs et moddeurs impliqués dans mon merveilleux début de modding de CK3 - avec votre soutien, je suis sûr que VIET (et RICE) continuera à se développer avec plus d'événements et de fonctionnalités amusantes au fil du temps ![/I]
+- Fou d'Amour, Lord Huron
 
 [LIST]
-[*]Ajout d'une mini chaîne d'événements sur le Rêveur (4 événements)
-[*]Ajout d'une nouvelle châine de décision sur les corbeaux, 20 événements et 2 décisions :
-[LIST]
-[*]Traiter avec le Meurtre des Corbeaux
-[*]Nourrir les Corbeaux
-[/LIST]
-[*]Ajout de nouveaux surnoms : Seigneur des Corbeaux et Dame des Corbeaux
-[*]Ajout de quelques nouvelles variations de l'arrière-plan des événements
-[*]Activation de l'option \"Rêveur\" pour quelques événements précédemment ajoutés où d'autres personnes racontent avoir rencontré le Rêveur.
-[*]Plusieurs modifications ont été apportées à l'événement sur les joueuses de polo chinoises : nouvelle option pour les femmes, certaines options sont désactivées en fonction de la doctrine du genre, et le contexte historique a été ajouté.
-[*]Le voyageur de l'événement parti pour mourir a désormais une chance de mourir si vous choisissez de le quitter.
-[*]Modification du bruit ambiant de quelques arrière-plans d'événements pour qu'ils soient plus logique.
-[*]Correction de la durée du modificateur de dommage oculaire permanent pour qu'il soit désormais permanent pour l'événement fixer le soleil.
-[*]Correction de l'élagage de Qi Ma (avec une solution de contournement peu pratique).
+[*]Ajout de 15 événements inspiré de l'album Strange Trails
+[*]1 nouvelle décision : Suivre les Chemins Étranges
+[*]Le jingle des événements utilisant le thème du cauchemar sera approprié à l'épouvante et non plus neutre comme auparavant.
+[*]Réduction des chances d'apparition des événements
+[*]Réduction des chances d'obtenir le surnom de Seigneur/Dame des Corbeaux dans la chaîne d'événements des corbeaux.
+[*]Modification des bonus/malus pour l'événement mendiant orphelin.
+[*]Ajout d'un gain de prestige au modificateur Regard sur les Femmes
 [*]Diverses corrections de bug
 [/LIST]
 
