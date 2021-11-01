@@ -62,11 +62,11 @@
  VIET_decision_feed_the_crows_effect_tooltip:0 "Vous perdrez un peu de [stress|E] et gagnerez un peu de [dread|E]"
  VIET_decision_feed_the_crows_confirm:0 "Où est mon sac de nourriture pour corbeaux ?"
  VIET_decision_feed_the_crows_context_tooltip:0 "#emphasis Contexte Historiques :#! Oiseaux de #italic Corvus#! genus, connus sous le nom de corbeaux ou de corneilles, font partie intégrante du folklore et des croyances religieuses du monde entier. Dans de nombreuses cultures, ils sont considérés comme des signes avant-coureurs de malheurs et des symboles de malheur et de mort, bien que dans certains endroits ou contextes, ils soient considérés de manière plus ambiguë comme des filous ou des psychopompes. Ils sont connus pour leur intelligence et leur excellente mémoire. La distinction entre corbeaux et corneilles est quelque peu incohérente, mais en général, les corbeaux sont plus petits que les corneilles."
- VIET_decision_strange_trails:0 "Follow the Strange Trails"
- VIET_decision_strange_trails_tooltip:0 "My dreams are pointing me to somewhere. They must be."
- VIET_decision_strange_trails_desc:0 "All these dreams I've been having about the fool for love have preoccupied my thoughts as of late. I now think I've been dreaming of a place nearby. I know where it is. I've been there before. I must visit it again. Perhaps going there will ease my mind and reveal why I've been dreaming about it."
- VIET_decision_strange_trails_effect_tooltip:0 "You will follow the strange trails to find the place you've been dreaming about."
- VIET_decision_strange_trails_confirm:0 "I seek answers, but I don't even know the question." 
+ VIET_decision_strange_trails:0 "Suivre les Traces Étranges"
+ VIET_decision_strange_trails_tooltip:0 "Mes rêves me mènent quelque part. Ils doivent l'être."
+ VIET_decision_strange_trails_desc:0 "Tous ces rêves que j'ai faits sur le fou d'amour ont préoccupé mes pensées ces derniers temps. Je pense maintenant que j'ai rêvé d'un endroit proche. Je sais où c'est. J'y suis déjà allé. Je dois le visiter à nouveau. Peut-être que le fait d'y aller me soulagera et me révélera pourquoi j'en ai rêvé."
+ VIET_decision_strange_trails_effect_tooltip:0 "Vous suivrez les étranges sentiers pour trouver l'endroit dont vous avez rêvé."
+ VIET_decision_strange_trails_confirm:0 "Je cherche des réponses, mais je ne connais même pas la question."
  
  # Character Interactions
  VIET_gift_baklava:0 "Cadeau de Pâtisseries Spéciales"
