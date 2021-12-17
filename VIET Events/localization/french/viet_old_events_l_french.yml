@@ -1563,7 +1563,7 @@
  VIETold.2110.b:0 "C'est soit un rêve, soit un mensonge. Les Mylings sont des êtres vengeurs, pas inoffensifs !"
  VIETold.2110.c:0 "Oh, mon Dieu ! Au moins, le fantôme avait l'air gentil."
  VIETold.2111.t:0 "Funérailles en bord de route"
- VIETold.2111.desc:0 "Sur la route, mon entourage et moi tombons sur un [ROOT.Char.Custom('DefaultPriestTitle')] [ROOT.Char.GetFaith.GetAdjective]  en robe. Il est agenouillé sur le sol, ne regardant nulle part en particulier, alors qu'il chante quelques prières. Il m'explique que récemment, une femme est morte ici dans un accident. C'était une femme pauvre sans famille, alors par compassion et par pitié, il lui a donné des funérailles modestes mais dignes. Il espère que son esprit trouvera la paix avec [ROOT.Char.GetFaith.GetAdjective]."
+ VIETold.2111.desc:0 "Sur la route, mon entourage et moi tombons sur un [ROOT.Char.Custom('DefaultPriestTitle')] [ROOT.Char.GetFaith.GetAdjective]  en robe. Il est agenouillé sur le sol, ne regardant nulle part en particulier, alors qu'il chante quelques prières. Il m'explique que récemment, une femme est morte ici dans un accident. C'était une femme pauvre sans famille, alors par compassion et par pitié, il lui a donné des funérailles modestes mais dignes. Il espère que son esprit trouvera la paix en [ROOT.Char.GetFaith.DivineRealm]."
  VIETold.2111.a:0 "Pour un simple paysan ? Quelle perte de temps."
  VIETold.2111.b:0 "Je comprends. Continuez, alors. Nous ne vous dérangerons pas."
  VIETold.2111.c:0 "Comme c'est noble ! Pouvons-nous nous joindre à vous pour prier pour son esprit ?"

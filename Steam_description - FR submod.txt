@@ -1,7 +1,8 @@
 [img]http://i.imgur.com/OhIA5bm.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.4.4 "Chemins Étranges" (Sortie 31 octobre 2021, Compatible avec CK3 v1.4.X)[/h1]
+[h1]Traduction Française de VIET Events v1.4.5 "Chaucher" (Sortie 6 décembre 2021, Compatible avec CK3 v1.4.X)[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
+[url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
 [B][url=https://forum.paradoxplaza.com/forum/threads/mod-viet-events-for-ck3-a-flavor-and-immersion-event-mod.1422081/]Sujet sur le forum Paradox[/url][/B]
 [B]Installation manuelle d'une version standalone (VIET + traduction) disponible sur [url=https://github.com/NicolasGrosjean/VIET-Events-for-CK3/releases]Github[/url][/B]
 [B]Installation via Paradox Mods disponible [url=https://mods.paradoxplaza.com/mods/12992/Any]ici[/url][/B]
@@ -23,7 +24,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]582 nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B]588 nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, interactions entre personnages et chaînes d'événements.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -32,33 +33,34 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 
 [img]https://i.imgur.com/9twioNH.jpg[/img]
 
-Allez voir [url=https://steamcommunity.com/workshop/filedetails/discussion/2227658180/2943622078759317376/]ce sujet de discussions[/url] pour plus d'informations.
+Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site de mes mods[/url] pour plus d'information.
 
 Merci !
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.4.4 "Chemins Étranges"[/h1]
+[h1]Version 1.4.5 "Chaucher"[/h1]
 
-[I]"Je regarde fixement le ciel sans fin
-Et le triste récit de ma vie s'écoule.
-Je dérive vers le grand inconnu
-Je ne sais vraiment pas où je vais.
-Je regarde fixement le ciel sans fin
-Et l'histoire triste de ma vie s'en va
-Je dérive vers le grand inconnu
-Je ne sais vraiment pas où je vais."[/I]
+[I]"Il n'y a pas d'homme plus occupé que lui, et pourtant il semblait plus occupé qu'il ne l'était."
 
-- Fou d'Amour, Lord Huron
+- Les Contes de Canterbury
+
+Geoffrey Chaucer était un écrivain anglais du XVe siècle, pionnier de l'utilisation de l'anglais vernaculaire dans la littérature. Il est surtout connu pour les Contes de Canterbury.[/I]
 
 [LIST]
-[*]Ajout de 15 événements inspiré de l'album Strange Trails
-[*]1 nouvelle décision : Suivre les Chemins Étranges
-[*]Le jingle des événements utilisant le thème du cauchemar sera approprié à l'épouvante et non plus neutre comme auparavant.
-[*]Réduction des chances d'apparition des événements
-[*]Réduction des chances d'obtenir le surnom de Seigneur/Dame des Corbeaux dans la chaîne d'événements des corbeaux.
-[*]Modification des bonus/malus pour l'événement mendiant orphelin.
-[*]Ajout d'un gain de prestige au modificateur Regard sur les Femmes
+[*]Ajout de 6 nouveaux événements :
+[LIST]
+[*]4 liés à l'écriture
+[*]2 génériques
+[/LIST]
+[*]1 nouvelle décision : Apprendre les Techniques de Sténographie
+[*]Les personnages païens germaniques bénéficient désormais d'un renforcement de leur piété grâce au modificateur Amis des corbeaux, plutôt que d'un malus (ne s'appliquera pas aux personnages existants avec le modificateur car il s'agit techniquement d'un nouveau modificateur dans le code).
+[*]Ajout d'une variable globale comme moyen alternatif pour les autres mods de détecter le VIET (pour Stik et les autres moddeurs qui préfèrent cela au lieu d'un trigger scripté).
+[*]Événements décisionnels moins susceptibles de se déclencher
+[*]La décision de rencontrer Qi Ma le menteur est maintenant une décision majeure et sera affichée en haut de la page.
+[*]Les bonus de puissance et/ou de résistance de quelques modificateurs sont passés du statut de multiplicateurs à celui d'addition.
+[*]Modification des bonus ou malus de prestige/piété/terreur/taxe de quelques modificateurs, qui ne sont plus additifs mais multiplicatifs.
+[*]Correction des parents du rêveur qui provoquaient des erreurs dans le journal des erreurs parce qu'ils étaient trop vieux.
 [*]Diverses corrections de bug
 [/LIST]
 
@@ -71,6 +73,7 @@ Je ne sais vraiment pas où je vais."[/I]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2217770052]In Taberna (CK2 Edition)[/url] - la chanson classique de CK2 revient à CK3
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2218667128]Recruit Courtiers[/url] - la simple décision d'engendrer des courtisans ou des courtisanes dans votre cour pour un prix modique, semblable à celui du CK2
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2219643991]Reduced Injuries and Deaths from Battles[/url] - si vous en avez assez que les gens tombent comme des mouches dans les batailles
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2629092890]Rename Tribal Era to Late Antiquity[/url]
 [/LIST]
 
 [img]http://i.imgur.com/GlNXL7m.jpg[/img]
