@@ -128,6 +128,7 @@
  VIET_decision_examine_ancient_stone_monument_confirm:0 "Let's get ready."
  VIET_decision_examine_ancient_stone_monument_context_tooltip:0 "#emphasis Historical Context:#! Prehistoric stone monuments can be found in many places around the world. These monoliths, whose purpose is often uncertain or at least contested, inspired many legends and myths for later cultures that discovered them." 
  
+ 
  # Character Interactions
  VIET_gift_baklava:0 "Cadeau de Pâtisseries Spéciales"
  VIET_gift_baklava_desc:0 "Achetez des pâtisseries, confiseries et desserts variés fabriqués par un célèbre pâtissier comme cadeau pour [recipient.GetShortUINameNoTooltip]."
@@ -153,3 +154,4 @@
  activity_VIET_trip_examine_ancient_stone_monument:0 "Trip to Examine an Ancient Stone Monument"
  activity_VIET_trip_examine_ancient_stone_monument_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Trip to Examine an Ancient Stone Monument"
  activity_VIET_xxxxx:0 "xxxxx"
+ 

@@ -835,7 +835,7 @@
  VIETold.1040.b:0 "Vous savez, je n'aime pas cette apparence."
  VIETold.1040.message:0 "Le traitement au soufre n'a pas soulagé efficacement votre acné"
  VIETold.1040.info:0 "#emphasis Contexte Historique :#! Les alchimistes médiévaux ont découvert que le soufre avait une certaine capacité à soulager les problèmes de peau comme l'acné et les éruptions cutanées. La recherche moderne l'a confirmé dans une certaine mesure, bien que le soufre semble être plus efficace pour l'acné et les éruptions cutanées lorsqu'il est combiné à d'autres produits chimiques et traitements médicaux."
- # Version 1.1.3 Start Here - Please leave this comment here
+ # Version 1.2.1 Start Here - Please leave this comment here
  VIETold.1041.t:0 "Beaux bras"
  VIETold.1041.desc:0 "Je participe à des exercices de combat avec mes guerriers. Sans chemise, je m'exerce à quelques mouvements avec mes armes. [scope_VIET_yotsugi.GetTitledFirstName], qui se trouve à observer toute l'affaire, remarque : \"Vos muscles sont très bons, [ROOT.Char.GetTitledFirstNameNoTooltip]. Ils vous vont bien, la viande sur vos muscles. Oui, vos muscles charnus ont l'air très délicieux.\""
  VIETold.1041.a:0 "Heu... Oui ?"
@@ -919,6 +919,7 @@
  VIETold.1059.t:0 "Qu'est-ce que c'est ?"
  VIETold.1059.desc:0 "\"Bonté divine !\" Je m'exclame.\n\nIl y a une pause gênante. \"Qui a coupé le fromage ?\" Je m'exclame.\n\nTout le monde se regarde nerveusement.\n\n\"C'est moi\", admet un serviteur. Je lui dis, \"La prochaine fois, assurez-vous de le couper en plus petits morceaux, d'accord ? C'est difficile de manger du fromage s'il est en gros morceaux comme ça.\""
  VIETold.1059.a:0 "\"Oui, mon [ROOT.Char.GetLadyLord] !\""
+ # Version 1.4.2 Start Here - Please leave this comment here
  # Version 1.4.5 Start Here - Please leave this comment here
  VIETold.1060.t:0 "Ha Ha !"
  VIETold.1060.desc:0 "\"Ne me faites pas rire !\" Je m'exclame.\n\n[jokester.GetTitledFirstName] dit quand même la blague, et je suis presque mort de rire. C'était une bonne blague, trop bonne en fait !"
@@ -1642,6 +1643,7 @@
  VIETold.2128.t:0 "Lumière des Ancêtres"
  VIETold.2128.desc:0 "La nuit dernière, j'ai fait un rêve merveilleux ! Je me trouvais dans un royaume de lumière infinie - rien que de la lumière - et je voyais devant moi de nombreux hommes et femmes, dont certains que je reconnaissais comme mes parents décédés. Même ceux que je ne reconnaissais pas, je savais qu'ils étaient mes lointains ancêtres. Nous n'avons ni parlé ni interagi directement, et je me suis simplement reposé en leur présence bienveillante."
  VIETold.2128.a:0 "Après mon réveil, je me suis senti très béni."
+ # Version 1.1.4 Start Here - Please leave here
  # Version 1.3.1 Start Here - Please leave here
  VIETold.2129.t:0 "Amour Perdu"
  VIETold.2129.desc.male:0 "La nuit dernière, il est apparu dans mon rêve, et nous avons ri, dansé et parlé de rien en particulier. Mon cœur battait si fort, car j'étais à la fois nerveuse et excitée, que même au réveil, je le sentais encore. Cela fait tellement longtemps, tellement d'années que nous ne nous sommes pas vus, et pourtant, même maintenant, je pense toujours à lui : mon premier amour."
@@ -1693,9 +1695,9 @@
  VIETold.2138.b:0 "Ha ! Comme si n'importe quelle femme pouvait faire ça !"
  VIETold.2138.c:0 "Nos femmes sont sûrement aussi bonnes !"
  VIETold.2138.d:0 "Je ne suis pas un fan de polo de toute façon."
- VIETold.2139.t:0 "Tempête"
  VIETold.2138.e:0 "Ces femmes devraient avoir honte, elles sont si peu féminines !"
  VIETold.2138.info:0 "#emphasis Contecte Historique :#! Contrairement aux représentations courantes de l'histoire populaire, le statut des femmes en Chine, même s'il n'a jamais été idéal, a beaucoup varié au fil des siècles. Dans la Chine des Tang, les femmes jouaient volontiers au polo aux côtés des hommes (un sport équestre rigoureux, voire dangereux, originaire d'Asie centrale ou d'Iran). Une variété de polo populaire auprès des femmes Tang faisait appel à des ânes au lieu de chevaux ; une noble, Cui Shi, était tellement obsédée par ce sport que les archéologues ont trouvé des restes d'ânes dans sa tombe."
+ VIETold.2139.t:0 "Tempête"
  VIETold.2139.desc:0 "Les eaux de l'océan se déchaînent, se déchaînent et se déchaînent autour de moi dans mon rêve, un éventail exaspérant de la force brute de la destruction de la nature, et je suis défait, impuissant, car je suis à la merci de la nature. Qu'est-ce que l'humanité, sinon un grain de sable dans le cosmos, comparée à tout cela ?"
  VIETold.2139.a:0 "Même cela, je vais le vaincre !"
  VIETold.2139.b:0 "Nous sommes insignifiants pour le cosmos !"
