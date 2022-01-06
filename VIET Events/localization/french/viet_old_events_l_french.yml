@@ -931,9 +931,9 @@
  # Version 1.4.6 Start Here - Please leave this comment here
  VIETold.1062.desc:0 "Je m'occupais de mes affaires, faisant des choses importantes que tout [ROOT.Char.GetTitleAsNameNoTooltip] ferait. Et puis, sorti de nulle part, il s'est immiscé dans mon esprit.\n\nJe me suis soudainement souvenu d'un acte extrêmement embarrassant que j'ai commis il y a des années."
  VIETold.1062.a:0 "S'il vous plaît, non, pourquoi ai-je dû me souvenir de ça ? ...."
- VIETold.1063.t:0 "Étouffement"
- VIETold.1063.desc:0 "C'est arrivé si vite. Lors d'un repas ordinaire, à un moment ordinaire, dans une pièce ordinaire, j'ai mangé quelque chose, je me suis étouffé, et je me tords maintenant de douleur sur le sol, incapable de respirer."
- VIETold.1063.a:0 "GGGGLLLAAAUUUUGGKKK -"
+ VIETold.1063.t:0 "La Suite"
+ VIETold.1063.desc:0 "J'ai enfin obtenu ce livre que je voulais depuis un certain temps ! C'est la suite d'une grande histoire sur laquelle je suis tombé il y a quelque temps. Il est maintenant temps pour moi d'apprécier le développement des personnages, les dialogues captivants, les thèmes qui suscitent la réflexion et le symbolisme profond."
+ VIETold.1063.a:0 "Rien ne pourrait être mieux."
  VIETold.1064.t:0 "Bâillement"
  VIETold.1064.desc:0 "J'ai vu un de mes serviteurs bâiller. Maintenant, j'ai envie de bâiller aussi !"
  VIETold.1064.a:0 "Il est intéressant de voir comment, si une personne bâille, les autres à proximité font naturellement de même."
