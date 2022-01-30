@@ -1,12 +1,12 @@
 [img]https://i.imgur.com/e3qA5i6.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.4.7 "Sainte Valérie" (Sortie 5 janvier 2022, Compatible avec CK3 v1.4.X)[/h1]
+[h1]Traduction Française de VIET Events v1.4.8 "Animalia" (Sortie 22 janvier 2022, Compatible avec CK3 v1.4.X)[/h1]
 [h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
-[url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
+[h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
 [B][url=https://forum.paradoxplaza.com/forum/threads/mod-viet-events-for-ck3-a-flavor-and-immersion-event-mod.1422081/]Sujet sur le forum Paradox[/url][/B]
 [B]Installation manuelle d'une version standalone (VIET + traduction) disponible sur [url=https://github.com/NicolasGrosjean/VIET-Events-for-CK3/releases]Github[/url][/B]
-[B]Installation via Paradox Mods disponible [url=https://mods.paradoxplaza.com/mods/12992/Any]ici[/url][/B]
+[B]Installation via Paradox Mods disponible [url=https://mods.paradoxplaza.com/mods/14549/Any]ici[/url][/B]
 [B][url=https://imgur.com/a/TIePH1f]Voir toutes les captures d'écran ici[/url][/B]
 
 Very Immersive Events and Tales (VIET), la suite de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1601402546]VIET Events Reborn for CK2[/url], est un mod de saveurs qui ajoute une vaste collection d'événements sur la vie quotidienne pour pimenter votre jeu. Ils ajoutent de l'immersion et une diversité d'expériences entre les guerres et les chaînes d'événements de la vanille, et couvrent des minuties mondaines, de la petite conversation avec les courtisans et la cuisine locale aux histoires épiques sur l'amour, la philosophie et la condition humaine. Certains incluent de nouvelles décisions, des interactions entre personnages, des activités et bien d'autres choses à explorer ! Cybrxkhan espère que les leçons qu'il a tirées de ses huit années (avec un hiatus) de modding de CK2 l'aideront à offrir une expérience amusante à tous les joueurs intéressés par ses mods.
@@ -24,7 +24,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]682 nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B]728 nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, interactions entre personnages, activités et chaînes d'événements.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -37,19 +37,22 @@ Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site d
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.4.7 "Sainte Valérie"[/h1]
+[h1]Version 1.4.8 "Animalia"[/h1]
 
-[I]Valérie de Limoges est une sainte et martyre chrétienne qui aurait été une adepte de saint Martial, le saint patron de la ville de Limoges en France. Selon la légende, elle fut décapitée pour avoir refusé d'épouser un seigneur païen ; après son exécution, elle porta sa tête et l'apporta à Martial, qui était alors évêque de Limoges. Son culte, ainsi que celui de saint Martial, étaient particulièrement populaires à l'époque médiévale.[/I]
+
+[I]"J'ai de la tendresse pour les créatures sans pieds ; pour celles qui ont deux pieds, j'ai de la tendresse. J'ai de l'affection pour ceux qui ont quatre pieds ; j'ai de l'affection pour ceux qui ont beaucoup de pieds. Que tous les êtres, tous les êtres vivants, toutes les créatures, chacun d'entre eux, rencontrent la bonne fortune ; que rien de mauvais n'arrive à personne."
+
+- Anguttara Nikaya 4:67 (partie du Canon Pali du bouddhisme theravada)[/I]
 
 [LIST]
-[*]Ajout de 16 nouveaux événements :
+[*]Ajout de 46 nouveaux événements sur les animaux
+[*]Ajout de 3 nouvelles décisions:
 [LIST]
-[*]11 Pensées Contemplatives
-[*]5 inspiré par des lieux non marqués dans Oblivion (y compris 2 événements de comté)
+[*]Achat d'Ânes Fiables
+[*]Construire plus de Pigeonniers sur la Résidence
+[*]Écouter les Oiseaux Chanteurs Sauvages
 [/LIST]
-[*]Ajout d'une grande partie de la localisation chinoise (merci aux traducteurs chinois!)
-[*]Ajout de quelques nouvelles variations de l'arrière-plan du cairn ancien
-[*]Les modificateurs qui accordent la capacité de prendre diverses décisions le mentionnent désormais dans leur description.
+[*]Ajout de nouveaux arrière-plans d'événements pour la région indienne
 [*]Diverses corrections de bug
 [/LIST]
 
