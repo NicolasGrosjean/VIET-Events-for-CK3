@@ -107,7 +107,7 @@
  # 42 Basic
 
  # RECIPE ARTIFACTS
-<VIET_recipe_baklava_name:0 "Recette de Baklava"
+ VIET_recipe_baklava_name:0 "Recette de Baklava"
  VIET_recipe_baklava_desc:0 "Les cuisiniers à qui l'on fournira cette recette connaîtront les ingrédients nécessaires à la fabrication de la pâte et du sirop du baklava, ainsi que les différentes épices, noix, etc. qui l'accompagneront. Celui qui possède cette recette offrira sûrement à ses invités un dessert inégalé, inégalable, un délice sucré et sirupeux !"
  VIET_recipe_sweetroll_name:0 "Recette de petits pains sucrés"
  VIET_recipe_sweetroll_desc:0 "Les cuisiniers munis de cette recette peuvent préparer un délicieux petit pain sucré. \"Un seul goût, et vous êtes au paradis... au sommet du monde, oui !\""
