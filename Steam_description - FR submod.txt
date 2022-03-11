@@ -1,6 +1,6 @@
-[img]https://i.imgur.com/OgCgeCU.png[/img]
+[img]https://i.imgur.com/1DTEdD5.png[/img]
 
-[h1]Traduction Française de VIET Events v1.5.1 "Taillevent" (Sortie 12 février 2022, Compatible avec CK3 v1.5.X)[/h1]
+[h1]Traduction Française de VIET Events v1.5.2 "Courtepointe" (Sortie 10 mars 2022, Compatible avec CK3 v1.5.X)[/h1]
 [h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
@@ -24,7 +24,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]783 nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B]788 nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, artefacts, interactions entre personnages, activités et bien d'autres choses.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -37,21 +37,19 @@ Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site d
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.5.1 "Taillevent"[/h1]
+[h1]Version 1.5.2 "Courtepointe"[/h1]
 
-[I]Guillaume Tirel (v. 1310-1395 A.D), plus connu sous le nom de Taillevent, était un cuisinier français du XIVe siècle à la cour royale française. On lui attribue la rédaction du Viandier, l'un des plus anciens livres de cuisine médiévaux.[/I]
+[I]“Le lit est devenu un endroit de luxe pour moi ! Je ne l'échangerais pas contre tous les trônes du monde.”
+
+- Napoléon Ier[/I]
 
 [LIST]
-[*]Mise à jour avec le patch 1.5 “Fleur de Lis”
-[*]Ajout de 35 nouveaux événements
-[*]Ajout de 50 artefacts, qui peuvent être obtenus via 50 événements divers, dont 7 recettes et 1 livre : 26 provenant de l'ancien CK2 VIET et 24 nouveaux artefacts
-[*]Ajout d'un nouveau concept de jeu : Artefacts d'encombrement
-[*]Ajout de deux nouveaux types d'artefacts : les artefacts d'encombrement et les recettes
-[*]Rend la chaîne d'événements du corbeau plus rare
-[*]Suppression de quelques modificateurs inutilisés
-[*]Légère modifications des PNJ du Rêveur et de Qi Ma le Menteur afin de ne pas avoir à utiliser une méthode détournée pour les rendre imprégnables
-[*]Correction de plusieurs événements qui ne se déclenchent pas : intérêt pour la sténographie, sanctuaire submergé, le serviteur oublie combien de cuillères de médicaments il doit prendre
-[*]Légère modification du déclencheur de la sinosphère, qui tient désormais compte des cultures descendantes
+[*]Ajout de 5 événements sur les morceaux
+[*]Ajout de 2 nouveaux artefacts : morceaux de courtepointe et balle en cuir
+[*]Changement de 4 modificateurs en artefacts : Roche Spéciale, Os d'une Ancienne Créature, Serviette Ignifugée, Talisman de Pierre d'Orage.
+[*]La servante lascive n'apparaîtra plus si la règle du jeu sérieux est activée.
+[*]Changement de plusieurs icônes de modificateurs pour utiliser les nouvelles icônes de vanilla.
+[*]Rend les événements les plus courants de l'impulsion annuelle un peu plus rares (en théorie).
 [*]Diverses corrections de bug
 [/LIST]
 
