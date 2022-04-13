@@ -336,9 +336,9 @@
  VIETmisc.2077.info.bird_12:0 "#emphasis Contexte Biologique :#! L'oiseau que l'on entendait chanter à l'instant était le #bvieux Drongo noir#! (#italic Dicrurus macrocercus#!)."
  # 1.5.0 - please leave this comment here and do not remove it
  # 1.5.3 - please leave this comment here and do not remove it
- VIETmisc.2078.t:0 "The Flower Meadows"
- VIETmisc.2078.desc:0 "Today, I’ve taken time to visit the spring meadows of [county.GetName], famous for the beauty of their flowers. I am not disappointed.\n\nFrom one end of the horizon to another, there are hundreds if not thousands of small, lovely wildflowers, each their own unique hue of color. With all these flowers together like this, when the wind blows even slightly, they look like a moving tapestry woven by [ROOT.Char.GetFaith.HighGodName]!\n\nI sit on the ground atop a hill, and just gaze in wonder at the majesty beauty of nature before me."
- VIETmisc.2078.a:0 "Simply amazing."
+ VIETmisc.2078.t:0 "Les Prairies Fleuries"
+ VIETmisc.2078.desc:0 "Aujourd'hui, j'ai pris le temps de visiter les prairies de printemps de [county.GetName], célèbres pour la beauté de leurs fleurs. Je ne suis pas déçu.\n\nD'un bout à l'autre de l'horizon, il y a des centaines, voire des milliers de petites fleurs sauvages, toutes d'une couleur unique. Toutes ces fleurs réunies, lorsque le vent souffle, même légèrement, ressemblent à une tapisserie en mouvement tissée par [ROOT.Char.GetFaith.HighGodName]!\n\nJe m'assieds sur le sol au sommet d'une colline et je contemple avec émerveillement la beauté majestueuse de la nature qui s'offre à moi."
+ VIETmisc.2078.a:0 "Tout simplement incroyable."
  # 1.5.4 - please leave this comment here and do not remove it
  VIETmisc.2079.t:0 "xxxxx"
  VIETmisc.2079.desc:0 "xxxxx"
