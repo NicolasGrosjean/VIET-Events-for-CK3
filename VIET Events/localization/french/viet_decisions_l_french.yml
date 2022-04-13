@@ -152,13 +152,13 @@
  VIET_decision_listen_to_wild_songbirds_effect_tooltip:0 "Vous perdrez un peu de [stress|E] et serez peut-être même inspiré et obtiendrez un [character_modifier|E]."
  VIET_decision_listen_to_wild_songbirds_confirm:0 "J'ai besoin de ce temps libre."
  VIET_decision_listen_to_wild_songbirds_context_tooltip:0 "#emphasis Contexte Biologique :#! Le sous-ordre #italic Passeri#! des oiseaux percheurs est connu sous le nom d'oiseaux chanteurs, familièrement parlant. On en trouve plus de 5000 espèces dans le monde entier. Ils sont célèbres pour leurs chants divers et élaborés, qui ont été admirés par l'homme dans de nombreuses cultures et périodes différentes."
- VIET_decision_view_flower_meadows_in_bloom:0 "View Flower Meadows in Bloom"
- VIET_decision_view_flower_meadows_in_bloom_tooltip:0 "A pure expression of nature's majesty"
- VIET_decision_view_flower_meadows_in_bloom_desc:0 "There is a part of my realm that is famous for the beauty of its meadows and fields in springtime, when the flowers are in full bloom. Why don't I travel there one of these days, to witness such beauty for myself?"
- VIET_decision_view_flower_meadows_in_bloom_effect_tooltip:0 "You will lose some [stress|E] and you might also gain a random amount of [piety|E]"
- VIET_decision_view_flower_meadows_in_bloom_req_tooltip:0 "Month is March, April, or May"
- VIET_decision_view_flower_meadows_in_bloom_req:0 "Any [county|E] in your [domain|E] has the [GetModifier('VIET_reliable_donkeys').GetNameWithTooltip] [county_modifier|E]"
- VIET_decision_view_flower_meadows_in_bloom_confirm:0 "Make preparations to go."
+ VIET_decision_view_flower_meadows_in_bloom:0 "Voir les Prés Fleuris"
+ VIET_decision_view_flower_meadows_in_bloom_tooltip:0 "Une expression pure de la majesté de la nature"
+ VIET_decision_view_flower_meadows_in_bloom_desc:0 "Il y a une partie de mon royaume qui est célèbre pour la beauté de ses prairies et de ses champs au printemps, lorsque les fleurs sont en pleine floraison. Pourquoi ne pas y voyager un de ces jours, pour être témoin d'une telle beauté par moi-même ?"
+ VIET_decision_view_flower_meadows_in_bloom_effect_tooltip:0 "Vous perdrez un peu de [stress|E] et vous pourrez aussi gagner une quantité aléatoire de [piety|E]."
+ VIET_decision_view_flower_meadows_in_bloom_req_tooltip:0 "Le mois est Mars, Avril, ou Mai"
+ VIET_decision_view_flower_meadows_in_bloom_req:0 "Un [county|E] de votre [domain|E] a le [county_modifier|E] [GetModifier('VIET_reliable_donkeys').GetNameWithTooltip]"
+ VIET_decision_view_flower_meadows_in_bloom_confirm:0 "Préparez-vous à partir."
 
  
  
@@ -188,7 +188,7 @@
  activity_VIET_trip_examine_ancient_stone_monument_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Voyage pour Examiner un Ancien Monument en Pierre"
  activity_VIET_relaxation_with_songbirds:0 "Excursion pour Écouter les Oiseaux Chanteurs"
  activity_VIET_relaxation_with_songbirds_desc:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Excursion pour Écouter les Oiseaux Chanteurs"
- activity_VIET_trip_flower_meadows:0 "Trip to View the Flower Meadows in Bloom"
- activity_VIET_trip_flower_meadows_desc:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Trip to View the Flower Meadows in Bloom"
+ activity_VIET_trip_flower_meadows:0 "Voyage pour Voir les Prairies Fleuries"
+ activity_VIET_trip_flower_meadows_desc:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Voyage pour voir les Prés Fleuris"
  activity_VIET_xxxxx:0 "xxxxx"
  
