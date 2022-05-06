@@ -1,6 +1,6 @@
-[img]https://i.imgur.com/ep5Ikb9.png[/img]
+[img]https://i.imgur.com/cdJAolI.png[/img]
 
-[h1]Traduction Française de VIET Events v1.5.3 "Li Bai" (Sortie 12 avril 2022, Compatible avec CK3 v1.5.X)[/h1]
+[h1]Traduction Française de VIET Events v1.5.4 "Rumi" (Sortie 30 avril 2022, Compatible avec CK3 v1.5.X)[/h1]
 [h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
@@ -24,7 +24,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]800 nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B]808 nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, artefacts, interactions entre personnages, activités et bien d'autres choses.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -37,24 +37,19 @@ Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site d
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.5.3 "Li Bai"[/h1]
+[h1]Version 1.5.4 "Rumi"[/h1]
 
-[I]“Face à mon vin, je n'ai pas vu le crépuscule,
-Les fleurs qui tombent ont rempli les plis de mes vêtements.
-Ivre, je me lève et m'approche de la lune dans le ruisseau,
-Les oiseaux sont loin, les gens aussi sont peu nombreux.”
+[I]“L'amour ne repose sur aucune fondation.
+C'est un océan sans fin,
+sans début ni fin.”
 
-- ‘S'amuser avec soi-même’, par Li Bai
+- Rumi
 
-Li Bai était un poète du VIIIe siècle, considéré comme l'un des plus grands poètes chinois aux côtés de son ami Du Fu, même de son vivant. Les thèmes fréquemment abordés dans sa poésie sont l'amitié, la solitude, la boisson, la lune, la nature, etc.[/I]
+Rumi était un poète, un érudit et un mystique persan du XIIIe siècle. Ses œuvres sont considérées comme faisant partie des meilleurs poèmes, non seulement parmi les communautés iraniennes, mais aussi dans le monde entier.[/I]
 
 [LIST]
-[*]Ajout de 12 événements génériques
-[*]Ajout de 3 nouveaux artefacts : Petit Coquillage, Carte Inutile, Vase de Maison
-[*]Ajout d'une nouvelle décision : Voir les Prés Fleuris
-[*]Ajout de plusieurs nouvelles variantes régionales d'arrière-plans d'événements
-[*]Recruter le farceur emprisonné vous donne maintenant un crochet de fidélité sur lui.
-[*]Modification de l'ambiance sonore de quelques arrière-plans d'événements
+[*]Ajout de 8 événements de positivité
+[*]Le déclencheur scénarisé Sinosphère de VIET inclut désormais correctement diverses cultures, ce qui n'était pas le cas auparavant.
 [*]Diverses corrections de bug
 [/LIST]
 
