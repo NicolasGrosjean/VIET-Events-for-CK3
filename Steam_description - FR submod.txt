@@ -1,6 +1,6 @@
-[img]https://i.imgur.com/cdJAolI.png[/img]
+[img]https://i.imgur.com/Hy7cTwG.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.5.4 "Rumi" (Sortie 30 avril 2022, Compatible avec CK3 v1.5.X)[/h1]
+[h1]Traduction Française de VIET Events v1.6.0 "Lutte" (Sortie 31 mai 2022, Compatible avec CK3 v1.6.X)[/h1]
 [h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
@@ -21,10 +21,12 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 
 [img]http://i.imgur.com/FaFtOmm.gif[/img]
 
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2775683808][img]https://i.imgur.com/tHNJOAn.png[/img][/url]
+
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]808 nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B]818 nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, artefacts, interactions entre personnages, activités et bien d'autres choses.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -37,19 +39,17 @@ Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site d
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.5.4 "Rumi"[/h1]
+[h1]Version 1.6.0 "Lutte"[/h1]
 
-[I]“L'amour ne repose sur aucune fondation.
-C'est un océan sans fin,
-sans début ni fin.”
-
-- Rumi
-
-Rumi était un poète, un érudit et un mystique persan du XIIIe siècle. Ses œuvres sont considérées comme faisant partie des meilleurs poèmes, non seulement parmi les communautés iraniennes, mais aussi dans le monde entier.[/I]
+[I]"S'il n'y a pas de lutte, il n'y a pas de progrès."
+Frederick Douglass[/I]
 
 [LIST]
-[*]Ajout de 8 événements de positivité
-[*]Le déclencheur scénarisé Sinosphère de VIET inclut désormais correctement diverses cultures, ce qui n'était pas le cas auparavant.
+[*]Ajout de 10 événements sur le thème de la lutte
+[*]Toutes les activités ont maintenant des dates d'expiration automatiques en cas de situations bizarres où elles ne se terminent pas.
+[*]Correction de la décision de visualiser des fleurs en fleurs nécessitant des ânes et non des fleurs
+[*]Amélioration de l'effet d'annulation des pénalités de santé pour certains modificateurs et artefacts.
+[*]Changement de l'arrière-plan de l'événement du forgeron de la médecine à l'armurerie, plus appropriée.
 [*]Diverses corrections de bug
 [/LIST]
 
