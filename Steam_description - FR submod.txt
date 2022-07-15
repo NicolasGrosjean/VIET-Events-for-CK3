@@ -1,6 +1,6 @@
-[img]https://i.imgur.com/Hy7cTwG.jpg[/img]
+[img]https://i.imgur.com/nuOGjHu.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.6.0 "Lutte" (Sortie 31 mai 2022, Compatible avec CK3 v1.6.X)[/h1]
+[h1]Traduction Française de VIET Events v1.6.1 "Questionnaire" (Sortie 15 juillet 2022, Compatible avec CK3 v1.6.X)[/h1]
 [h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
@@ -13,7 +13,7 @@ Very Immersive Events and Tales (VIET), la suite de [url=https://steamcommunity.
 
 Faites-lui savoir si vous rencontrez des bugs. [B]Il espère continuer à ajouter de plus en plus d'événements à chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST PAS COMPATIBLE AVEC LES SUCCES ![/U][/B]
 
-Comme il s'agit de la première version de VIET, il est ouvert à tous les commentaires - il est encore en train de passer de la version CK2 à la version CK3. N'hésitez pas à lui faire savoir si vous rencontrez des bugs, ou si vous pensez que les événements se produisent trop souvent ou pas assez souvent. Bien que les événements puissent devenir répétitifs si vous jouez assez longtemps car il n'en a pas encore ajouté beaucoup, [B]il espère continuer à ajouter de plus en plus d'événements dans chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST COMPATIBLE AVEC LES SUCCES STEAM ![/U][/B]
+N'hésitez pas à lui faire savoir si vous rencontrez des bugs, ou si vous pensez que les événements se produisent trop souvent ou pas assez souvent. Bien que les événements puissent devenir répétitifs si vous jouez assez longtemps car il n'en a pas encore ajouté beaucoup, [B]il espère continuer à ajouter de plus en plus d'événements dans chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST COMPATIBLE AVEC LES SUCCES STEAM ![/U][/B]
 
 [B][U]VIET [I]FONCTIONNE[/I] SUR DES SAUVEGARDES EXISTANTES ![/U][/B] (Mais n'oubliez pas de faire une copie de votre sauvegarde auparavant, au cas où.)
 
@@ -26,7 +26,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]818 nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B]825 nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, artefacts, interactions entre personnages, activités et bien d'autres choses.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -39,17 +39,14 @@ Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site d
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.6.0 "Lutte"[/h1]
+[h1]Version 1.6.1 "Questionnaire"[/h1]
 
-[I]"S'il n'y a pas de lutte, il n'y a pas de progrès."
-Frederick Douglass[/I]
+[I]Cette mise à jour inclut les 7 événements gagnants du concours d'événements du questionnaire VIET/RICE. Merci à tous ceux qui ont participé, et merci en particulier à Cerbzzz, Duke Leo, Pedrolu, Ultimatum, Viridianus, et deux joueurs anonymes pour les idées gagnantes ![/I]
 
 [LIST]
-[*]Ajout de 10 événements sur le thème de la lutte
-[*]Toutes les activités ont maintenant des dates d'expiration automatiques en cas de situations bizarres où elles ne se terminent pas.
-[*]Correction de la décision de visualiser des fleurs en fleurs nécessitant des ânes et non des fleurs
-[*]Amélioration de l'effet d'annulation des pénalités de santé pour certains modificateurs et artefacts.
-[*]Changement de l'arrière-plan de l'événement du forgeron de la médecine à l'armurerie, plus appropriée.
+[*]Ajout de 7 événements issus des soumissions gagnantes du concours VIET Events
+[*]Rééquilibrage des coûts de l'or de plusieurs décisions pour qu'ils soient moins irréalisables aux niveaux supérieurs.
+[*]Correction du fantôme dans la chaîne de décision de hantise qui "disparaît" de lui-même même après un exorcisme réussi.
 [*]Diverses corrections de bug
 [/LIST]
 
@@ -65,16 +62,16 @@ Frederick Douglass[/I]
 
 [img]http://i.imgur.com/GlNXL7m.jpg[/img]
 
-Merci aux équipes de WTWSMS (en particulier IhateTrains et Loup99) et Lux Invicta (y compris tsf4), ainsi qu'à M@ni@c, créateur de Hide Your Jewelry, pour avoir maintenu et amélioré VIET sur CK2 au fil des ans, ce qui m'a fourni une base solide pour un meilleur redémarrage de VIET Events.
+Merci à tous ceux avec qui j'ai travaillé, qui m'ont donné des conseils et qui m'ont encouragé et donné leur avis au fil des ans. Un grand merci en particulier aux équipes derrière WTWSMS (surtout IlikeTrains et Loup99) et Lux Invicta (y compris tsf4), ainsi qu'à M@ni@c, créateur de Hide Your Jewelry, pour avoir maintenu et amélioré VIET pour CK2 au fil des ans, ce qui m'a fourni une base solide pour améliorer le redémarrage de VIET Events. Un grand merci également aux âmes aimables qui prennent le temps de traduire le mod et qui supportent mon calendrier de mise à jour erratique.
 
-Des crédits également pour OrdepNM, qui était mon partenaire dans le crime au début de VIET sur CK2 et qui a contribué à le maintenir alors que j'avais de sérieux problèmes médicaux il y a des années.
+Quelques autres remerciements en particulier :
 
-Merci tout particulièrement à Sleight of Hand de m'avoir poussé à me lancer dans le modding de CK2 et de m'avoir aidé au fil des ans, ce qui explique pourquoi je suis toujours là pour une raison quelconque.
+[LIST]
+[*]Bonseny pour les superbes logos VIET et RICE
+[*]OrdepNM, mon partenaire de crime dans les premiers jours de VIET pour CK2 et qui a pris le relais pour aider à le maintenir alors que j'avais de sérieux problèmes médicaux il y a quelques années.
+[*]Sleight of Hand pour m'avoir poussé à entrer dans la scène de la modélisation de CK2 et pour d'autres aides au cours des années, ce qui explique pourquoi je suis toujours là pour une raison quelconque.
+[*]tora75 pour avoir contribué aux textes uniques nordiques pour plusieurs événements.
+[*]Stik, Vertimnus, et Tobbzn de la CK3 Mod Co-op pour m'avoir aidé à trouver comment adapter mes événements provinciaux de CK2 et faire un système pour les événements de comté pour CK3.
+[/LIST]
 
-Merci à tora75 d'avoir fourni les localisations uniques des Nordiques pour plusieurs événements.
-
-Merci à Stik, Vertimnus et Tobbzn de CK3 Mod Co-op pour m'avoir aidé à trouver comment adapter mes événements provinciaux de CK2 et faire un système d'événements de comté pour CK3.
-
-Merci à toutes les personnes avec qui j'ai travaillé, qui ont pris des choses au fil des ans, et qui m'ont encouragé et donné leur avis.
-
-La traduction française a été réalisée par Mouchi mais a repris des traductions réalisées par Loup99 et Domper59 pour la version CK2.
+Traduction française réalisée par Mouchi mais reprennant des traductions réalisées par Loup99 et Domper59 pour la version CK2.
