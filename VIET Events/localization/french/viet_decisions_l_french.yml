@@ -157,7 +157,7 @@
  VIET_decision_view_flower_meadows_in_bloom_desc:0 "Il y a une partie de mon royaume qui est célèbre pour la beauté de ses prairies et de ses champs au printemps, lorsque les fleurs sont en pleine floraison. Pourquoi ne pas y voyager un de ces jours, pour être témoin d'une telle beauté par moi-même ?"
  VIET_decision_view_flower_meadows_in_bloom_effect_tooltip:0 "Vous perdrez un peu de [stress|E] et vous pourrez aussi gagner une quantité aléatoire de [piety|E]."
  VIET_decision_view_flower_meadows_in_bloom_req_tooltip:0 "Le mois est Mars, Avril, ou Mai"
- VIET_decision_view_flower_meadows_in_bloom_req:0 "Un [county|E] de votre [domain|E] a le [county_modifier|E] [GetModifier('VIET_reliable_donkeys').GetNameWithTooltip]"
+ VIET_decision_view_flower_meadows_in_bloom_req:0 "Un [county|E] de votre [domain|E] a le [county_modifier|E] [GetModifier('VIET_famous_flower_meadows').GetNameWithTooltip]"
  VIET_decision_view_flower_meadows_in_bloom_confirm:0 "Préparez-vous à partir."
  
  
