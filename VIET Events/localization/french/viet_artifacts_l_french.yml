@@ -126,8 +126,8 @@
  VIET_house_vase_name:0 "Vase de Maison [ROOT.Char.GetCulture.GetNameNoTooltip]"
  VIET_house_vase_desc:0 "Simple mais élégant, ce vase a été fabriqué par des artisans [ROOT.Char.GetCulture.GetNameNoTooltip]s, et est décoré de diverses scènes de la vie quotidienne."
  # 1.7.0 - please leave this comment here
- VIET_golden_rose_name:0 "Golden Rose"
- VIET_golden_rose_desc:0 "A mysterious and beautiful rose, made out of solid gold. Who made it? When was it made? Where was it made? Who knows...."
+ VIET_golden_rose_name:0 "Rose d'Or"
+ VIET_golden_rose_desc:0 "Une rose mystérieuse et magnifique, faite d'or massif. Qui l'a fabriquée ? Quand a-t-elle été fabriquée ? Où a-t-elle été fabriquée ? Qui sait...."
  # 1.7.1 - please leave this comment here
  VIET_xxxxx_name:0 "xxxxx"
  VIET_xxxxx_desc:0 "xxxxx"
