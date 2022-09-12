@@ -1,6 +1,6 @@
-[img]https://i.imgur.com/nuOGjHu.jpg[/img]
+[img]https://imgur.com/a/TIePH1f[/img]
 
-[h1]Traduction Française de VIET Events v1.6.1 "Questionnaire" (Sortie 15 juillet 2022, Compatible avec CK3 v1.6.X)[/h1]
+[h1]Traduction Française de VIET Events v1.7.0 "888" (Sortie 8 septembre 2022, Compatible avec CK3 v1.7.X)[/h1]
 [h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
@@ -26,7 +26,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B]825 nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B][U]888[/U] nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, artefacts, interactions entre personnages, activités et bien d'autres choses.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -39,16 +39,9 @@ Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site d
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.6.1 "Questionnaire"[/h1]
+[h1]Version 1.7.0 "888"[/h1]
 
-[I]Cette mise à jour inclut les 7 événements gagnants du concours d'événements du questionnaire VIET/RICE. Merci à tous ceux qui ont participé, et merci en particulier à Cerbzzz, Duke Leo, Pedrolu, Ultimatum, Viridianus, et deux joueurs anonymes pour les idées gagnantes ![/I]
-
-[LIST]
-[*]Ajout de 7 événements issus des soumissions gagnantes du concours VIET Events
-[*]Rééquilibrage des coûts de l'or de plusieurs décisions pour qu'ils soient moins irréalisables aux niveaux supérieurs.
-[*]Correction du fantôme dans la chaîne de décision de hantise qui "disparaît" de lui-même même après un exorcisme réussi.
-[*]Diverses corrections de bug
-[/LIST]
+[I]Dans la culture de l'Asie de l'Est, le 8 est un chiffre porte-bonheur. Avec cette mise à jour, VIET a atteint le cap chanceux de l'ajout de 888 événements dans le jeu, juste à temps pour le deuxième anniversaire de la sortie de VIET ! Merci à tous les joueurs et moddeurs qui m'ont aidé et soutenu au fil des ans - l'année dernière a vu l'introduction d'événements plus intéressants comme les événements de comté et les événements de cour, et le mod va certainement continuer à se développer dans sa troisième année avec votre soutien continu ![/I]
 
 [img]https://i.imgur.com/6L11s2n.jpg[/img]
 
