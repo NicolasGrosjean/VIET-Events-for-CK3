@@ -1,6 +1,6 @@
-[img]https://imgur.com/a/TIePH1f[/img]
+[img]https://i.imgur.com/OQu1I1Z.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.7.0 "888" (Sortie 8 septembre 2022, Compatible avec CK3 v1.7.X)[/h1]
+[h1]Traduction Française de VIET Events v1.8.0 "Rien" (Sortie 1 décembre 2022, Compatible avec CK3 v1.8.X)[/h1]
 [h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
@@ -39,9 +39,18 @@ Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site d
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.7.0 "888"[/h1]
+[h1]Version 1.8.0 "Rien"[/h1]
 
-[I]Dans la culture de l'Asie de l'Est, le 8 est un chiffre porte-bonheur. Avec cette mise à jour, VIET a atteint le cap chanceux de l'ajout de 888 événements dans le jeu, juste à temps pour le deuxième anniversaire de la sortie de VIET ! Merci à tous les joueurs et moddeurs qui m'ont aidé et soutenu au fil des ans - l'année dernière a vu l'introduction d'événements plus intéressants comme les événements de comté et les événements de cour, et le mod va certainement continuer à se développer dans sa troisième année avec votre soutien continu ![/I]
+[I]A partir de cette mise à jour, VIET a dépassé les 200k abonnés sur le Steam Workshop. Merci à tous pour votre soutien continu, cela signifie beaucoup ! Mon modwork CK3 a été un moyen inhabituel mais amusant pour moi de m'engager dans l'écriture créative, et j'espère continuer à ajouter encore plus de contenu à l'avenir.[/I]
+
+Nouveaux événements ont été ajoutés dans cette version : [B]0[/B]
+
+[LIST]
+[*]Mise à jour avec le patch 1.8 “Robe”
+[*]Diverses corrections de bugs
+[/LIST]
+
+La liste des modifications étant trop volumineuse pour être listée ici, veuillez consulter les notes de modification ici : https://steamcommunity.com/sharedfiles/filedetails/changelog/2227658180
 
 [img]https://i.imgur.com/6L11s2n.jpg[/img]
 
