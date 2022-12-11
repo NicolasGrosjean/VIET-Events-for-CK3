@@ -1536,7 +1536,7 @@
  VIETold.2101.a:0 "Curieusement, ses conseils se sont avérés très utiles."
  VIETold.2102.t:0 "Une Visite Nocturne ?"
  VIETold.2102.desc:0 "Je verse un document sur mon bureau la nuit quand je vois une adorable petite fille se précipiter dans ma chambre. En nous voyant, nous regardons tous les deux dans la confusion, alors je lui demande qui elle est et pourquoi elle est ici. "J'ai froid et j'ai faim", marmonne-t-elle timidement. Me sentant désolée pour elle, je montre du doigt la nourriture que j'avais laissée sur ma table et lui dis d'en manger."
- VIETold.2102.a:0 "\"Merci, mon [ROOT.Char.GetLadyLord]\", grince-t-elle, avant de manger."
+ VIETold.2102.a:0 "\"Merci, mon [THIS.Char.GetLadyLord]\", grince-t-elle, avant de manger."
  VIETold.2103.t:0 "Une Visite Nocturne ?"
  VIETold.2103.desc:0 "Je me réveille soudain, réalisant que j'ai dû m'assoupir en lisant, et que la petite fille doit venir d'un rêve que j'ai fait. Je vais finir le reste de ma nourriture, mais contrairement à ce dont je me souviens, il ne reste rien de mon repas, à part quelques miettes.\n\nLe lendemain matin, quand je me suis renseigné sur elle, j'ai appris que son apparence correspondait à celle d'une des filles de mon gardien, décédée de maladie il y a quelques jours. Le garde, un fervent croyant [ROOT.Char.GetFaith.GetAdjective], me dit qu'il est certain que j'ai aidé l'âme de son enfant à passer dans l'au-delà, et me remercie."
  VIETold.2103.a:0 "C'était une enfant polie et gentille. Elle est certainement en paix maintenant dans [ROOT.Char.GetFaith.DivineRealm]."
