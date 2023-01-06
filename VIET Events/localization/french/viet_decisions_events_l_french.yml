@@ -277,7 +277,7 @@
  VIETmisc.2067.desc:0 "Au moment où je commençais à m'assoupir, je les ai vus ! J'ai vu tous les esprits, marchant ici et là ! Ma mâchoire s'est ouverte. Peu de personnes vivantes ont été témoins de telles choses, et pourtant ils étaient là, marchant comme des vivants ! J'étais tellement excité que j'ai accidentellement glissé et atterri la tête la première sur le sol.\n\nLorsque j'ai repris conscience, mes gardes étaient soulagés que je ne me sois pas blessé, et ils m'ont demandé ce qui s'était passé et pourquoi j'étais si excité tout à l'heure. Je leur ai raconté ce dont j'avais été témoin, mais ils étaient confus. Un garde m'a dit : \"Il n'y a rien là-bas, mon [ROOT.Char.GetLadyLord]. Nous n'avons rien vu.\""
  VIETmisc.2067.a:0 "Je jure que j'ai vu les fantômes ! Je ne suis pas fou, je les ai vus !"
  VIETmisc.2067.b:0 "L'ai-je rêvé ? Pourtant... tout semblait si réel."
- VIETmisc.2068.t:0 "Rien"
+ VIETmisc.2068.t: "Rien"
  VIETmisc.2068.desc:0 "Nous sommes restés assis près de la fenêtre pendant un long moment, jusqu'aux petites heures de la nuit. Pourtant, rien d'intéressant ne s'est produit, et je me suis endormi au moment où le soleil s'est levé. Tout le voyage, semble-t-il, n'avait été qu'une perte de temps. Peut-être que ces histoires de fantômes n'étaient que ça : des histoires."
  VIETmisc.2068.a:0 "Au moins, j'ai eu des petites vacances, non ?"
  VIETmisc.2069.t:0 "Ils étaient là-bas !"
