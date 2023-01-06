@@ -1,6 +1,6 @@
-[img]https://i.imgur.com/IyTLL0C.jpg[/img]
+[img]https://i.imgur.com/xb3Y3bN.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.8.1 "Decade" (Sortie 11 décembre 2022, Compatible avec CK3 v1.8.X)[/h1]
+[h1]Traduction Française de VIET Events v1.8.2 "Oblivion" (Sortie 30 décembre 2022, Compatible avec CK3 v1.8.X)[/h1]
 [h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
@@ -11,7 +11,7 @@
 
 Very Immersive Events and Tales (VIET), la suite de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1601402546]VIET Events Reborn for CK2[/url], est un mod de saveurs qui ajoute une vaste collection d'événements sur la vie quotidienne pour pimenter votre jeu. Ils ajoutent de l'immersion et une diversité d'expériences entre les guerres et les chaînes d'événements de la vanille, et couvrent des minuties mondaines, de la petite conversation avec les courtisans et la cuisine locale aux histoires épiques sur l'amour, la philosophie et la condition humaine. Certains incluent de nouvelles décisions, des interactions entre personnages, des activités et bien d'autres choses à explorer ! Cybrxkhan espère que les leçons qu'il a tirées de ses huit années (avec un hiatus) de modding de CK2 l'aideront à offrir une expérience amusante à tous les joueurs intéressés par ses mods.
 
-Faites-lui savoir si vous rencontrez des bugs. [B]Il espère continuer à ajouter de plus en plus d'événements à chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST PAS COMPATIBLE AVEC LES SUCCES ![/U][/B]
+[B]Il espère continuer à ajouter de plus en plus d'événements à chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST PAS COMPATIBLE AVEC LES SUCCES ![/U][/B]
 
 N'hésitez pas à lui faire savoir si vous rencontrez des bugs, ou si vous pensez que les événements se produisent trop souvent ou pas assez souvent. Bien que les événements puissent devenir répétitifs si vous jouez assez longtemps car il n'en a pas encore ajouté beaucoup, [B]il espère continuer à ajouter de plus en plus d'événements dans chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST COMPATIBLE AVEC LES SUCCES STEAM ![/U][/B]
 
@@ -26,7 +26,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B][U]900[/U] nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B][U]1001[/U] nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, artefacts, interactions entre personnages, activités et bien d'autres choses.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -39,19 +39,13 @@ Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site d
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.8.1 "Decade"[/h1]
+[h1]Version 1.8.2 "Oblivion"[/h1]
 
-[I]La nouvelle mise à jour de VIET commémore le 10ème anniversaire de la sortie de la première version de VIET pour CK2 le 12/11/12. Les VIETerans qui sont là depuis assez longtemps se souviennent peut-être qu'à l'époque, VIET était plutôt VIET+RICE, mais le mod a grandi au cours des 10 dernières années, pour le mieux à mon avis. Le monde a peut-être changé de manière significative au cours de la dernière décennie, mais je suis toujours reconnaissant pour l'aide et le soutien que j'ai reçu au fil des ans - merci à tous ![/I]
+[I]"J'ai entendu d'autres personnes dire la même chose."
 
-Nouveaux événements ont été ajoutés dans cette version : [B]12[/B]
+VIET a maintenant officiellement dépassé le cap des 1000 événements ! Merci à tous, comme toujours ![/I]
 
-[LIST]
-[*]Ajout de 12 événements sur le thème du chiffre 10
-[*]Ajout de quelques nouveaux arrière-plans d'événements du Moyen-Orient
-[*]La décision d'enquêter sur une Ville Fantôme a maintenant un temps de recharge visible de 10 ans, plutôt qu'un temps de recharge caché de 20 ans.
-[*]Correction des personnages de rêveurs qui n'apparaissaient pas correctement parce qu'ils étaient taillés alors qu'ils ne devaient pas l'être.
-[*]Diverses corrections de bugs
-[/LIST]
+Nouveaux événements ajoutés dans cette version : [B]101[/B]
 
 La liste des modifications étant trop volumineuse pour être listée ici, veuillez consulter les notes de modification ici : https://steamcommunity.com/sharedfiles/filedetails/changelog/2227658180
 
