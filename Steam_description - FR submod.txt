@@ -73,4 +73,4 @@ Quelques autres remerciements en particulier :
 [*]Stik, Vertimnus, et Tobbzn de la CK3 Mod Co-op pour m'avoir aidé à trouver comment adapter mes événements provinciaux de CK2 et faire un système pour les événements de comté pour CK3.
 [/LIST]
 
-Traduction française réalisée par Mouchi mais reprennant des traductions réalisées par Loup99 et Domper59 pour la version CK2.
+Traduction française réalisée par Mouchi avec l'aide de Jibril5543 mais reprennant des traductions réalisées par Loup99 et Domper59 pour la version CK2.
