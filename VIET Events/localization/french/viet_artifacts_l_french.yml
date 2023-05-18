@@ -4,7 +4,6 @@
  artifact_VIET_recipe:0 "Recette"
  VIET_artifact_limit_warning:0 "L'ajout de cet [clutter_artifact|E] à votre inventaire #X réduit#! les chances que vous rencontriez d'autres [clutter_artifacts|E]."
 
-
  # Special Artifacts
  VIET_baklava_test_name:0 "Sainte Tranche de Baklava"
  VIET_baklava_test_desc:0 "Normalement, le baklava devrait être mangé. Cette tranche de baklava devrait plutôt être adorée, car le baklava est divin, le baklava est l'alpha et l'oméga, et c'est le baklava des baklavas, le roi des rois des baklavas."
@@ -140,6 +139,7 @@
  VIET_recipe_sweetroll_desc:0 "Les cuisiniers munis de cette recette peuvent préparer un délicieux petit pain sucré. \"Un seul goût, et vous êtes au paradis... au sommet du monde, oui !\""
  VIET_recipe_hummus_name:0 "Recette du Houmous"
  VIET_recipe_hummus_desc:0 "Les cuisiniers qui utilisent cette recette connaîtront les secrets de la préparation d'un bon houmous, et sauront l'adapter à toutes les occasions. Il ne s'agit pas seulement de mélanger des pois chiches, du tahini et du jus de citron, mais aussi de savoir quelles épices, quelles garnitures et autres utiliser."
+ # 1.5.1 - please leave this comment here
  VIET_recipe_yogurt_name:0 "Recette de Yaourt"
  VIET_recipe_yogurt_desc:0 "Les cuisiniers qui utilisent cette recette savent qu'elle est plus qu'une simple recette de yaourt. Cette recette se démarque de beaucoup d'autres en montrant les meilleures façons de faire du yaourt à partir de lait fermenté - pour s'assurer qu'il a une texture, une consistance et un goût excellents, et qu'il peut également être utilisé pour préparer une variété de plats savoureux, à la fois salés et sucrés."
  VIET_recipe_savory_pie_name:0 "Recette de Tarte Salée"

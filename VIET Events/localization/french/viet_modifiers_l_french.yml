@@ -293,7 +293,6 @@
  VIET_opinion_bad_hangover_mockery:0 "S'est moqué de ma gueule de bois"
  VIET_ate_bad_baklava:0 "A mangé du mauvais Baklava"
  VIET_sympathetic:0 "Sympathique"
- VIET_admits_mistakes:0 "A admis ses erreurs"
  VIET_smuggling_side_business:0 "Fait de la contrebande"
  VIET_smuggling_side_business_desc:0 "Ce personnage est connu pour se livrer à la contrebande illégale, même si elle est contraire aux lois qu'il est censé faire respecter."
  # 1.2.1 - please leave this comment here
@@ -1023,7 +1022,6 @@
  VIET_opinion_helped_my_debt_problems:0 "M'a Aidé à Résoudre mes Problèmes d'Endettement"
  VIET_opinion_refused_to_help_my_debt_problems:0 "Ne M'a pas Aidé à Résoudre mes Problèmes de Dettes"
  VIET_opinion_gracious:0 "Très Gracieux"
- VIET_opinion_rejected_my_gift:0 "A Rejeté Mon Cadeau"
  VIET_opinion_rudely_rejected_my_gift:0 "A Rejeté Brutalement Mon Cadeau"
  VIET_shadowy_mysterious_woman:0 "J'ai Vu une Femme Mystérieuse dans l'Ombre."
  VIET_opinion_forced_stay_meeting:0 "M'a forcé à rester à une réunion alors que je ne me sentais pas bien."
