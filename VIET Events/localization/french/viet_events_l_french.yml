@@ -1371,7 +1371,7 @@
  VIETmisc.0275.a:0 "Une leçon intéressante ! J'ai appris pas mal de choses."
  VIETmisc.0275.b:0 "Quelle absurdité ennuyeuse ! Je me suis endormi pendant la leçon."
  VIETmisc.0276.t:0 "Nos Chiffres"
- VIETmisc.0276.desc:0 "Un jour, [child.GetFirstName] s'approche de moi et me demande : "Pourquoi avons-nous dix doigts et dix jambes ?"\n\nCela semble être une question si simple, mais en y réfléchissant, je me rends compte que je n'ai pas de réponse toute faite."
+ VIETmisc.0276.desc:0 "Un jour, [child.GetFirstName] s'approche de moi et me demande : "Pourquoi avons-nous dix doigts et dix orteils ?"\n\nCela semble être une question si simple, mais en y réfléchissant, je me rends compte que je n'ai pas de réponse toute faite."
  VIETmisc.0276.a:0 "[ROOT.Char.GetFaith.HighGodName] a créé les humains de cette façon, j'en suis sûr."
  VIETmisc.0276.a.failure:0 "L'explication ne convainc pas [child.GetFirstNameNoTooltip]."
  VIETmisc.0276.a.success:0 "[child.GetFirstNameNoTooltip] est convaincu par l'explication."

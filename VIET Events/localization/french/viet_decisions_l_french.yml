@@ -91,6 +91,8 @@
  VIET_decision_employ_renowned_blacksmiths.supplies:0 "Fournitures"
  VIET_decision_employ_renowned_blacksmiths_confirm:0 "Allons les rencontrer."
  VIET_decision_employ_renowned_blacksmiths_context_tooltip:0 "#emphasis Contexte Historique :#! Depuis l'Antiquité, le forgeage du fer est un métier important dans de nombreuses sociétés de l'Ancien Monde. Chaque village et chaque armée avait besoin de quelqu'un qui pouvait forger le fer pour en faire des outils utiles (y compris des armes et des armures), ou pour réparer ces outils."
+ VIET_decision_visit_legendary_burial_mound_context_tooltip:0 "#emphasis Historical Context:#! Burial mounds or tumuli (singular #italic tumulus#!) can be found in virtually every part of the world, and some date back thousands of years. As such, there are often many local legends and myths associated with these sites."  
+ VIET_decision_investigate_a_ghost_town_context_tooltip:0 "#emphasis Historical Context:#! The spirits of the dead have featured in the folklore and mythology of virtually every culture around the world since time immemorial. Likewise, every culture had its legends about places where ghosts would congregate and take care of their supernatural business."   
  VIET_decision_visit_legendary_burial_mound:0 "Visite d'un Tumulus Légendaire"
  VIET_decision_visit_legendary_burial_mound_tooltip:0 "Je devrais venir dans l'un de ces lieux légendaires au moins une fois dans ma vie."
  VIET_decision_visit_legendary_burial_mound_desc:0 "J'ai récemment dédié un sanctuaire à un personnage légendaire qui serait enterré sous un monticule ou une colline qui se trouve spécifiquement dans une partie de mon domaine. Je devrais peut-être me rendre au sanctuaire pour lui présenter mes respects."
