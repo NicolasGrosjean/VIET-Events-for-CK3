@@ -70,6 +70,6 @@
  game_concept_clutter_artifacts:0 "Artéfacts d'Encombrement"
  game_concept_clutter_artifact_desc:0 "Les $game_concept_clutter_artifacts$ sont un type d'[inventory_artifact|E] introduit par le mod VIET et que l'on trouve souvent lors d'événements occasionnels. Ils représentent des objets divers et quotidiens qu'un [character|E] utilise souvent dans sa vie, qu'il affectionne particulièrement ou que les autres associent fortement à lui.\n\nBien qu'il n'y ait pas de limite au nombre d'objets que vous pouvez théoriquement posséder, la probabilité de les rencontrer est sensiblement #X réduite#! si vous en possédez déjà quelques-uns - réfléchissez bien à ceux que vous jugez importants pour vous et pour le style de vie de votre personnage !"
 
- VIETintro.0011.t:0 "The Journey Begins"
- VIETintro.0011.desc:0 "It is time to start the journey to [ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName] for the [ROOT.Char.GetInvolvedActivity.GetShortName]. I am sure the headache and hassle of organizing this trip will be worth it in the end when we reach our destination... or at least I'll have to hope that is the case, because otherwise all this stress over preparing for the trip would have been for nothing."
- VIETintro.0011.a:0 "We go through these hassles for a good reason."
+ VIETintro.0011.t: "Le Voyage Commence"
+ VIETintro.0011.desc: "Il est temps de commencer le voyage vers [ROOT.Char.GetTravelPlan.GetData.GetNextDestination.GetProvince.GetName] pour [ROOT.Char.GetInvolvedActivity.GetShortName]. Je suis sûr que le mal de tête et les tracas liés à l'organisation de ce voyage en vaudront la peine lorsque nous atteindrons notre destination... ou du moins je dois l'espérer, car sinon tout ce stress lié à la préparation du voyage n'aurait servi à rien."
+ VIETintro.0011.a: "Nous nous soumettons à ces tracas pour une bonne raison."

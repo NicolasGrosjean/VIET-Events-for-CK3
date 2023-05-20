@@ -1,6 +1,6 @@
-[img]https://i.imgur.com/3hfbhs6.jpg[/img]
+[img]https://i.imgur.com/AqpLmVF.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.8.3 "Guillaume d'Ockham" (Sortie 31 janvier 2023, Compatible avec CK3 v1.8.X)[/h1]
+[h1]Traduction Française de VIET Events v1.9.0 "Xuanzang" (Sortie 17 mai 2023, Compatible avec CK3 v1.9.X)[/h1]
 [h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
@@ -9,9 +9,10 @@
 [B]Installation via Paradox Mods disponible [url=https://mods.paradoxplaza.com/mods/14549/Any]ici[/url][/B]
 [B][url=https://imgur.com/a/TIePH1f]Voir toutes les captures d'écran ici[/url][/B]
 
-Very Immersive Events and Tales (VIET), la suite de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1601402546]VIET Events Reborn for CK2[/url], est un mod de saveurs qui ajoute une vaste collection d'événements sur la vie quotidienne pour pimenter votre jeu. Ils ajoutent de l'immersion et une diversité d'expériences entre les guerres et les chaînes d'événements de la vanille, et couvrent des minuties mondaines, de la petite conversation avec les courtisans et la cuisine locale aux histoires épiques sur l'amour, la philosophie et la condition humaine. Certains incluent de nouvelles décisions, des interactions entre personnages, des activités et bien d'autres choses à explorer ! Cybrxkhan espère que les leçons qu'il a tirées de ses huit années (avec un hiatus) de modding de CK2 l'aideront à offrir une expérience amusante à tous les joueurs intéressés par ses mods.
+Very Immersive Events and Tales (VIET), la suite de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1601402546]VIET Events Reborn for CK2[/url], est un mod de saveurs qui ajoute une vaste collection d'événements sur la vie quotidienne pour pimenter votre jeu. Ils ajoutent de l'immersion et une diversité d'expériences entre les guerres et les chaînes d'événements de la vanille, et couvrent des minuties mondaines, de la petite conversation avec les courtisans et la cuisine locale aux histoires épiques sur l'amour, la philosophie et la condition humaine. Certains incluent de nouvelles décisions, des interactions entre personnages, des activités et bien d'autres choses à explorer !
 
-[B]Il espère continuer à ajouter de plus en plus d'événements à chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST PAS COMPATIBLE AVEC LES SUCCES ![/U][/B]
+Cybrxkhan espère que les leçons qu'il a tirées de ses huit années (avec un hiatus) de modding de CK2 l'aideront à offrir une expérience amusante à tous les joueurs intéressés par ses mods.
+Il espère continuer à ajouter de plus en plus d'événements à chaque mise à jour !
 
 N'hésitez pas à lui faire savoir si vous rencontrez des bugs, ou si vous pensez que les événements se produisent trop souvent ou pas assez souvent. Bien que les événements puissent devenir répétitifs si vous jouez assez longtemps car il n'en a pas encore ajouté beaucoup, [B]il espère continuer à ajouter de plus en plus d'événements dans chaque mise à jour ![/B] Veuillez noter que [B][U]VIET N'EST COMPATIBLE AVEC LES SUCCES STEAM ![/U][/B]
 
@@ -26,7 +27,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B][U]1008[/U] nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B][U]1018[/U] nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, artefacts, interactions entre personnages, activités et bien d'autres choses.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy et de science-fiction)
@@ -39,12 +40,12 @@ Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site d
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.8.3 "Guillaume d'Ockham"[/h1]
+[h1]Version 1.9.0 "Xuanzang"[/h1]
 
-[I]"Il est inutile de faire avec plus ce qui peut être fait avec moins."
-- Guillaume d'Ockham (1287–1347 CE), théologien, érudit et frère anglais, surtout connu pour avoir défendu le concept qui sera plus tard connu sous le nom de "Rasoir d'Ockham".[/I]
+[I]"Je souhaite aller à la découverte de la vérité et j'ai donc décidé de voyager en Occident au péril de ma vie afin de rechercher les enseignements dont je n'ai pas encore entendu parler".
+- Xuanzang (602-664 CE), pèlerin bouddhiste chinois, voyageur, érudit et traducteur.[/I]
 
-Nouveaux événements ajoutés dans cette version : [B]7[/B]
+Nouveaux événements ajoutés dans cette version : [B]10[/B]
 
 La liste des modifications étant trop volumineuse pour être listée ici, veuillez consulter les notes de modification ici : https://steamcommunity.com/sharedfiles/filedetails/changelog/2227658180
 

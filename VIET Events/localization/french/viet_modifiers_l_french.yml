@@ -1212,12 +1212,12 @@
  VIET_unsatisfied_horny_desc: "Ce personnage a l'impression de ne pas avoir assez d'action au lit."
  # 1.8.4 - please leave this comment here
  # Version 1.9.0 Start Here - Note to translators: Please leave this comment and do not move or remove it
- VIET_reduced_travel_rations:0 "Reduced Travel Rations"
- VIET_supplies_from_locals:0 "Supplies from Locals"
- VIET_respects_the_dead:0 "Respects the Dead"
- VIET_travel_information:0 "Exchanged Information about Travel Conditions"
- VIET_local_entertainment:0 "Local Entertainment"
- VIET_local_tour:0 "Toured Local Settlement"
- VIET_traveling_diligently_on_time:0 "Traveling Diligently on Time"
+ VIET_reduced_travel_rations: "Rations de Voyage Réduites"
+ VIET_supplies_from_locals: "Approvisionnements Locaux"
+ VIET_respects_the_dead: "Respect des Morts"
+ VIET_travel_information: "Échange d'Informations sur les Conditions de Voyage"
+ VIET_local_entertainment: "Divertissements Locaux"
+ VIET_local_tour: "Visite d'un Domaine Local"
+ VIET_traveling_diligently_on_time: "Voyager avec Diligence et Ponctualité"
  # Version 1.9.1 Start Here - Note to translators: Please leave this comment and do not move or remove it
  xxxxx:0 "xxxxx"
