@@ -1,6 +1,6 @@
-[img]https://i.imgur.com/rivjDDQ.jpg[/img]
+[img]https://i.imgur.com/RVwBLuS.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.9.1 "Ibn Jubayr"  (Sortie 5 août 2023, Compatible avec CK3 v1.9.X)[/h1]
+[h1]Traduction Française de VIET Events v1.10.0 "Enfance"  (Sortie 22 août 2023, Compatible avec CK3 v1.10.X)[/h1]
 [h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
@@ -26,7 +26,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B][U]1028[/U] nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B][U]1048[/U] nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, artefacts, interactions entre personnages, activités et bien d'autres choses.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy/science-fiction)
@@ -39,12 +39,13 @@ Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site d
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.9.1 "Ibn Jubayr"[/h1]
+[h1]Version 1.10.0 "Enfance"[/h1]
 
-[I]"L'une des choses étonnantes dont on parle est que, bien que les feux de la discorde brûlent entre les deux parties, musulmane et chrétienne, deux armées peuvent se rencontrer et se mettre en ordre de bataille, et pourtant les voyageurs musulmans et chrétiens iront et viendront entre elles sans interférence... Les soldats s'engagent dans leur guerre, tandis que les gens sont en paix."
-– Ibn Jubayr (1145-1217), pèlerin, voyageur et poète andalou[/I]
 
-Nouveaux événements ajoutés dans cette version : [B]10[/B]
+[I]“C'est un père sage qui connaît son propre enfant.”
+- William Shakespeare, Le Marchant de Venise[/I]
+
+Nouveaux événements ajoutés dans cette version : [B]20[/B]
 
 La liste des modifications étant trop volumineuse pour être listée ici, veuillez consulter les notes de modification ici : https://steamcommunity.com/sharedfiles/filedetails/changelog/2227658180
 
