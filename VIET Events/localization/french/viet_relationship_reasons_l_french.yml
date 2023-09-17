@@ -4,5 +4,4 @@
  VIET_rival_reason_placeholder: "[CHARACTER.GetShortUIName|U] et [TARGET_CHARACTER.GetShortUIName] ont commencé à se détester à cause de certaines différences."
  VIET_travel_argument_reason: "[CHARACTER.GetShortUIName|U] et [TARGET_CHARACTER.GetShortUIName] se sont disputés lors d'un [traveling|E]."
  VIET_travel_chat_reason: "[CHARACTER.GetShortUIName|U] et [TARGET_CHARACTER.GetShortUIName] ont eu une merveilleuse et profonde conversation lors d'un [traveling|E]."
- VIET_natural_philosophy_interest:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] had an enjoyable, intellectual conversation about natural philosophy."
-
+ VIET_natural_philosophy_interest: "[CHARACTER.GetShortUIName|U] et [TARGET_CHARACTER.GetShortUIName] ont eu une conversation agréable et intellectuelle sur la philosophie naturelle."
