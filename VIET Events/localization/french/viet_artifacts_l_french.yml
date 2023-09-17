@@ -5,7 +5,7 @@
  VIET_artifact_limit_warning:0 "L'ajout de cet [clutter_artifact|E] à votre inventaire #X réduit#! les chances que vous rencontriez d'autres [clutter_artifacts|E]."
 
  # Special Artifacts
-d VIET_baklava_test_name:0 "Sainte Tranche de Baklava"
+ VIET_baklava_test_name:0 "Sainte Tranche de Baklava"
  VIET_baklava_test_desc:0 "Normalement, le baklava devrait être mangé. Cette tranche de baklava devrait plutôt être adorée, car le baklava est divin, le baklava est l'alpha et l'oméga, et c'est le baklava des baklavas, le roi des rois des baklavas."
  VIET_sweetroll_test_name:0 "Rouleau de Sucre Impérial Légendaire"
  VIET_sweetroll_test_desc:0 "Laisse-moi deviner... quelqu'un a volé ton rouleau de sucre."
@@ -17,8 +17,8 @@ d VIET_baklava_test_name:0 "Sainte Tranche de Baklava"
  VIET_lusty_argonian_maid_desc:0 "Copie écrite d'une pièce de théâtre torride sur les mésaventures d'une femme de chambre [ROOT.Char.GetCulture.GetName], racontée en plusieurs actes."
  VIET_childhood_blanket_name:0 "Couverture d'Enfance"
  VIET_childhood_blanket_desc:0 "La couverture d'enfance de [ROOT.Char.GetTitledFirstName]. On dit qu'elle lui a apporté un grand réconfort, même à l'âge adulte, aussi embarrassant que cela puisse être de l'admettre aux autres."
- VIET_supernova_1066_record_name:0 "[ROOT.Char.GetCulture.GetNameNoTooltip] Account of the 1006 Supernova"
- VIET_supernova_1066_record_desc:0 "This text records the observations various [ROOT.Char.GetCulture.GetName] astronomers made concerning the 1006 Supernova, the brighest observed stellar event in recorded history. A large 'new' star was seen in the sky for up to a few weeks and possibly as long as a couple years. Due to the extraordinary nature of this event, [ROOT.Char.GetTitledFirstName] encouraged local scholars to write down some notes about it for posterity."
+ VIET_supernova_1066_record_name:0 "[ROOT.Char.GetCulture.GetNameNoTooltip] Récit de la supernova 1006"
+ VIET_supernova_1066_record_desc:0 "Ce texte présente les observations faites par divers astronomes [ROOT.Char.GetCulture.GetName] concernant la supernova de 1006, l'événement stellaire le plus important jamais observé dans l'histoire de l'humanité. Une grande "nouvelle" étoile a été observée dans le ciel pendant quelques semaines, voire quelques années. En raison de la nature extraordinaire de cet événement, [ROOT.Char.GetTitledFirstName] a encouragé les érudits locaux à écrire quelques notes à ce sujet pour la postérité."
 
  # BASIC ARTIFACTS
  VIET_abacus_name:0 "Boulier"
