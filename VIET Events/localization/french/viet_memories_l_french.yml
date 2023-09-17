@@ -5,10 +5,10 @@
  VIET_memory_oblivion_dream_desc: "J'ai rêvé d'une aventure épique dans un autre monde, où j'ai aidé un Prince disparu depuis longtemps à vaincre une invasion par les forces de [owner.GetFaith.DevilName]."
  VIET_memory_oblivion_dream_desc_second_perspective: "vous avez rêvé d'une aventure épique dans un autre monde, où vous avez aidé un Prince disparu depuis longtemps à vaincre une invasion par les forces de [owner.GetFaith.DevilName]."
  VIET_memory_oblivion_dream_desc_third_perspective: "[owner.GetName] a rêvé d'une aventure épique dans un autre monde, où [owner.GetSheHe] a aidé un Prince perdu depuis longtemps à vaincre une invasion par les forces de [owner.GetFaith.DevilName]."
- VIET_memory_supernova_1006:0 "witnessed the extraordinary, once in a lifetime appearance of a "new star," which left a great impression on [owner.GetHerHim]"
- VIET_memory_supernova_1006_desc:0 "I witnessed the extraordinary, once in a lifetime appearance of a "new star," which left a great impression on me"
- VIET_memory_supernova_1006_desc_second_perspective:0 "you itnessed the extraordinary, once in a lifetime appearance of a "new star," which left a great impression on yourself"
- VIET_memory_supernova_1006_desc_third_perspective:0 "[owner.GetName] itnessed the extraordinary, once in a lifetime appearance of a "new star," which left a great impression on [owner.GetHerHim]"
+ VIET_memory_supernova_1006: "a été témoin de l'apparition extraordinaire, une fois dans sa vie, d'une "nouvelle étoile", qui a laissé une grande impression sur [owner.GetHerHim]"
+ VIET_memory_supernova_1006_desc: "j'ai assisté à l'apparition extraordinaire, une fois dans ma vie, d'une "nouvelle étoile", qui m'a beaucoup impressionné"
+ VIET_memory_supernova_1006_desc_second_perspective: "vous avez été témoin de l'apparition extraordinaire, une fois dans votre vie, d'une "nouvelle étoile", ce qui vous a beaucoup impressionné"
+ VIET_memory_supernova_1006_desc_third_perspective: "[owner.GetName] a été témoin de l'apparition extraordinaire, une fois dans la vie, d'une "nouvelle étoile", qui a laissé une grande impression sur [owner.GetHerHim]."
 
  # Activity Memories
  VIET_view_flower_meadows_in_bloom_host_memory: "a vu de belles fleurs en éclosion"
