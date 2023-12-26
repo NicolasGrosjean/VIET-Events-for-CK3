@@ -1,6 +1,6 @@
-[img]https://i.imgur.com/qyhwEls.jpg[/img]
+[img]https://i.imgur.com/IR0i4Kh.jpg[/img]
 
-[h1]Traduction Française de VIET Events v1.11.0 "Qanat"  (Sortie 11 novembre 2023, Compatible avec CK3 v1.11.X)[/h1]
+[h1]Traduction Française de VIET Events v1.11.1 "Châtaigniers"  (Sortie 25 décembre 2023, Compatible avec CK3 v1.11.X)[/h1]
 [h1]Dans le launcher la traduction doit être mise en DESSOUS de VIET Events[/h1]
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Serveur Discord des Mods de cybrxkhan[/url][/B][/h1]
 [h1][B][url=https://cybrxkhansmods.godaddysites.com/]Site officiel des mods de cybrxkhan[/url][/B][/h1]
@@ -26,7 +26,7 @@ N'hésitez pas à utiliser le travail de cybrxkhan dans vos mods - tout ce qu'il
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Plus de [B][U]1074[/U] nouveaux événements de saveur[/B] à expérimenter
+[*]Plus de [B][U]1081[/U] nouveaux événements de saveur[/B] à expérimenter
 [*]Explorez de nouvelles décisions, artefacts, interactions entre personnages, activités et bien d'autres choses.
 [*]Règle de jeu permettant de désactiver les événements les plus stupides pour ceux qui ne les aiment pas, avec trois niveaux au choix : Équilibré (par défaut), Sérieux (restreint) et Tous les événements (complet)
 [*][B]Compatible avec presque tout[/B] puisqu'il ne touche aucun fichier du jeu de base - même avec les mods de conversion totale, vous pouvez via les règles du jeu désactiver les événements qui font référence à des choses spécifiques à notre monde médiéval qui n'auraient pas de sens dans d'autres périodes ou univers (comme les mods de conversion de fantasy/science-fiction)
@@ -39,13 +39,13 @@ Allez voir [url=https://cybrxkhansmods.godaddysites.com/faq]la FAQ sur le site d
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.11.0 "Qanat"[/h1]
+[h1]Version 1.11.1 "Châtaigniers"[/h1]
 
 
-[I]"L'eau est partout autour de vous, mais vous ne voyez que des barrières qui vous en empêchent."
-– Rumi (1207 - 1273 CE), Poète persan, érudit, mystique soufi[/I]
+[I]"Si vous aimez les noix, cassez-les"
+- proverbe Écossais[/I]
 
-Nouveaux événements ajoutés dans cette version : [B]8[/B]
+Nouveaux événements ajoutés dans cette version : [B]7[/B]
 
 La liste des modifications étant trop volumineuse pour être listée ici, veuillez consulter les notes de modification ici : https://steamcommunity.com/sharedfiles/filedetails/changelog/2227658180
 
