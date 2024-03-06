@@ -284,13 +284,13 @@
  VIETmisc.3055.good:0 "Les dunes de sable sont considérées comme des signes positifs"
  # Version 1.11.3 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # Version 1.12.0 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIETmisc.3056.t:0 "More Pests"
- VIETmisc.3056.desc:0 "Mouse and rat infestations have become a major problem in [county.GetNameNoTier] as of late. Local experts, from rat catchers to scholars and [ROOT.Char.Custom('DefaultPriestTitlePlural')], are trying their best to stem the tide and have met with some limited success, but this will affect the region’s agricultural productivity, at least in the short-term."
- VIETmisc.3056.a:0 "Those troublesome, dastardly rodents!"
- VIETmisc.3056.b:0 "Hire even more rat-catchers to take care of them."
- VIETmisc.3057.t:0 "Rat-Catchers"
- VIETmisc.3057.desc:0 "The rat-catchers of [county.GetNameNoTier] have earned a positive reputation in the region for their skill at catching rodents. In fact, their services are even occasionally solicited elsewhere. This, of course, can only be a good thing, given these pesky rodents cause much mischief and harm by ruining our crops and spreading disease."
- VIETmisc.3057.a:0 "The rat-catchers’ services are invaluable!"
+ VIETmisc.3056.t:0 "Plus de Ravageurs"
+ VIETmisc.3056.desc:0 "Les infestations de souris et de rats sont devenues un problème majeur dans [county.GetNameNoTier] ces derniers temps. Les experts locaux, des dératiseurs aux érudits en passant par les [ROOT.Char.Custom('DefaultPriestTitlePlural')], font de leur mieux pour endiguer la marée et ont rencontré un succès limité, mais cela affectera la productivité agricole de la région, au moins à court terme."
+ VIETmisc.3056.a:0 "Ces rongeurs encombrants et ignobles !"
+ VIETmisc.3056.b:0 "Engager encore plus de dératiseurs pour s'en occuper."
+ VIETmisc.3057.t:0 "Attrapeurs de Rats"
+ VIETmisc.3057.desc:0 "Les chasseurs de rats de [county.GetNameNoTier] ont acquis une réputation positive dans la région pour leur habileté à attraper les rongeurs. En fait, leurs services sont même parfois sollicités ailleurs. Cela ne peut être qu'une bonne chose, étant donné que ces rongeurs nuisibles causent beaucoup de mal et de dégâts en ruinant nos récoltes et en propageant des maladies."
+ VIETmisc.3057.a:0 "Les services des dératiseurs sont inestimables !"
  # Version 1.12.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  VIETmisc.3058.t:0 "xxxxx"
  VIETmisc.3058.desc:0 "xxxxx"
