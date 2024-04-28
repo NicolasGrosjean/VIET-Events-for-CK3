@@ -292,12 +292,12 @@
  VIETmisc.3057.desc:0 "Les chasseurs de rats de [county.GetNameNoTier] ont acquis une réputation positive dans la région pour leur habileté à attraper les rongeurs. En fait, leurs services sont même parfois sollicités ailleurs. Cela ne peut être qu'une bonne chose, étant donné que ces rongeurs nuisibles causent beaucoup de mal et de dégâts en ruinant nos récoltes et en propageant des maladies."
  VIETmisc.3057.a:0 "Les services des dératiseurs sont inestimables !"
  # Version 1.12.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIETmisc.3058.t:0 "Dogs"
- VIETmisc.3058.desc:0 "[county.GetNameNoTier] has gained renown for the quality of the dog breeds developed there, and there are those who come from afar to acquire the dogs bred here. Perhaps I could have a hand in encouraging the locals to breed the dogs for certain purposes."
- VIETmisc.3058.a:0 "Dogs that guard and hunt well"
- VIETmisc.3058.b:0 "Dogs who are good companions"
- VIETmisc.3058.c:0 "Dogs for herding and working"
- VIETmisc.3058.d:0 "It doesn’t really matter to me"
+ VIETmisc.3058.t: "Chiens"
+ VIETmisc.3058.desc: "[county.GetNameNoTier] est réputé pour la qualité des races de chiens qui y sont développées, et certains viennent de loin pour acquérir les chiens qui y sont élevés. Je pourrais peut-être contribuer à encourager les habitants à élever les chiens à certaines fins."
+ VIETmisc.3058.a: "Des chiens qui gardent et chassent bien"
+ VIETmisc.3058.b: "Des chiens qui sont de bons compagnons"
+ VIETmisc.3058.c: "Des chiens de troupeau et de travail"
+ VIETmisc.3058.d: "Cela n'a pas vraiment d'importance pour moi"
  # Version 1.12.2 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  VIETmisc.3059.t:0 "Shark Fishing"
  VIETmisc.3059.desc:0 "The profitability of the fishing industry in [county.GetNameNoTier] ebbs and flows with the tides, but there is good news as of late.\n\nIn recent times, [county.GetNameNoTier] has earned a reputation for its plentiful and excellent shark catches. Shark meat from there is said to be delicious, and shark oil and shark leather is said to be most useful and long-lasted.\n\nWhether true or not, such stories boost the local economy as fishermen brave the waters to hunt for more and more sharks to sell in faraway markets."
