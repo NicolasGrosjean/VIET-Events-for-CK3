@@ -338,7 +338,7 @@
  # 1.5.3 - please leave this comment here and do not remove it
  VIETmisc.2078.t:0 "Les Prairies Fleuries"
  VIETmisc.2078.desc:0 "Aujourd'hui, j'ai pris le temps de visiter les prairies de printemps de [county.GetName], célèbres pour la beauté de leurs fleurs. Je ne suis pas déçu.\n\nD'un bout à l'autre de l'horizon, il y a des centaines, voire des milliers de petites fleurs sauvages, toutes d'une couleur unique. Toutes ces fleurs réunies, lorsque le vent souffle, même légèrement, ressemblent à une tapisserie en mouvement tissée par [ROOT.Char.GetFaith.HighGodName]!\n\nJe m'assieds sur le sol au sommet d'une colline et je contemple avec émerveillement la beauté majestueuse de la nature qui s'offre à moi."
- VIETmisc.2078.a:0 "Tout simplement incroyable."
+ VIETmisc.2078.a: "Tout simplement incroyable."
  # 1.5.4 - please leave this comment here and do not remove it
  # Version 1.14.5 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  VIETmisc.2079.t:0 "A Snowy Idea"
