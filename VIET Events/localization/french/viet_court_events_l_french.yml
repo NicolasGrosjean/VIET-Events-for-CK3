@@ -119,12 +119,12 @@
  VIETmisc.6020.info:0 "#emphasis Contexte Historique :#! Bien que le lait d'amande soit aujourd'hui considéré comme une mode moderne, il était en fait très populaire à l'époque médiévale, en particulier parmi les classes supérieures. Dans l'Europe chrétienne, il était souvent utilisé pour remplacer le lait animal (en particulier pendant Carême). Le lait d'amande figurait en bonne place dans les livres de cuisine médiévaux, utilisé dans une variété de plats salés et sucrés, allant des soupes et des desserts aux fruits de mer ou simplement en tant que tel."
  # Version 1.11.2 Start Here - Please leave this comment and do not remove it
  # Version 1.12.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIETmisc.6021.t:0 "Hullabaloo"
- VIETmisc.6021.desc:0 "The peace and ceremony of today’s courtly life was interrupted with a loud noise.\n\n“What’s all this hullabaloo about?” I said, in a firm but dreary tone, as I stood up to investigate the commotion.\n\nAt the entryway into my court room, it seemed that when [courtier.GetTitledFirstName] entered the court room, [courtier.GetSheHe] tripped and fell on the floor. [courtier.GetSheHe|U] got entangled in [courtier.GetHerHis] clothes and was a complete mess, and shouted all sorts of inappropriate words in frustration as my servants rushed to help [courtier.GetHerHim] up.\n\nIt took a few more seconds for [courtier.GetFirstNameNoTooltip] to realize what a fool [courtier.GetSheHe] looked like. As others in my court snickered and whispered and pointed at [courtier.GetHerHim], [courtier.GetSheHe] looked most sheepish as I approached."
- VIETmisc.6021.a:0 "No one should laugh at [courtier.GetFirstNamePossessiveNoTooltip] misfortune. It’s rude."
- VIETmisc.6021.b:0 "That was funny. You looked like a complete moron."
- VIETmisc.6021.c:0 "Well, no matter. Let's continue as we were."
- VIET_every_courtier_tt_laughing:0 "Every [courtier|E] who found the situation amusing"
+ VIETmisc.6021.t: "Hullabaloo"
+ VIETmisc.6021.desc: "Le calme et la cérémonie de la vie de cour d'aujourd'hui sont interrompus par un grand bruit.\n\n"Qu'est-ce que c'est que ce brouhaha ?" dis-je, d'un ton ferme mais lugubre, en me levant pour aller voir ce qui se passait.\n\nÀ l'entrée de ma salle d'audience, il semble que lorsque [courtier.GetTitledFirstName] est entré dans la salle d'audience, [courtier.GetSheHe] a trébuché et est tombé sur le sol. [courtier.GetSheHe|U] s'est empêtré dans ses vêtements et s'est retrouvé dans un désordre total, criant toutes sortes de mots inappropriés en signe de frustration alors que mes serviteurs se précipitaient pour l'aider à se relever.\n\nIl a fallu quelques secondes de plus à [courtier.GetFirstNameNoTooltip] pour réaliser à quel point [courtier.GetSheHe] avait l'air d'un imbécile. Alors que les autres membres de ma cour ricanaient, chuchotaient et [courtier.GetHerHim] montraient du doigt, [courtier.GetSheHe] a pris un air penaud lorsque je me suis approché."
+ VIETmisc.6021.a: "Personne ne doit rire de son malheur. C'est impoli."
+ VIETmisc.6021.b: "C'était très drôle. Vous aviez l'air d'un parfait crétin."
+ VIETmisc.6021.c: "Peu importe. Continuons comme avant."
+ VIET_every_courtier_tt_laughing: "Tous les [courtier|E] qui ont trouvé la situation amusante"
  # Version 1.12.2 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  VIETmisc.6022.t:0 "xxxxx"
  VIETmisc.6022.desc:0 "xxxxx"
