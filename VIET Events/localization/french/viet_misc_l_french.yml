@@ -141,8 +141,8 @@
  VIET_snow_sculpture_reaction_15:0 "humbling, reminding us of our place in the universe"
 
  # Decision Types
- decision_group_type_VIET_everyday: "Ordinary Decisions (VIET)"
- decision_group_type_VIET_rare: "Extraordinary Decisions (VIET)"
+ decision_group_type_VIET_everyday: "Décisions ordinaires (VIET)"
+ decision_group_type_VIET_rare: "Décisions extraordinaires (VIET)"
 
  # Events
  VIETintro.0011.t: "Le Voyage Commence"
