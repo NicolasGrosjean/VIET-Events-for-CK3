@@ -83,8 +83,8 @@
  VIET_old_world_cactus_name_west_africa:0 "igilligilli"
 
  # Decision Types
- decision_group_type_VIET_everyday: "Ordinary Decisions (VIET)"
- decision_group_type_VIET_rare: "Extraordinary Decisions (VIET)"
+ decision_group_type_VIET_everyday: "Décisions ordinaires (VIET)"
+ decision_group_type_VIET_rare: "Décisions extraordinaires (VIET)"
 
  # Events
  VIETintro.0011.t: "Le Voyage Commence"
