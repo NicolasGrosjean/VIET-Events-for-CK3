@@ -139,8 +139,8 @@
  VIET_tongue_stone_desc: "Également connues sous le nom de langues de serpent, ces pierres uniques - provenant peut-être d'une sorte de serpent ou d'une créature mystique - ont des propriétés curatives, dont la protection contre la poison. On les utilise généralement pour tremper une boisson ou pour conserver une amulette comme celle-ci."
  # Version 1.12.3 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # Version 1.14.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIET_fire_striker_name:0 "Reliable Fire Striker"
- VIET_fire_striker_desc:0 "A piece of metal, typically iron or steel, used with flint and other stones to create a spark that can be used to make fire. This one is of particularly high quality, and will not disappoint its owner."
+ VIET_fire_striker_name: "Tireur de feu fiable"
+ VIET_fire_striker_desc: "Un morceau de métal, généralement du fer ou de l'acier, utilisé avec du silex et d'autres pierres pour créer une étincelle qui peut être utilisée pour faire du feu. Celui-ci est d'une qualité particulièrement élevée et ne décevra pas son propriétaire."
  # Version 1.14.2 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # 50 Basic
 
@@ -162,6 +162,6 @@
  VIET_recipe_bean_soup_desc:0 "Les cuisiniers qui ont cette recette savent comment préparer une soupe de haricots simple, copieuse et rustique. Bien qu'elle soit dénigrée par certaines élites qui la considèrent comme une nourriture réservée aux paysans, avec les bonnes herbes, les bonnes épices, les bons légumes et la bonne préparation, toute soupe aux haricots peut devenir un élément sain et délicieux de tout repas."
  # 1.5.3 - please leave this comment here
  # Version 1.14.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIET_recipe_dumpling_name:0 "[cook.GetCulture.GetNameNoTooltip] [cook.Custom('VIET_dumpling_name')|U] Recipe"
- VIET_recipe_dumpling_desc:0 "Cooks who have this recipe will have the knowledge needed to make a delicious [cook.GetCulture.GetName] [cook.Custom('VIET_dumpling_name')]. These dumplings, filled with savory flavors like vegetables, spices, herbs, and more, will undoubtedly delight and amaze."
+ VIET_recipe_dumpling_name: "Recette de [cook.Custom('VIET_dumpling_name')|U] [cook.GetCulture.GetNameNoTooltip]"
+ VIET_recipe_dumpling_desc: "Les cuisiniers qui possèdent cette recette auront les connaissances nécessaires pour préparer de délicieuces [cook.Custom('VIET_dumpling_name')] [cook.GetCulture.GetName]. Ces boulettes, remplies de saveurs savoureuses comme les légumes, les épices, les herbes et bien d'autres choses encore, ne manqueront pas de ravir et d'étonner."
  # Version 1.14.2 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
