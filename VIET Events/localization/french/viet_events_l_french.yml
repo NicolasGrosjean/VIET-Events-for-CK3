@@ -1798,17 +1798,17 @@
  VIETmisc.0365.a:0 "Puis-je l'essayer, mon amour ?"
  VIETmisc.0365.b:0 "Pourquoi ne pas l'essayer d'abord ?"
  # Version 1.14.5 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIETmisc.0366.t:0 "Braving the Snow"
- VIETmisc.0366.desc:0 "Today there was a snow storm, and the snow accumulated much, much quicker than anyone expected.\n\n[courtier.GetTitledFirstName] had gone outside for a bit to take care of something in town, but got caught up in the snow storm. While [courtier.GetSheHe] made it back to my residence by the evening, [courtier.GetSheHe] was clearly not in a good mood – and suffering from the effects of having to trudge in cold weather all day."
- VIETmisc.0366.a:0 "Huddle by the fire with us, come on!"
- VIETmisc.0366.b:0 "You shouldn’t have gone outside to begin with."
- VIETmisc.0367.t:0 "Eating Snow?"
- VIETmisc.0367.desc:0 "It has come to our attention that [courtier.GetTitledFirstName] has developed a very, very odd habit as of late: an obsession with eating snow.\n\nWe aren’t sure how this strange behavior or why, but [courtier.GetFirstNameNoTooltip] isn’t always the most mentally sound person out there, so that might be the cause. Physicians have told [courtier.GetHerHim] that this is a dangerous habit that could result in poor health, but [courtier.GetFirstNameNoTooltip] can’t seem to help it."
- VIETmisc.0367.a:0 "Obsessed with eating snow? How odd."
- VIETmisc.0367.info:0 "#emphasis Historical Context:#! #italic Pagophagia#! is a term used to describe an abnormal obsession with consuming snow or ice; it is considered a manifestation of #italic pica#!, an appetite disorder that manifests in the form of excessive craving for and eating of objects that are not normally consumed. It has been observed since antiquity, and a famous case of this disorder may have been the Byzantine Emperor Theophilus (ruled 812-842 CE), who suffered from pagophagia, which may have contributed to his poor health and early death."
- VIETmisc.0368.t:0 "Winter's Serenity"
- VIETmisc.0368.desc:0 "Winter is a dangerous time, especially when it is snowing. Yet it is also a beautiful time. There is something pristine and striking about a landscape that is covered in fresh snow.\n\nIt has been snowing a lot in the past few days, and we’ve mainly stayed inside most of the time, huddling by the fireplace and wearing warm clothes. But our idleness is an opportunity for me to gaze at the outside world for even hours at a time, simply to admire the layer of pure, white snow that blankets the entire world, it seems.\n\nThere’s a cold beauty to it all, and it is strangely relaxing."
- VIETmisc.0368.a:0 "A beautiful, if ultimately ephemeral sight."
+ VIETmisc.0366.t: "Braver la neige"
+ VIETmisc.0366.desc: "Aujourd'hui, il y a eu une tempête de neige, et la neige s'est accumulée beaucoup, beaucoup plus vite que prévu.\n\n[courtier.GetTitledFirstName] était sorti un peu pour s'occuper de quelque chose en ville, mais il a été pris dans la tempête de neige. Bien qu'[courtier.GetSheHe] soit rentré chez moi dans la soirée, [courtier.GetSheHe] n'était manifestement pas de bonne humeur - et souffrait des effets d'avoir dû marcher dans le froid toute la journée."
+ VIETmisc.0366.a: "Venez vous blottir au coin du feu avec nous !"
+ VIETmisc.0366.b: "Vous n'auriez pas dû sortir pour commencer."
+ VIETmisc.0367.t: "Manger de la neige ?"
+ VIETmisc.0367.desc: "Nous avons appris que [courtier.GetTitledFirstName] a pris une habitude très, très étrange ces derniers temps : l'obsession de manger de la neige.\n\nNous ne savons pas exactement d'où vient ce comportement étrange, mais [courtier.GetFirstNameNoTooltip] n'est pas toujours la personne la plus saine d'esprit, ce qui pourrait en être la cause. Les physiciens lui ont dit qu'il s'agit d'une habitude dangereuse qui pourrait nuire à sa santé, mais [courtier.GetFirstNameNoTooltip] ne semble pas pouvoir s'en empêcher."
+ VIETmisc.0367.a: "Obsédé par l'idée de manger de la neige ? C'est étrange."
+ VIETmisc.0367.info: "#emphasis Contexte Historique :#! #italic Pagophagie#! est un terme utilisé pour décrire une obsession anormale pour la consommation de neige ou de glace ; il est considéré comme une manifestation du #italic pica#!, un trouble de l'appétit qui se manifeste sous la forme d'un besoin excessif et de la consommation d'objets qui ne sont pas normalement consommés. Ce trouble est observé depuis l'Antiquité, et l'empereur byzantin Théophile (812-842), qui souffrait de pagophagie, a peut-être contribué à sa mauvaise santé et à sa mort prématurée, en est un cas célèbre."
+ VIETmisc.0368.t: "Sérénité de l'hiver"
+ VIETmisc.0368.desc: "L'hiver est une période dangereuse, surtout lorsqu'il neige. Mais c'est aussi une période magnifique. Un paysage recouvert de neige fraîche a quelque chose d'immaculé et de saisissant.\n\nIl a beaucoup neigé ces derniers jours et nous sommes restés la plupart du temps à l'intérieur, blottis près de la cheminée et vêtus de vêtements chauds. Mais notre oisiveté est l'occasion pour moi de regarder le monde extérieur pendant des heures, simplement pour admirer la couche de neige blanche et pure qui recouvre le monde entier, semble-t-il.\n\nIl y a une beauté froide dans tout cela, et c'est étrangement relaxant."
+ VIETmisc.0368.a: "Un spectacle magnifique, mais finalement éphémère."
  # Version 1.14.6 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
 
  # Version 1.15.0 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc

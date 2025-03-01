@@ -338,13 +338,13 @@
  VIETmisc.3066.b: "Récompenser mes fonctionnaires pour un travail bien fait."
  # Version 1.14.2 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # Version 1.14.5 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIETmisc.3067.t:0 "Snowy Destruction"
- VIETmisc.3067.desc:0 "Snowfall has been reported in large amounts in [county.GetNameNoTier]. Many rural farmsteads were destroyed, resulting in a number of deaths among the commoners. Many others have already died from cold or hunger.\n\nLocal officials there are beseeching me to do something to alleviate the suffering of the people in this region. Shall I prove myself to be a generous and benevolent [ROOT.Char.GetTitledFirstName]?"
- VIETmisc.3067.a:0 "Send aid to the locals suffering from this calamity!"
- VIETmisc.3067.b:0 "Snow falls every year – we can’t spare any resources."
- VIETmisc.3068.t:0 "Snowmelt"
- VIETmisc.3068.desc:0 "Snowmelt has been important to the people living in [county.GetNameNoTier] for as long as anyone could remember. Every year, when the snows melt, they contribute significantly as a source of irrigation for local agriculture.\n\nThis year, it appears we’ve had a good accumulation of snow there – much more than expected, but not too much that it would cause flooding. That means that crops will prosper, and the harvest will be good… as long as nothing else goes wrong."
- VIETmisc.3068.a:0 "That’s good to hear."
+ VIETmisc.3067.t: "Destruction par la neige"
+ VIETmisc.3067.desc: "Des chutes de neige importantes ont été signalées à [county.GetNameNoTier]. De nombreuses fermes rurales ont été détruites, ce qui a entraîné la mort d'un certain nombre de roturiers. Beaucoup d'autres sont déjà morts de froid ou de faim.\n\nLes autorités locales me demandent de faire quelque chose pour alléger les souffrances des habitants de cette région. Dois-je me montrer comme un [ROOT.Char.GetTitledFirstName] généreux et bienveillant ?"
+ VIETmisc.3067.a: "Envoyez de l'aide aux populations locales qui souffrent de cette calamité !"
+ VIETmisc.3067.b: "La neige tombe chaque année - nous ne pouvons pas donner nos ressources."
+ VIETmisc.3068.t: "Fonte des neiges"
+ VIETmisc.3068.desc: "La fonte des neiges est importante pour les habitants de [county.GetNameNoTier] depuis toujours. Chaque année, la fonte des neiges contribue de manière significative à l'irrigation de l'agriculture locale.\n\nCette année, il semble que nous ayons eu une bonne accumulation de neige - beaucoup plus que prévu, mais pas trop pour ne pas provoquer d'inondations. Cela signifie que les cultures prospéreront et que les récoltes seront bonnes... à condition qu'il n'y ait pas d'autres problèmes."
+ VIETmisc.3068.a: "C'est une bonne nouvelle."
  # Version 1.14.6 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  VIETmisc.3069.t:0 "xxxxx"
  VIETmisc.3069.desc:0 "xxxxx"
