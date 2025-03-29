@@ -1510,4 +1510,18 @@
  VIET_snow_festival_result_wholesome_5: "$VIET_snow_festival_result_wholesome_1$"
  VIET_snow_festival_result_wholesome_5_desc: "$VIET_snow_festival_result_wholesome_1_desc$"
  # Version 1.14.6 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
+ # Version 1.15.0 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
+ VIET_enjoying_coconut_milk: "Savourer le lait de coco"
+ VIET_coconut_head_injury: "Blessure à la noix de coco"
+ VIET_coconut_head_injury_desc: "Ce personnage a été, de façon plutôt embarrassante, blessé par une noix de coco qui lui est tombée sur la tête."
+ VIET_coconut_injury_supported_courtier: "Cas de blessure à la noix de coco : courtisan soutenu"
+ VIET_coconut_injury_supported_courtier_desc: "Après qu'un de ses courtisans a été blessé par une noix de coco tombée sur sa tête, ce souverain a décidé de forcer les fermiers propriétaires du cocotier à payer une compensation."
+ VIET_coconut_injury_supported_locals: "Cas de blessure à la noix de coco : fermiers soutenus"
+ VIET_coconut_injury_supported_locals_desc: "Après qu'un de ses courtisans a été blessé par une noix de coco tombée sur sa tête, ce souverain a fait pression sur son courtisan pour qu'il cesse de demander une compensation aux fermiers propriétaires du cocotier."
+ VIET_coconut_injury_paid_compensation: "Cas de blessure à la noix de coco : indemnisation payée"
+ VIET_coconut_injury_paid_compensation_desc: "Après qu'un de ses courtisans a été blessé par une noix de coco tombée sur sa tête, ce souverain a versé une indemnité à son courtisan, afin d'aider les fermiers qui possédaient le cocotier et qui auraient dû, sinon, payer eux-mêmes l'indemnité."
+ VIET_octopus_military_ideas: "Inspiré par une pieuvre"
+ VIET_octopus_military_ideas_desc: "Ce personnage a eu des idées militaires intéressantes, après avoir été inspiré par une pieuvre qui utilisait des coquilles de noix de coco pour se défendre."
+ VIET_safer_coconut_harvesting_methods: "Des méthodes de récolte de la noix de coco plus sûres"
+ VIET_safer_coconut_harvesting_methods_desc: "Des méthodes de récolte des noix de coco plus récentes et plus sûres ont été introduites dans cette région, réduisant ainsi le risque de blessures, voire de décès, pour les récolteurs de noix de coco."
  xxxxxxxxxx:0 "xxx"
