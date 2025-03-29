@@ -143,8 +143,8 @@
  VIET_fire_striker_desc: "Un morceau de métal, généralement du fer ou de l'acier, utilisé avec du silex et d'autres pierres pour créer une étincelle qui peut être utilisée pour faire du feu. Celui-ci est d'une qualité particulièrement élevée et ne décevra pas son propriétaire."
  # Version 1.14.2 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # Version 1.15.0 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIET_coconut_cup_name:0 "Coconut Cup"
- VIET_coconut_cup_desc:0 "A coconut shell used as a bowl, elaborately decorated with precious metal in a typical [ROOT.Char.GetCulture.GetName] artistic style. It is meant for display and for drinking."
+ VIET_coconut_cup_name: "Coupe de noix de coco"
+ VIET_coconut_cup_desc: "Coquille de noix de coco utilisée comme bol, décorée de manière élaborée avec des métaux précieux dans un style artistique typique [ROOT.Char.GetCulture.GetName]. Elle est destinée à être exposée et pour boire."
  # Version 1.15.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # Version 1.16.0 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  VIET_horse_armor_name:0 "Quality Horse Armor"
