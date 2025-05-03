@@ -278,13 +278,13 @@
  VIETmisc.5059.info: "#emphasis Contexte Historique :#! Un célèbre échange de dialogues comiques dans le film #italic Monty Python et le Saint Graal#! consiste à demander au roi Arthur comment il a pu se procurer des noix de coco tropicales dans l'Angleterre tempérée ; l'humour repose sur l'hypothèse que les noix de coco étaient introuvables dans l'Europe médiévale. Ironiquement, les noix de coco étaient historiquement non seulement présentes en Europe et dans de nombreuses régions du monde, mais elles n'étaient même pas si rares, car elles étaient un produit de luxe très recherché grâce au commerce à longue distance. Dans l'Europe médiévale, par exemple, le lait, la chair et l'huile de coco étaient extraits pour leurs prétendues vertus médicinales ; les restes de la coque de la noix de coco étaient souvent sculptés en de magnifiques coupes à boire et dorés à l'or et à l'argent. Ces gobelets en noix de coco sont restés populaires jusqu'à l'ère moderne."
  # Version 1.15.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # Version 1.16.0 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIETmisc.5060.t:0 "The Salesman"
- VIETmisc.5060.desc:0 "I heard there was an excellent [todd_howard.GetCulture.GetName] merchant living in a town nearby, who sold all manner of useful items. Intrigued, I went to visit this merchant named [todd_howard.GetFirstName] [todd_howard.GetDynasty.GetName].\n\nEverything he said sounded exaggerated, as if he was a #italic liar#!, yet… he seemed so charming and genuine, if a bit awkward.\n\n“I think I might have something you’ll like at an affordable price,” he says. “Earlier, you mentioned your worries about your safety while traveling. My [ROOT.Char.GetLadyLord], this could help protect you, while providing a comfortable experience as you explore the world: this horse armor, for your horse.”\n\n[todd_howard.GetFirstNameNoTooltip] continues elucidating on the horse armor's quality and how it is not only protective, but aesthetic, too."
- VIETmisc.5060.a:0 "You got a deal, [todd_howard.GetFirstNameNoTooltip]!"
- VIETmisc.5060.b:0 "Your sweet “lies” could be a great asset to me…."
- VIETmisc.5060.b.toast.failure:0 "You fail to convince him to work for you"
- VIETmisc.5060.b.toast.success:0 "You convince him to work for you now"
- VIETmisc.5060.c:0 "Pah! People say you’re a good salesman? Forget it."
+ VIETmisc.5060.t: "Le vendeur"
+ VIETmisc.5060.desc: "J'ai entendu dire qu'il y avait un excellent marchand [todd_howard.GetCulture.GetName] dans une ville voisine, qui vendait toutes sortes d'objets utiles. Intrigué, je suis allé rendre visite à ce marchand nommé [todd_howard.GetFirstName] [todd_howard.GetDynasty.GetName].\n\nTout ce qu'il disait semblait exagéré, comme s'il était un #italic menteur#! et pourtant... il semblait si charmant et authentique, bien qu'un peu maladroit.\n\n"Je pense avoir quelque chose qui vous plaira à un prix abordable", dit-il. "Tout à l'heure, vous avez parlé de vos inquiétudes concernant votre sécurité en voyage. Mon [ROOT.Char.GetLadyLord], voici qui pourrait vous aider à vous protéger, tout en vous permettant d'explorer le monde confortablement : cette armure de cheval, pour votre cheval."\n\n[todd_howard.GetFirstNameNoTooltip] continue d'expliquer la qualité de l'armure de cheval et la façon dont elle est non seulement protectrice, mais aussi esthétique."
+ VIETmisc.5060.a: "Vous avez un marché, [todd_howard.GetFirstNameNoTooltip] !"
+ VIETmisc.5060.b: "Vos doux "mensonges" pourraient m'être d'un grand secours...."
+ VIETmisc.5060.b.toast.failure: "Vous ne parvenez pas à le convaincre de travailler pour vous"
+ VIETmisc.5060.b.toast.success: "Vous le convainquez de travailler pour vous maintenant"
+ VIETmisc.5060.c: "Pah ! On dit que vous êtes un bon vendeur ? Oubliez cela."
  # Version 1.16.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  VIETmisc.5061.t:0 "xxxxx"
  VIETmisc.5061.desc:0 "xxxxx"
