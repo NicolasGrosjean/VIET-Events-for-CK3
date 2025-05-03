@@ -147,8 +147,8 @@
  VIET_coconut_cup_desc: "Coquille de noix de coco utilisée comme bol, décorée de manière élaborée avec des métaux précieux dans un style artistique typique [ROOT.Char.GetCulture.GetName]. Elle est destinée à être exposée et pour boire."
  # Version 1.15.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # Version 1.16.0 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIET_horse_armor_name:0 "Quality Horse Armor"
- VIET_horse_armor_desc:0 "Elegant and durable, beautiful and resilient, this [ROOT.Char.GetCulture.GetName] horse armor protects a horse from the dangers of the world and looks stylish too."
+ VIET_horse_armor_name: "Armure de qualité pour cheval"
+ VIET_horse_armor_desc: "Élégante et durable, belle et résistante, cette armure de cheval [ROOT.Char.GetCulture.GetName] protège un cheval des dangers du monde tout en étant élégante."
  # Version 1.16.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # 52 Basic
 

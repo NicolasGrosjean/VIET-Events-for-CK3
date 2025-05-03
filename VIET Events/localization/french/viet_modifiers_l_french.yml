@@ -1526,14 +1526,14 @@
  VIET_safer_coconut_harvesting_methods_desc: "Des méthodes de récolte des noix de coco plus récentes et plus sûres ont été introduites dans cette région, réduisant ainsi le risque de blessures, voire de décès, pour les récolteurs de noix de coco."
  # Version 1.15.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # Version 1.16.0 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIET_hagaer_modifier:0 "Reading Addict"
- VIET_hagaer_modifier_desc:0 "This bookworm is obsessed with books, finding books, and reading books, to the detriment of their social life and skills."
- VIET_supports_bookworms:0 "Supports Bookworms"
- VIET_ate_excellent_cheese:0 "Ate Excellent Cheese"
- VIET_grave_of_the_fireflies:0 "Grave of the Fireflies"
- VIET_grave_of_the_fireflies_desc:0 "This character had a deep spiritual experience after resting in a dead grove surrounded by fireflies."
- VIET_todd_howard_merchant:0 "Hard-Working Merchant"
- VIET_todd_howard_merchant_desc:0 "This character was previously a merchant who was well-known for being quite charming and persuasive as a salesman, even though some accused him of being a liar. The truth is, he just works, no matter what."
+ VIET_hagaer_modifier: "Accro à la lecture"
+ VIET_hagaer_modifier_desc: "Ce rat de bibliothèque est obsédé par les livres, la recherche et la lecture de livres, au détriment de sa vie sociale et de ses compétences."
+ VIET_supports_bookworms: "Soutien aux rats de bibliothèque"
+ VIET_ate_excellent_cheese: "A mangé d'excellents fromages"
+ VIET_grave_of_the_fireflies: "Tombe des lucioles"
+ VIET_grave_of_the_fireflies_desc: "Ce personnage a vécu une expérience spirituelle profonde après s'être reposé dans un bosquet mort entouré de lucioles."
+ VIET_todd_howard_merchant: "Marchand travaillant dur"
+ VIET_todd_howard_merchant_desc: "Ce personnage était auparavant un marchand réputé pour son charme et sa force de persuasion en tant que vendeur, même si certains l'accusaient d'être un menteur. La vérité, c'est qu'il travaille, quoi qu'il arrive."
  # Version 1.16.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  xxxxxxxxxx:0 "xxx"
 
