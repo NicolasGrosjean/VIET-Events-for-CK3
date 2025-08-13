@@ -4,9 +4,9 @@
  every_entourage_tt_attracted_to_women: "Tous les membres de l'entourage sont attirés par les femmes"
  VIET_every_entourage_tt_laughing: "Tous les membres de l'entourage qui ont trouvé la situation amusante"
  VIET_every_entourage_tt_relaxing: "Tout membre de l'entourage qui souhaite se détendre"
- VIET_every_entourage_tt_religious:0 "Every entourage member who is religious"
- VIET_every_entourage_tt_likes_cute:0 "Every entourage member who appreciates cute things"
- VIET_every_entourage_tt_dislikes_cute:0 "Every entourage member who is wary of cute things"
+ VIET_every_entourage_tt_religious: "Chaque membre de l'entourage qui est religieux"
+ VIET_every_entourage_tt_likes_cute: "Chaque membre de l'entourage qui apprécie les jolies choses"
+ VIET_every_entourage_tt_dislikes_cute: "Chaque membre de l'entourage qui se méfie des choses mignonnes"
  
  # Travel Events
 
@@ -248,11 +248,11 @@
  VIETmisc.7052.a: "Je suis si heureux que nous ayons finalement réussi à le faire."
  VIETmisc.7052.b: "Nous devrions nous reposer ici pendant plus de quelques jours."
  # Version 1.16.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIETmisc.7053.t:0 "$travel_event_prefix$ $VIETmisc.7054.t$"
- VIETmisc.7053.desc:0 "While walking down the road in [ROOT.Char.GetCurrentLocation.GetName], we notice two cats – one grey, and one white – near some trees playing with something. Curious, we edge closer.\n\nPeaches. They’re playing with some peaches that had fallen on the ground from a nearby peach tree.\n\n“Do cats even eat peaches?” I muse idly to myself. “I don’t ever recall seeing that.”"
- VIETmisc.7053.a:0 "The two cats are an adorable sight!"
- VIETmisc.7053.b:0 "It’s just some cats, let’s get going everyone."
- VIETmisc.7053.c:0 "It must be a sign from [ROOT.Char.GetFaith.HighGodName]!"
+ VIETmisc.7053.t: "$travel_event_prefix$ $VIETmisc.7054.t$"
+ VIETmisc.7053.desc: "Alors que nous marchons sur la route de [ROOT.Char.GetCurrentLocation.GetName], nous remarquons deux chats - un gris et un blanc - près de quelques arbres en train de jouer avec quelque chose. Curieux, nous nous approchons.\n\nDes pêches. Ils jouent avec des pêches tombées d'un pêcher voisin.\n\n"Les chats mangent-ils des pêches ?"  Je me fais des réflexions oiseuses. "Je ne me souviens pas avoir jamais vu cela.""
+ VIETmisc.7053.a: "Les deux chats sont adorables !"
+ VIETmisc.7053.b: "Ce ne sont que des chats, allons-y tout le monde."
+ VIETmisc.7053.c: "Ce doit être un signe de [ROOT.Char.GetFaith.HighGodName] !"
  # Note to translators: In case you aren't aware, "peachy" here doesn't mean like a peach per se, but the slang term that usually means something is good or wonderful, that has a humorous or even old-fashioned connotation in American English
  # I don't know if a word with a similar connotation might exist in your language but thought I'd point it out for fun
  VIETmisc.7054.t:0 "Peachy Cats"
