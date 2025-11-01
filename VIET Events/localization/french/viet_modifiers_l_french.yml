@@ -1605,16 +1605,16 @@
  VIET_lacking_intellectual_self_esteem: "Manque d'estime de soi sur le plan intellectuel"
  # Version 1.17.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # Version 1.18.0 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIET_possessed_by_a_dead_monk:0 "Possessed by a Dead Monk"
- VIET_possessed_by_a_dead_monk_desc:0 "Ever since they had a strange accident, and became unconscious for a while, this character claims that they are actually a monastic, stating they prefer a life of solitude and spritual reflection. Some people believe they have been possessed by the spirit of a monastic who passed away around the time of that accident."
- VIET_sheepskin_rebirth:0 "Strange Tuft of Hair"
- VIET_sheepskin_rebirth_desc:0 "This character has an unusual, small patch of hair on their body. Rumor has it that in their past life, they committed some sins, and were condemned to be reborn as a sheep, but were saved at the last minute because they saved someone's life, so they were allowed to be reborn as a woman. However, the underworld officials, supposedly, couldn't remove every part of the sheep skin."
- VIET_respects_cunning:0 "Respects Cunning"
- VIET_respects_cunning_desc:0 "This character recognizes those who have great cunning, believing there is much they can learn from them."
- VIET_unimpressed_ruler:0 "Easily Unimpressed"
- VIET_unimpressed_ruler_desc:0 "“Bah! Anyone could've done that.”"
- VIET_dragon_dormant:0 "Dragon Dormant"
- VIET_dragon_dormant_desc:0 "Rumor has it this character recently encountered a mysterious little dragon at their home."
+ VIET_possessed_by_a_dead_monk: "Possédé par un moine mort"
+ VIET_possessed_by_a_dead_monk_desc: "Depuis qu'il a eu un étrange accident et qu'il est resté inconscient pendant un certain temps, ce personnage prétend qu'il est en fait un monastique, affirmant qu'il préfère une vie de solitude et de réflexion spirituelle. Certains pensent qu'il est possédé par l'esprit d'un moine décédé à l'époque de cet accident."
+ VIET_sheepskin_rebirth: "Étrange touffe de cheveux"
+ VIET_sheepskin_rebirth_desc: "Ce personnage a une petite tache de poils inhabituelle sur le corps. La rumeur veut que dans sa vie antérieure, il ait commis des péchés et ait été condamné à renaître sous la forme d'un mouton, mais qu'il ait été sauvé à la dernière minute parce qu'il avait sauvé la vie de quelqu'un, et qu'il ait donc été autorisé à renaître sous la forme d'une femme. Cependant, les fonctionnaires des enfers n'auraient pas pu enlever toutes les parties de la peau de mouton."
+ VIET_respects_cunning: "Respecte la ruse"
+ VIET_respects_cunning_desc: "Ce personnage reconnaît ceux qui font preuve d'une grande ruse, estimant qu'il a beaucoup à apprendre d'eux."
+ VIET_unimpressed_ruler: "Facile à impressionner"
+ VIET_unimpressed_ruler_desc: ""Bah ! N'importe qui aurait pu faire ça.""
+ VIET_dragon_dormant: "Dragon dormant"
+ VIET_dragon_dormant_desc: "La rumeur veut que ce personnage ait récemment rencontré un mystérieux petit dragon chez lui."
  # Version 1.18.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  xxxxxxxxxx:0 "xxx"
 
