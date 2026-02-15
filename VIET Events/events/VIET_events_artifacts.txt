@@ -34,6 +34,7 @@
 # 5059			Coconut
 # 5060			Oblivion Remaster
 # 5061			Strawberries
+# 5062 			Horses
 # 
 ############################################################################################################################
 
@@ -9632,3 +9633,128 @@ VIETmisc.5061 = {
 	}
 	
 }
+
+
+##################################################################
+# HORSES 5062
+##################################################################
+
+# Lucky Horseshoe - get your blacksmith?
+VIETmisc.5062 = {
+	type = character_event
+	title = VIETmisc.5062.t
+	desc = VIETmisc.5062.desc
+	theme = martial_chivalry_focus
+	
+	right_portrait = {
+		character = root
+		animation = personality_cynical
+	}
+	artifact = { # To display the artifact in the event-window
+        target = scope:VIET_clutter_artifact
+        position = lower_center_portrait
+    }
+
+    weight_multiplier = {
+        base = 1
+		# Reduce spam
+		modifier = {
+			add = -0.9
+			any_character_artifact = {
+				has_variable = VIET_lucky_horseshoe_variable
+			}
+		}
+		modifier = {
+			add = -0.4
+			VIET_has_2_clutter_artifacts_trigger = yes	
+		}
+		modifier = {
+			add = -0.5
+			VIET_has_4_clutter_artifacts_trigger = yes	
+		}
+		modifier = {
+			add = 0.2
+			has_trait = diligent
+		}
+		modifier = {
+			add = -0.2
+			has_trait = lazy
+		}
+		modifier = {
+			add = 0.2
+			has_trait = humble
+		}
+		modifier = {
+			add = -0.2
+			has_trait = arrogant
+		}
+		modifier = {
+			add = 0.2
+			has_trait = brave
+		}
+		modifier = {
+			add = -0.2
+			has_trait = craven
+		}
+    }
+	
+
+	immediate = {
+		hidden_effect_new_object = {
+			create_artifact = {	
+				name = VIET_lucky_horseshoe_name
+				description = VIET_lucky_horseshoe_desc
+				type = VIET_clutter
+				visuals = VIET_lucky_horseshoe
+				quality = 15
+				wealth = 15
+				modifier = artifact_VIET_lucky_horseshoe_modifier
+				max_durability = 40
+				save_scope_as = VIET_clutter_artifact
+				history = {
+					type = created_before_history
+				}
+			}
+			scope:VIET_clutter_artifact = {
+				set_variable = VIET_lucky_horseshoe_variable
+			}
+		}
+	}
+	
+	option = {
+		name = VIETmisc.5062.a	
+		trigger = {
+			OR = {
+				is_ai = no
+				gold >= 50
+			}
+		}
+		remove_short_term_gold = 50
+		show_as_tooltip = {
+			scope:VIET_clutter_artifact = {
+				set_owner = {
+					target = root
+				}
+			}
+		}
+		custom_tooltip = VIET_artifact_limit_warning
+		stress_impact = {
+			cynical = miniscule_stress_impact_gain
+			greedy = miniscule_stress_impact_gain
+		}
+	}
+	
+	option = {
+		name = VIETmisc.5062.b	
+		VIET_huge_piety_gain_effect = yes
+		hidden_effect = {
+			destroy_artifact = scope:VIET_clutter_artifact
+		}
+		stress_impact = {
+			zealous = miniscule_stress_impact_gain
+			paranoid = miniscule_stress_impact_gain
+		}
+	}
+}
+
+

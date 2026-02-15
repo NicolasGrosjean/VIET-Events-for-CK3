@@ -4139,6 +4139,58 @@ VIET_strawberry_tree_tonic = {
 	stress_loss_mult = 0.1
 }
 
+VIET_hired_falcators = {
+	icon = fertility_positive
+	provisions_gain_mult = 0.1	
+	movement_speed = 0.05
+	character_travel_speed = 3
+}
+
+VIET_confidence_in_horses = {
+	icon = horse_positive
+	travel_speed_mult = 0.05
+}
+
+VIET_caution_with_horses = {
+	icon = horse_positive
+	travel_safety_mult = 0.05
+}
+
+VIET_learned_about_warhorse_rearing = {
+	icon = horse_positive
+	light_cavalry_maintenance_mult = -0.03
+	heavy_cavalry_maintenance_mult = -0.03
+	archer_cavalry_maintenance_mult = -0.03
+}
+
+VIET_experience_handling_young_horses = {
+	icon = horse_positive	
+	archer_cavalry_toughness_mult = 0.05
+	light_cavalry_toughness_mult = 0.05
+	heavy_cavalry_toughness_mult = 0.05
+}
+
+VIET_did_not_do_horse_bloodletting = {
+	icon = horse_negative	
+	archer_cavalry_toughness_mult = -0.05
+	light_cavalry_toughness_mult = -0.05
+	heavy_cavalry_toughness_mult = -0.05
+}
+
+VIET_did_horse_bloodletting = {
+	icon = horse_positive	
+	archer_cavalry_toughness_mult = 0.05
+	light_cavalry_toughness_mult = 0.05
+	heavy_cavalry_toughness_mult = 0.05
+}
+
+VIET_dreamt_of_ox_head_horse_face = {
+	icon = horse_positive	
+	monthly_piety = 0.3
+	negate_health_penalty_add = 0.2
+	enemy_hostile_scheme_success_chance_add = -3
+}
+
 
 
 

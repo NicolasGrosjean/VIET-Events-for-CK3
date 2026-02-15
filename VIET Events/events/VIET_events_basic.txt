@@ -39510,6 +39510,7 @@ VIETmisc.0397 = {
 			value = medium_skill_rating
 			10 = { # Failure - they're not interested
 				show_chance = no
+				desc = VIETmisc.2029.t
 				custom_tooltip = VIETmisc.0397.b.failure
 				compare_modifier = {
 					value = scope:duel_value
@@ -39531,6 +39532,7 @@ VIETmisc.0397 = {
 			}
 			10 = { # Success - interested
 				show_chance = no
+				desc = VIETmisc.2011.t
 				custom_tooltip = VIETmisc.0397.b.success
 				compare_modifier = {
 					value = scope:duel_value

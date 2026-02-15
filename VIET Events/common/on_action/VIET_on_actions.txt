@@ -521,6 +521,8 @@ VIET_events_yearly_pulse = {
 		100 = VIETmisc.0402		# Physician suggests a salve made out of strawberries and pepper for irritated eyes
 		100 = VIETmisc.0404		# Christian chaplain gives lecture about the religious symbolism of strawberries
 		100 = VIETmisc.0405		# Physician recommends a tonic made of the Strawberry Tree
+		# Horses
+		100 = VIETmisc.0407 	# Observe a stablehand testing colts to see whether they'd make good warhorses
 	}
 }
 
@@ -956,6 +958,9 @@ VIET_events_tri_yearly_pulse = {
 		100 = VIETmisc.0401 	# Inspecting a church under construction with chaplain, and seeing the strawberries being drawn everywhere
 		100 = VIETmisc.0403		# Physician says you need to put more sugar on strawberries for your health
 		100 = VIETmisc.0406		# You realized strawberry trees are found in the Mediterranean... but also Ireland, for some reason
+		
+		# Horses
+		100 = VIETmisc.0408		# Bloodletting horses - hire a new doctor?
 	}
 }
 
@@ -1245,8 +1250,12 @@ VIET_events_five_yearly_pulse = {
 		
 		# Backgrounds
 		100 = VIETmisc.0397 	# Child shows interest in a physicians' work
+
 		# Strawberries
 		100 = VIETmisc.0400 	# Local woman accuses another of throwing strawberries at her while she was pregnant
+
+		# Horses
+		100 = VIETmisc.0409 	# Courtier gets briefly sick and claims to have seen Ox Head and Horse Face in a dream 牛头馬面 / 우두귀와 마두귀 / Ngưu Đầu & Mã Diện
 
 	}
 }
@@ -1916,8 +1925,10 @@ VIET_events_common_artifact_pulse = {
 		100 = VIETmisc.5056		# Tongue Stone (Shark Tooth) - Buy one to protect yourself against poison or not?
 		# Fire
 		100 = VIETmisc.5057		# Fire Striker - Smith offers to sell you one of his fire strikers
+		# Fire
+		100 = VIETmisc.5062		# Lucky Horseshoe - get your blacksmith?
 		
-		# 33
+		# 34
     }
 }
 

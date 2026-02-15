@@ -342,4 +342,14 @@ VIET_is_in_wild_strawberry_region_trigger = {
 	}
 }
 
-
+# Should be used in conjunction with the Sinosphere culture triggers
+VIET_is_sinosphere_religion_trigger = {	
+	OR = {
+		faith = { has_doctrine = special_doctrine_immaterial_harmony }
+		religion = religion:buddhism_religion	
+		religion = religion:taoism_religion	
+		religion = religion:confucianism_religion	
+		religion = religion:muism_religion	
+		religion = religion:shintoism_religion	
+	}		
+}

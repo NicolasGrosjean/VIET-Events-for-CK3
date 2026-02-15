@@ -529,3 +529,10 @@ artifact_VIET_horse_armor_modifier = {
 	light_cavalry_toughness_mult = 0.02
 	heavy_cavalry_toughness_mult = 0.02
 }
+
+artifact_VIET_lucky_horseshoe_modifier = {
+	#monthly_piety = 0.1
+	negate_health_penalty_add = 0.1
+	negate_intrigue_penalty_add = 1
+	advantage = 2
+}

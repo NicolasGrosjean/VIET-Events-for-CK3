@@ -32,6 +32,7 @@
 # 7055-7056		Strange Tales from a Chinese Studio / Liaozhao Zhiyi / 	聊齋誌異
 # 7057-7058		Event Backgrounds
 # 7059-7060		Strawberries
+# 7061-7062		Horses
 # 
 ############################################################################################################################
 
@@ -4859,6 +4860,7 @@ VIETmisc.7045 = {
 			value = average_skill_rating
 			50 = { # You are caught
 				show_chance = no
+				desc = VIETmisc.2029.t
 				custom_tooltip = VIETmisc.7045.b.failure
 				compare_modifier = {
 					value = scope:duel_value
@@ -4872,6 +4874,7 @@ VIETmisc.7045 = {
 			}
 			50 = { # You are not caught
 				show_chance = no
+				desc = VIETmisc.2011.t
 				custom_tooltip = VIETmisc.7045.b.success
 				compare_modifier = {
 					value = scope:duel_value
@@ -6788,4 +6791,165 @@ VIETmisc.7060 = {
 	}
 
 }
+
+
+
+
+##################################################################
+# 7061-7062 HORSES
+##################################################################
+
+# Local villages offer services as Falcators
+VIETmisc.7061 = {
+	type = character_event
+	title = VIETmisc.7061.t
+	desc = VIETmisc.7061.desc
+	theme = travel_stewardship
+	override_background = { reference = VIET_background_small_town }
+	
+	right_portrait = root
+
+	trigger = {
+		is_location_valid_for_travel_event_on_land = yes
+	}
+	
+	weight_multiplier = {
+		base = 1
+		modifier = {
+			add = 0.2
+			has_trait = diligent
+		}
+		modifier = {
+			add = -0.2
+			has_trait = lazy
+		}
+		modifier = {
+			add = 0.2
+			has_trait = gregarious
+		}
+		modifier = {
+			add = -0.2
+			has_trait = shy
+		}
+		modifier = {
+			add = 0.2
+			has_trait = humble
+		}
+		modifier = {
+			add = -0.2
+			has_trait = arrogant
+		}
+	}
+	
+	option = { # hire them
+		name = VIETmisc.7061.a
+		trigger = {
+			OR = {
+				gold >= 25
+				is_ai = no
+			}
+		}
+		remove_short_term_gold = 25	
+		add_character_modifier = {
+			modifier = VIET_hired_falcators
+			years = 5
+		}
+		stress_impact = {
+			shy = miniscule_stress_impact_gain
+			arrogant = miniscule_stress_impact_gain
+			paranoid = miniscule_stress_impact_gain
+		}
+	}
+	
+	option = { # don't hire them
+		name = VIETmisc.7061.b	
+		stress_impact = {
+			diligent = minor_stress_impact_gain
+			trusting = miniscule_stress_impact_gain
+		}
+	}
+
+}
+
+# Pass by horse carcasses
+VIETmisc.7062 = {
+	type = character_event
+	title = VIETmisc.7062.t
+	desc = VIETmisc.7062.desc
+	theme = travel_intrigue
+	override_background = { reference = VIET_background_tuscan_country }
+	
+	right_portrait = {
+		character = root
+		animation = shock
+	}
+
+	trigger = {
+		is_location_valid_for_travel_event_on_land = yes
+	}
+	
+	weight_multiplier = {
+		base = 1
+		modifier = {
+			add = 0.2
+			has_trait = trusting
+		}
+		modifier = {
+			add = -0.2
+			has_trait = paranoid
+		}
+		modifier = {
+			add = 0.2
+			has_trait = brave
+		}
+		modifier = {
+			add = -0.2
+			has_trait = craven
+		}
+		modifier = {
+			add = 0.2
+			has_trait = honest
+		}
+		modifier = {
+			add = -0.2
+			has_trait = deceitful
+		}
+	}
+	
+	option = { # Ok
+		name = VIETmisc.7062.a
+		VIET_small_piety_gain_effect = yes
+		current_travel_plan = {
+			add_travel_plan_modifier = {
+				modifier = VIET_confidence_in_horses
+	 			years = 1
+			}
+		}
+		stress_impact = {
+			arrogant = miniscule_stress_loss_gain
+			brave = miniscule_stress_loss_gain
+			stubborn = miniscule_stress_loss_gain
+			content = miniscule_stress_loss_gain
+		}
+	}
+	
+	option = { # don't hire them
+		name = VIETmisc.7062.b
+		VIET_small_prestige_gain_effect = yes	
+		current_travel_plan = {
+			add_travel_plan_modifier = {
+				modifier = VIET_caution_with_horses
+	 			years = 1
+			}
+		}
+		stress_impact = {
+			paranoid = miniscule_stress_loss_gain
+			diligent = miniscule_stress_loss_gain
+			humble = miniscule_stress_loss_gain
+			patient = miniscule_stress_loss_gain
+		}
+	}
+
+}
+
 
