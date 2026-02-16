@@ -1061,6 +1061,7 @@ VIETmisc.0409 = {
 	}
 	
 	immediate = {
+		save_court_physician_as_effect = { SCOPE_NAME = physician }
 		every_courtier_or_guest = {
 			limit = {
 				is_available_ai_adult = yes

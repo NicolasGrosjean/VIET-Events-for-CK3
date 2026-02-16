@@ -352,6 +352,11 @@ VIET_horse_armor = {
 	asset = ep1_western_box_small_basic_01_a_entity	
 }
 
+VIET_lucky_horseshoe = {
+	icon = "artifact_VIET_horseshoe.dds"
+	asset = ep1_western_box_small_basic_01_a_entity	
+}
+
 
 
 
