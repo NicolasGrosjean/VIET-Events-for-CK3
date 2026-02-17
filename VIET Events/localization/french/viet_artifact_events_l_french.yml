@@ -293,10 +293,10 @@
  VIETmisc.5061.a:0 "Envoyez des cuisiniers pour qu'ils apprennent auprès de ces villageois !"
  VIETmisc.5061.b:0 "C'est bon, mais ça ne vaut pas la peine."
  # Version 1.18.2 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIETmisc.5062.t:0 "Lucky Horseshoe"
- VIETmisc.5062.desc:0 "I’ve heard of the old claim that horseshoes make for excellent protective charms, for they can ward off evil spirits, or encourage one’s luck.\n\nOne of my blacksmiths has offered me a high quality horseshoe, the kind meant not for a horse but for a person to use as a decoration or charm. He strongly believes it has brought him much luck in the past."
- VIETmisc.5062.a:0 "I would appreciate a lucky horseshoe!"
- VIETmisc.5062.b:0 "I trust in [ROOT.Char.GetFaith.HighGodName], not irrational superstition."
+ VIETmisc.5062.t: "Fer à cheval chanceux"
+ VIETmisc.5062.desc: "J'ai entendu dire que les fers à cheval constituent d'excellents charmes protecteurs, car ils peuvent éloigner les mauvais esprits ou favoriser la chance.\n\nL'un de mes forgerons m'a offert un fer à cheval de grande qualité, celui qui n'est pas destiné à un cheval mais à une personne qui l'utilise comme décoration ou comme amulette. Il est convaincu que ce fer lui a porté chance dans le passé."
+ VIETmisc.5062.a: "J'apprécierais un fer à cheval porte-bonheur !"
+ VIETmisc.5062.b: "J'ai confiance en [ROOT.Char.GetFaith.HighGodName], pas en une superstition irrationnelle."
  # Version 1.18.3 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  VIETmisc.5063.t:0 "xxxxx"
  VIETmisc.5063.desc:0 "xxxxx"
