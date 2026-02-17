@@ -1,6 +1,6 @@
-[img]https://i.imgur.com/0GwJEMw.jpg[/img]
+[img]https://i.imgur.com/5AXi5UD.jpg[/img]
 
-[h1]Current Version: 1.18.1 "Strawberries" (Released 1/27/26, Compatible with vanilla patch 1.18.X)[/h1]
+[h1]Current Version: 1.18.2 "Heavenly Horses" (Released 2/17/26, Compatible with vanilla patch 1.18.X)[/h1]
 
 [h1][B][url=https://discord.gg/9KuyXv2uZA]Discord Server for my mods[/url]
 [url=https://cybrxkhansmods.godaddysites.com/]Official Website for my mods[/url][/B][/h1]
@@ -25,7 +25,7 @@ Feel free to use my work in your mods - all I ask is that I am credited and (if 
 [img]http://i.imgur.com/EyXurbK.jpg[/img]
 
 [LIST]
-[*]Over [B][U]1252[/U] new flavor events[/B] to experience!
+[*]Over [B][U]1258[/U] new flavor events[/B] to experience!
 [*]Explore new decisions, artifacts, character interactions, activities, and more!
 [*]Game rule to disable sillier events for those who don't like them, with three levels to choose from: Balanced (Default), Serious (Restricted), and All Events (Full)
 [*][B]Compatible with almost anything[/B] since it doesn't touch any vanilla files - even with overhaul mods, you can via game rule disable events that reference things specific to our medieval world that wouldn’t make sense in other time periods or universes (like fantasy/sci-fi conversion mods)
@@ -53,28 +53,18 @@ Please see the [url=https://cybrxkhansmods.godaddysites.com/faq]FAQ on my mods' 
 
 [img]http://i.imgur.com/RQ5QZTF.jpg[/img]
 
-[h1]Version 1.18.1 "Strawberries"[/h1]
+[h1]Version 1.18.2 "Heavenly Horsess"[/h1]
 
-[I]“One must ask children and birds how cherries and strawberries taste.”
-– Johann Wolfgang von Goethe (1749–1832), German writer[/I]
+[I]Ferghana Horses, historically known in China as “Heavenly Horses,” were a horse breed originating from the Ferghana Valley of Central Asia. It was renowned for its speed and strength, and first became popular during the Han Dynasty; such Heavenly Horses were still being depicted in many kinds of artwork well into the Tang Dynasty centuries later.[/I]
 
-New events added in this version: [B]25[/B]
+New events added in this version: [B]6[/B]
 
 As changelog is too big to list here, see the full changelog here: https://steamcommunity.com/sharedfiles/filedetails/changelog/2227658180
 
 
 [LIST]
-[*]Added 25 events with the following themes: 16 strawberry events & 9 events utilizing vanilla backgrounds I haven’t used much
-[*]Added 2 new decisions: Cultivate Strawberry Gardens and Acquire Quality Strawberries 
-[*]VIET decisions now have ai_check_interval_by_tier for different tiers to be in line with vanilla’s recent changes
-[*]A few VIET decisions will now cost treasury instead of gold if you have the appropriate government
-[*]Changed several artifact events to now have actual NPCs appear (courtesy of DPh Kraken)
-[*]Disabled the Dream of the Final Journey event chain for immortal characters (for mods that have that)
-[*]Bonuses from Vietold.2249-2250 events reduced to 88
-[*]Waterskin, Knapsack, Common Pitcher, Walking Stick, and Basic Lantern artifacts now have traveling-related bonuses
-[*]Traveling Inkwell artifact now negates a bit of diplomacy loss
-[*]Decorated Broom artifact now reduces enemy hostile scheme success
-[*]Various miscellaneous tweaks to artifact events (mostly courtesy of DPh Kraken)
+[*]Added 6 events about horses
+[*]Added Lucky Horseshoe artifact
 [*]Miscellaneous bugfixes
 [/LIST]
 

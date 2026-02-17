@@ -293,9 +293,11 @@ VIETmisc.5061.desc:0 "Las conservas de frutas se consumen comúnmente en todas p
 VIETmisc.5061.a:0 "¡Enviar algunos cocineros a aprender de esos aldeanos!"
 VIETmisc.5061.b:0 "Están sabrosas, pero no merecen la molestia."
  # Version 1.18.2 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIETmisc.5062.t:0 "xxxxx"
- VIETmisc.5062.desc:0 "xxxxx"
- VIETmisc.5062.a:0 "xxxxx"
+ VIETmisc.5062.t:0 "Lucky Horseshoe"
+ VIETmisc.5062.desc:0 "I’ve heard of the old claim that horseshoes make for excellent protective charms, for they can ward off evil spirits, or encourage one’s luck.\n\nOne of my blacksmiths has offered me a high quality horseshoe, the kind meant not for a horse but for a person to use as a decoration or charm. He strongly believes it has brought him much luck in the past."
+ VIETmisc.5062.a:0 "I would appreciate a lucky horseshoe!"
+ VIETmisc.5062.b:0 "I trust in [ROOT.Char.GetFaith.HighGodName], not irrational superstition."
+ # Version 1.18.3 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  VIETmisc.5063.t:0 "xxxxx"
  VIETmisc.5063.desc:0 "xxxxx"
  VIETmisc.5063.a:0 "xxxxx"
@@ -407,4 +409,3 @@ VIETmisc.5061.b:0 "Están sabrosas, pero no merecen la molestia."
  VIETmisc.5099.t:0 "xxxxx"
  VIETmisc.5099.desc:0 "xxxxx"
  VIETmisc.5099.a:0 "xxxxx"
-

@@ -9751,8 +9751,9 @@ VIETmisc.5062 = {
 			destroy_artifact = scope:VIET_clutter_artifact
 		}
 		stress_impact = {
-			zealous = miniscule_stress_impact_gain
+			#zealous = miniscule_stress_impact_gain
 			paranoid = miniscule_stress_impact_gain
+			content = miniscule_stress_impact_gain
 		}
 	}
 }

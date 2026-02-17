@@ -1658,5 +1658,16 @@ VIET_listened_to_saint_francis:0 "Прослушал проповедь с жи�
  VIET_strawberries_county:0 "Famous Strawberries"
  VIET_strawberries_county_desc:0 "Strawberries from this region are renowned for their quality."
  # Version 1.18.2 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
+ VIET_hired_falcators:0 "Hired Falcators"
+ VIET_hired_falcators_desc:0 "This character has hired some [Glossary( 'falcators', 'FALCATORS_GLOSS' )] to assist them with procuring feed for their horses."
+ VIET_confidence_in_horses:0 "Confidence in Horses"
+ VIET_caution_with_horses:0 "Caution with Horses"
+ VIET_learned_about_warhorse_rearing:0 "Learned about Rearing Warhorses"
+ VIET_experience_handling_young_horses:0 "Experience with Handling Young Horses"
+ VIET_did_not_do_horse_bloodletting:0 "Did Not Do Horse Bloodletting"
+ VIET_did_horse_bloodletting:0 "Recently Did Horse Bloodletting"
+ VIET_dreamt_of_ox_head_horse_face:0 "Dreamt of Ox-Head and Horse-Face"
+ VIET_dreamt_of_ox_head_horse_face_desc:0 "This character recently had a brief illness after dreaming of a visit by [Glossary( ' Ox-Head and Horse-Face', 'OX_HEAD_AND_HORSE_FACE_GLOSS' )]. Strangely, it wasn't an ominous dream; the two figures claimed they visited this character by accident, and would compensate them for the trouble with some fortune."
+ # Version 1.18.3 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  xxxxxxxxxx:0 "xxx"
 

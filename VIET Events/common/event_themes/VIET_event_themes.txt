@@ -265,6 +265,6 @@ VIET_theme_courtyard_generic = {
 		reference = "event:/SFX/Events/Themes/sfx_event_theme_type_activity"
 	}
 	background = {
-		reference = bp2_courtyard
+		reference = courtyard
 	}
 }

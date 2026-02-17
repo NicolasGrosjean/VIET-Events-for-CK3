@@ -150,7 +150,11 @@ VIET_coconut_cup_desc:0 "Una cáscara de coco utilizada como cuenco, elaboradame
 VIET_horse_armor_name:0 "Armadura de Caballo de Calidad"
 VIET_horse_armor_desc:0 "Elegante y duradera, bella y resistente, esta armadura de caballo [ROOT.Char.GetCulture.GetName] protege a un caballo de los peligros del mundo y además luce con estilo."
 # Version 1.16.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- # 52 Basic
+ # Version 1.18.2 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
+ VIET_lucky_horseshoe_name:0 "Lucky Horseshoe"
+ VIET_lucky_horseshoe_desc:0 "This [ROOT.Char.GetCulture.GetName] horseshoe is a lucky charm that is especially effective when placed above or besides an entrance or doorway. It is believed to protect its owner from evil spirits and misfortune, and bring them good luck."
+ # Version 1.18.3 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
+ # 53 Basic
 
  # RECIPE ARTIFACTS
  VIET_recipe_baklava_name:0 "Receta de baklava"

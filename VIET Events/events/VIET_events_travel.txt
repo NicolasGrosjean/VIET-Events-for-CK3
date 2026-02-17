@@ -6926,10 +6926,10 @@ VIETmisc.7062 = {
 			}
 		}
 		stress_impact = {
-			arrogant = miniscule_stress_loss_gain
-			brave = miniscule_stress_loss_gain
-			stubborn = miniscule_stress_loss_gain
-			content = miniscule_stress_loss_gain
+			arrogant = miniscule_stress_loss
+			brave = miniscule_stress_loss
+			stubborn = miniscule_stress_loss
+			content = miniscule_stress_loss
 		}
 	}
 	
@@ -6943,10 +6943,10 @@ VIETmisc.7062 = {
 			}
 		}
 		stress_impact = {
-			paranoid = miniscule_stress_loss_gain
-			diligent = miniscule_stress_loss_gain
-			humble = miniscule_stress_loss_gain
-			patient = miniscule_stress_loss_gain
+			paranoid = miniscule_stress_loss
+			diligent = miniscule_stress_loss
+			humble = miniscule_stress_loss
+			patient = miniscule_stress_loss
 		}
 	}
 
