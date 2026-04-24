@@ -306,10 +306,10 @@
  VIETmisc.7062.b: "Que cela nous serve de leçon pour être prudents avec nos chevaux."
  # Version 1.18.3 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  # Version 1.19.0 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
- VIETmisc.7063.t:0 "$travel_event_prefix$ Molehills"
- VIETmisc.7063.desc:0 "Up ahead, the road and nearby ground were covered in what looked like little mounds of dirt.\n\n“Molehills,” [traveler_1.GetFirstName] says glumly. “We should be careful, lest we stumble over them. Looks like the locals here in [ROOT.Char.GetCurrentLocation.GetName] have a #italic lot#! of moles to deal with.”\n\n“It’s possible they prefer having the molehills around,” [traveler_2.GetFirstName] suggests. “For farmers, it’s not a bad way to bring good soil up to the surface. You just let the moles do the dirty work, so to speak.”"
- VIETmisc.7063.a:0 "One should always watch out for these stupid pests."
- VIETmisc.7063.b:0 "Clever idea, using the dirt these moles dig up!"
+ VIETmisc.7063.t: "$travel_event_prefix$ Taupinières"
+ VIETmisc.7063.desc: "Devant nous, la route et le terrain avoisinant étaient couverts de ce qui ressemblait à de petits monticules de terre.\n\n"Des taupinières", dit [traveler_1.GetFirstName] d'un air morose. "Nous devrions faire attention à ne pas trébucher dessus. On dirait que les habitants de [ROOT.Char.GetCurrentLocation.GetName] ont #italic beaucoup#! de taupes à gérer."\n\n"Il est possible qu'ils préfèrent les taupinières", suggère [traveler_2.GetFirstName]. "Pour les agriculteurs, ce n'est pas un mauvais moyen de faire remonter de la bonne terre à la surface. Il suffit de laisser les taupes faire le sale boulot, pour ainsi dire.""
+ VIETmisc.7063.a: "Il faut toujours se méfier de ces stupides parasites."
+ VIETmisc.7063.b: "Une idée astucieuse, utiliser la terre que les taupes creusent !"
  # Version 1.19.1 Start Here - Note to Translators: please leave this comment here and do not remove it even in your versions of the loc
  VIETmisc.7064.t:0 "$travel_event_prefix$ xxxxx"
  VIETmisc.7064.desc:0 "xxxxx"
